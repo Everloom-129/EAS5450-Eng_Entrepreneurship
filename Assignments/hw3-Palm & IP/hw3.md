@@ -2,6 +2,7 @@
 - Tony Wang
 - Jan 28, 2025
 
+
 ## Question
 
 From Jeff Hawkins’ point of view, what are the advantages and disadvantages, if any, of the 
