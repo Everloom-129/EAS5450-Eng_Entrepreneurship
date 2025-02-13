@@ -56,9 +56,7 @@ should he use to make this decision?
 >   - **Validated Learning:** Dropbox conducted A/B tests and tracked metrics to optimize conversion rates and make data-driven decisions.
 >   - **Focus on Customer:** Dropbox prioritized a focus on customer needs over feature lists.
 >
-> - Hypotheses in Y Combinator Application (Exhibit 2)
->
->   :
+> - Hypotheses in Y Combinator Application (Exhibit 2):
 >
 >   - Hypothesis:
 >
@@ -99,15 +97,15 @@ should he use to make this decision?
 > - Assessment of Houston's Approach:
 >
 >   - **Strengths:**  Houston's approach was largely effective, as he used a combination of technical prowess, user feedback, and iterative development. He made the right call in focusing on the product and not making premature deals with distributors. He was also able to pivot when necessary, such as abandoning paid advertising.
->   - **Mistakes:**  The case mentions that he was too optimistic about the timeline for launching a commercial version. He also pursued partnerships that ultimately went nowhere, which wasted some time.
+>  - **Mistakes:**  The case mentions that he was too optimistic about the timeline for launching a commercial version. He also pursued partnerships that ultimately went nowhere, which wasted some time.
 >   - **Better Ways to Test Hypotheses:** It’s difficult to say there were “better” ways to test the hypotheses given the circumstances. A better process for partnerships might have helped to prevent wasted time. He might have considered doing more formalized market research with a representative sample of his target audience.
->
+> 
 > - It is also worth noting that Houston's hypothesis that Dropbox would have a commercial version within 8 weeks did not come to fruition, it took 18 months.
 >
 > **d. What marketing tactics did Houston use to drive adoption, and why did they appear to work? Why did paid advertising not work as well?**
 >
 > - Early Marketing Tactics:
->   - **Screencast Demo:** Houston created a three-minute demo video and posted it on Hacker News to recruit beta users and get feedback. This was effective because it reached a relevant audience and generated early interest.
+>  - **Screencast Demo:** Houston created a three-minute demo video and posted it on Hacker News to recruit beta users and get feedback. This was effective because it reached a relevant audience and generated early interest.
 >   - **Guerilla Marketing:** He posted another demo video on Digg, using "Easter eggs" to appeal to tech enthusiasts. This caused the video to go viral, driving a large increase in beta registrations.
 >   - **Referral Program:**  Dropbox implemented a two-sided referral program that incentivized both existing and new users with extra storage space. This program proved very effective in driving organic growth.
 > - Why these tactics worked:
@@ -117,18 +115,18 @@ should he use to make this decision?
 > - Why Paid Advertising Didn't Work:
 >   - **High Costs:** The cost per click for relevant search keywords was very high due to incumbents in the market. This made paid search advertising unsustainable.
 >   - **Lack of Demand:** Houston realized that people don't necessarily search for solutions to problems they don't realize they have, so they need to be shown the value. He noted, "Search is great for harvesting demand, not for creating it”.
->
+> 
 > **e. What contributed to the strategy of targeting individual users (consumer and business) with a single version?**
 >
 > - **Avoidance of Enterprise Sales:** Houston had negative experiences targeting enterprise customers at a previous job. He described enterprise decision cycles as endless, with lots of gatekeepers and no easy way to get certified or build references as a startup.
-> - **"Trojan Horse" Strategy:**  The company's strategy was to get individual users inside companies to adopt Dropbox without IT's permission. Once IT saw that Dropbox was in demand and working reliably, the hope was that the company would get certified for use across the company.
+>- **"Trojan Horse" Strategy:**  The company's strategy was to get individual users inside companies to adopt Dropbox without IT's permission. Once IT saw that Dropbox was in demand and working reliably, the hope was that the company would get certified for use across the company.
 > - **Simplicity:**  A single product made it easier to manage the development, marketing, and support processes. Houston believed that "deciding to offer a single product for consumers and business users was a big hurdle for us, and building a product that was compelling for both types of users was no small task".
 > - **Focus:**  By focusing on a single product, Dropbox could prioritize ease-of-use, reliability, and core features.
->
+> 
 > **f. At the end of the case, should Houston change Dropbox's product strategy to develop a separate version for small and medium-sized business (SMB) customers? What process should he use to make this decision?**
 >
 > - Considerations for SMB Version:
->   - **Market Demand:** There is some evidence that SMBs have a need for services like Dropbox. However, the market is fragmented and competitive.
+>  - **Market Demand:** There is some evidence that SMBs have a need for services like Dropbox. However, the market is fragmented and competitive.
 >   - **Carbonite's Example:** Carbonite launched Carbonite Pro specifically for SMBs, indicating a possible market opportunity. However, Carbonite was losing money with its high marketing spend.
 >   - **Potential Benefits:** A separate SMB version could offer features specific to business needs, such as administrative tools, external drive backups, and priority support. It could also help Dropbox tap into the larger SMB market.
 >   - **Risks:**  Developing a separate product could dilute focus and resources. It may lead to feature creep and make the service more complex, which is counter to Dropbox's core principles. It could also lead to increased costs in development and support.
@@ -139,7 +137,7 @@ should he use to make this decision?
 >   - **Experimentation:** Dropbox could initially experiment with a limited set of business-focused features to test their appeal before fully committing to a separate product. This approach would be consistent with its lean startup principles.
 >   - **Strategic Alignment:** Any changes in product strategy should align with Dropbox's long-term vision and core principles.
 >   - **Avoid feature creep:** Dropbox should remain cautious about implementing features that would compromise the ease-of-use that is central to its appeal.
->
+> 
 > In conclusion, Dropbox was able to succeed in a crowded market by focusing on a simple, reliable, and easy-to-use product that filled a gap in existing offerings. The company used lean startup principles, organic growth tactics, and a strong focus on user feedback to drive growth. The decision of whether to segment into an SMB offering requires more market research, cost-benefit analysis, and careful consideration of its impact on the company’s overall goals and resources.
 
 
@@ -152,15 +150,21 @@ should he use to make this decision?
 >
 > How did Dropbox mitigate their influences to achieve success?
 
+### Def of Four Cognitive Biases
 
-Entrepreneurs are susceptible to several cognitive biases that can impair their judgment and decision-making. These biases can lead to misinterpretations of feedback and poor choices regarding their ventures. According to the sources, some of the most relevant cognitive biases for entrepreneurs are:
 
-*   **Optimism Bias:** This bias is the tendency to overestimate the likelihood of positive events and underestimate negative ones. It can create a "reality distortion field," making entrepreneurs believe so fervently in their vision that they disregard disconfirming data. The source notes that entrepreneurs' confidence can be beneficial in obtaining resources and raising morale, but it can also warp perceptions.
-*   **Planning Fallacy:** A manifestation of the optimism bias, the planning fallacy is the tendency to underestimate the duration, costs, and risks of a task, while overestimating its benefits. The source gives the example of web startups typically taking 2-3 times longer than founders originally estimated to validate their market.
-*   **Confirmation Bias:** This bias reflects the tendency to look for, interpret, and remember information that validates existing beliefs, while neglecting contradictory evidence. It can lead entrepreneurs to design tests that return false positives.
-*   **Sunk Cost Fallacy**: This is when people continue to invest in a failing project because of the resources they have already put into it. This can make it difficult for entrepreneurs to pivot to a new business model, even when needed.
+According to Appendix D of 'Hypothesis-Driven Entrepreneurship', Entrepreneurs are susceptible to four cognitive biases that can impair our judgment and decision-makin, which lead to misinterpretations of feedback and poor choices about our ventures. Here is a series cognitive biases:
 
-According to the sources, **Dropbox** took several steps to mitigate the impact of these cognitive biases, which contributed to their success:
+*   **Optimism Bias:**  tendency to overestimate the likelihood of positive events and underestimate negative ones. It can create a "reality distortion field," making entrepreneurs believe so fervently in their vision that they disregard disconfirming data. Like Steve Jobs for Apple, entrepreneurs' confidence can be beneficial in obtaining resources and raising morale, but it also warp perceptions, leading risk decision without sense of real world feedback.
+*   **Planning Fallacy:** A manifestation of the optimism bias, it is the tendency to overestimate tasks' benefits, while underestimating the duration, costs, and risks. Startups typically taking 2-3 times longer than founders originally estimated to validate their market. Like Dropbox's case, it took 18 months instead of 2 months to ship the paid version product. 
+*   **Confirmation Bias:** This bias reflects the tendency to look for, interpret, and remember information that validates existing beliefs, while neglecting contradictory evidence. It can lead entrepreneurs to design MVP tests that return false positives.
+*   **Sunk Cost Fallacy**: People tend to continue investing in a failing project because of the resources already put into it. While its logic is flawed: a rational decision maker should focus only on a project's future expected benefits and future expected costs. This can make it difficult for entrepreneurs to pivot to a new business model.
+
+
+
+### How Dropbox mitigate them?
+
+In Dropbox case study, it took several steps to mitigate the impact of these cognitive biases, which contributed to their success:
 
 *   **Focus on Falsifiable Hypotheses:** Dropbox created falsifiable hypotheses and tracked performance against them. This helped them to remain objective and to recognize when their initial assumptions were incorrect. For example, they initially thought they could acquire customers through paid advertising, but testing disproved that hypothesis.
 *   **Minimum Viable Products (MVPs):** By launching early and often with MVPs, Dropbox was able to test its business model hypotheses with real customers in a real-world context, which gave them more reliable feedback than traditional market research. For example, Dropbox posted a video demo of their product to gather feedback before fully launching the product.
@@ -171,21 +175,6 @@ According to the sources, **Dropbox** took several steps to mitigate the impact 
 *   **Prioritization of User Experience:**  The company focused relentlessly on ease of use and reliability, which helped them acquire and retain users. They even noticed that they were getting requests for features they already had implemented, and this helped them improve their UX.
 
 By mitigating the impact of these cognitive biases, Dropbox was able to develop a product that met the needs of its users and achieve product-market fit, setting the stage for the company’s long-term growth and success.
-
-
-
-
-
-
-- Over estimate 
-
-  光轮效应
-
-  首因效应
-
-
-
-
 
 
 
