@@ -1,10 +1,12 @@
 # EAS5450 - Engineering Entrepreneurship
 
-![Business innovation concept](https://source.unsplash.com/featured/?entrepreneurship)
+<!-- ![Business innovation concept](https://source.unsplash.com/featured/?entrepreneurship) -->
 
-Welcome to the course repository for EAS5450 - Engineering Entrepreneurship. This repository contains all course materials, assignments, and resources.
+Hi! Here is Jie Wang's course blog for EAS5450 - Engineering Entrepreneurship. It is a collection of my notes and assignments, including the case study, essay, and presentation on many well-known companies and startups.
 
-## 📚 Course Materials
+I open source this blog for anyone who is interested in the course and share my thoughts and interests on startups. If you have any questions or suggestions, please feel free to contact me.
+
+## 📚 Course Content
 
 ### Assignments
 
@@ -16,7 +18,7 @@ Welcome to the course repository for EAS5450 - Engineering Entrepreneurship. Thi
 2. **The Winning Strategy** ([hw2](Assignments/hw2-The%20Winning%20Strategy/hw2.html))
    - Strategic planning and business development
    - Reference: Vermeer case study
-   ![strategy](index.asset/Stratgic%20Planning.webp)
+   <!-- ![strategy](index.asset/Stratgic%20Planning.webp) -->
 
 3. **Palm & IP** ([hw3](Assignments/hw3-Palm%20%26%20IP/hw3.html))
    - Intellectual property case study
@@ -24,53 +26,53 @@ Welcome to the course repository for EAS5450 - Engineering Entrepreneurship. Thi
      - [Case Study](Assignments/hw3-Palm%20%26%20IP/Case-PALM.html)
      - [Essay](Assignments/hw3-Palm%20%26%20IP/essay.html)
 
-![IP](index.asset/IP.webp)
-
-4. **Innovation & Sales Learning Curve** 
-   - Understanding sales dynamics in innovation
-   - Resources:
-     - [Learning Curve Analysis](Assignments/hw4-Innovation%20%26%20Sales%20Learning%20Curve/Learning%20Curve.html)
-     - [YC Clever Case Study](Assignments/hw4-Innovation%20%26%20Sales%20Learning%20Curve/Video-YC%20Clever.html)
-
-5. **Innovation Cash & Pilot** ([Essay](Assignments/hw5-Innovation%20Cash%20%26%20Pilot/essay.html))
-   - Financial aspects of innovation
-   - Focus on pilot programs and cash flow management
-
-6. **Customer Discovery** ([Essay](Assignments/hw6-Customer%20Discovery/essay.html))
-   - Market research and customer insights
-   - Harvard Business Review reference materials
-   ![customer](index.asset/Customer%20Discovery.webp)
+1. **Market Strategy** ([Essay](Assignments/hw8-MarketStrategy/essay.html))
+   - Pricing principles and market analysis
    
-### Course Notes
+2. **Business Model Canvas** 
+   - Dell case study and product development
 
-![Case Study and learning](index.asset/Case%20Study%20and%20Learning%20.webp)
+3. **Finance & Growth**
+   - [LinkedIn Case Study](Assignments/hw9-FinanceStrategy%26Linkdein/essay.html)
+   - Financial statements analysis
 
-- [HP Case Study](Notes/0121_case%20study-HP.html) (January 21)
-- [From Device to Complete Products](Notes/0123_From%20Device%20to%20Complete%20Products.html) (January 23)
-- [Early Adopter & Majority](Notes/0204_Early_Adopter%26Majority.html) (February 4)
-- [Benefit & Status Quo](Notes/0206-Benefit%26Status%20Quo.html) (February 6)
+### Customer & Product
+![customer](index.asset/Customer%20Discovery.webp)
 
-### Reading Materials
+1. **Customer Discovery** ([Essay](Assignments/hw6-Customer%20Discovery/essay.html))
+   - Market research methodology
+   - Customer validation process
 
-![Books and research](index.asset/Books%20and%20research.webp)
+2. **Lean Startup** ([Essay](Assignments/hw7-LeanStartup%20%26%20Dropbox/essay.html))
+   - Dropbox case study
+   - Lean methodology principles
 
+3. **Innovation Cash & Pilot** ([Essay](Assignments/hw5-Innovation%20Cash%20%26%20Pilot/essay.html))
+   - Pilot program management
+   - Cash flow strategies
+
+### Intellectual Property
+1. **Palm Computing Case Study** ([Essay](Assignments/hw3-Palm%20%26%20IP/hw3.html))
+   - [Detailed Case Analysis](Assignments/hw3-Palm%20%26%20IP/Case-PALM.html)
+   - [IP Strategy Essay](Assignments/hw3-Palm%20%26%20IP/essay.html)
+
+## 📝 Course Notes
+
+- [HP Case Study](Notes/0121_case%20study-HP.html)
+- [From Device to Complete Products](Notes/0123_From%20Device%20to%20Complete%20Products.html)
+- [Early Adopter & Majority](Notes/0204_Early_Adopter%26Majority.html)
+- [Benefit & Status Quo](Notes/0206-Benefit%26Status%20Quo.html)
+
+## 📖 Reading Materials
 Key readings include:
 - Louis Agassiz as a Teacher
 - The New Venture
 - IP & Strategy (Harvard)
 - Customer Discovery and Validation
 
-### Presentations
-
-![Business presentation](index.asset/Business%20Innovation.webp)
-
-Course presentations and lecture materials are available in the PPTs directory:
-- Introduction to Engineering Entrepreneurship
-
 ## 📄 Important Documents
-
-- [Course Syllabus (PDF)](EAS5450%20Syllabus.pdf)
-- [GitHub Open source License](LICENSE)
+- [Course Syllabus](EAS5450%20Syllabus.pdf)
+- [GitHub License](LICENSE)
 
 ---
 
