@@ -56,7 +56,7 @@ I open source this blog for anyone who is interested in the course and share my 
    - [Detailed Case Analysis](Assignments/hw3-Palm%20%26%20IP/Case-PALM.html)
    - [IP Strategy Essay](Assignments/hw3-Palm%20%26%20IP/essay.html)
 
-## 📝 Course Notes
+## 📝 Part of My Course Notes
 
 - [HP Case Study](Notes/0121_case%20study-HP.html)
 - [From Device to Complete Products](Notes/0123_From%20Device%20to%20Complete%20Products.html)
@@ -64,11 +64,7 @@ I open source this blog for anyone who is interested in the course and share my 
 - [Benefit & Status Quo](Notes/0206-Benefit%26Status%20Quo.html)
 
 ## 📖 Reading Materials
-Key readings include:
-- Louis Agassiz as a Teacher
-- The New Venture
-- IP & Strategy (Harvard)
-- Customer Discovery and Validation
+Please attend the course for more details.
 
 ## 📄 Important Documents
 - [Course Syllabus](EAS5450%20Syllabus.pdf)
