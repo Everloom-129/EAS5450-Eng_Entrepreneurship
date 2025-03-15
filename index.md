@@ -26,15 +26,31 @@ I open source this blog for anyone who is interested in the course and share my 
      - [Case Study](Assignments/hw3-Palm%20%26%20IP/Case-PALM.html)
      - [Essay](Assignments/hw3-Palm%20%26%20IP/essay.html)
 
-1. **Market Strategy** ([Essay](Assignments/hw8-MarketStrategy/essay.html))
-   - Pricing principles and market analysis
-   
-2. **Business Model Canvas** 
-   - Dell case study and product development
+4. **Innovation & Sales Learning Curve** 
+   - Innovation and sales strategy development
+   - Reading materials:
+     - [Innovation: Customer Driven Approach](Assignments/hw4-Innovation%20%26%20Sales%20Learning%20Curve/Innovation-Customer%20Driven%20Approach.pdf)
+     - [Harvard: The Sales Learning Curve](Assignments/hw4-Innovation%20%26%20Sales%20Learning%20Curve/Harvard-The%20Sales%20Learning%20Curve.pdf)
 
-3. **Finance & Growth**
+5. **Market Strategy** ([Essay](Assignments/hw8-MarketStrategy/essay.html))
+   - Pricing principles and market analysis
+   - Reading materials:
+     - [Harvard: Note on Market Strategy](Assignments/hw8-MarketStrategy/Harvard-Note%20on%20Market%20Strategy.pdf)
+     - [Harvard: Principles of Pricing](Assignments/hw8-MarketStrategy/Harvard-Principle%20of%20Pricing.pdf)
+   
+6. **Business Model Canvas** 
+   - Dell case study and product development
+   - Reading materials:
+     - [Harvard: An Interview with Dell](Assignments/hw10-Business%20Model%20Canvas,%20Dell/Harvard-An%20Interview%20with%20Dell.pdf)
+     - [Harvard: Product Development](Assignments/hw10-Business%20Model%20Canvas,%20Dell/Harvard%20Prod%20Devel.pdf)
+
+7. **Finance & Growth**
    - [LinkedIn Case Study](Assignments/hw9-FinanceStrategy%26Linkdein/essay.html)
    - Financial statements analysis
+   - Reading materials:
+     - [Guide to Understanding Financial Reports](Assignments/hw9-FinanceStrategy%26Linkdein/Guide%20To%20Understanding%20Financial%20Reports-1.pdf)
+     - [Part One: The Art of Finance](Assignments/hw9-FinanceStrategy%26Linkdein/Part%20One-%20The%20Art%20of%20Finance.pdf)
+     - [LinkedIn Case](Assignments/hw9-FinanceStrategy%26Linkdein/LinkedIn.pdf)
 
 ### Customer & Product
 ![customer](index.asset/Customer%20Discovery.webp)
@@ -42,10 +58,15 @@ I open source this blog for anyone who is interested in the course and share my 
 1. **Customer Discovery** ([Essay](Assignments/hw6-Customer%20Discovery/essay.html))
    - Market research methodology
    - Customer validation process
+   - Reading materials:
+     - [Harvard: Customer Discovery and Validation for Entrepreneurs](Assignments/hw6-Customer%20Discovery/Harvard-Customer%20Discovery%20and%20Validation%20for%20Entrepre.pdf)
 
 2. **Lean Startup** ([Essay](Assignments/hw7-LeanStartup%20%26%20Dropbox/essay.html))
    - Dropbox case study
    - Lean methodology principles
+   - Reading materials:
+     - [Harvard: Lean Startup](Assignments/hw7-LeanStartup%20%26%20Dropbox/Havard-Lean%20startup.pdf)
+     - [Harvard: Dropbox Case](Assignments/hw7-LeanStartup%20%26%20Dropbox/havard-dropbox.pdf)
 
 3. **Innovation Cash & Pilot** ([Essay](Assignments/hw5-Innovation%20Cash%20%26%20Pilot/essay.html))
    - Pilot program management
@@ -55,6 +76,30 @@ I open source this blog for anyone who is interested in the course and share my 
 1. **Palm Computing Case Study** ([Essay](Assignments/hw3-Palm%20%26%20IP/hw3.html))
    - [Detailed Case Analysis](Assignments/hw3-Palm%20%26%20IP/Case-PALM.html)
    - [IP Strategy Essay](Assignments/hw3-Palm%20%26%20IP/essay.html)
+
+### Startup Funding & Finance
+1. **Bootstrap Finance**
+   - Strategies for self-funding startups
+   - Reading materials:
+     - [Harvard: Bootstrap Finance](Assignments/hw11-Boostrap,%20FirstBucketofGold/Harvard-Bootstrap%20Finance.pdf)
+     - [Harvard: Raising Startup Capital](Assignments/hw11-Boostrap,%20FirstBucketofGold/Harvard-Raising%20Startup%20Captial.pdf)
+
+2. **Convertible Notes & SAFEs**
+   - Modern investment instruments for startups
+   - Reading materials:
+     - [Harvard: Convertible Notes on Seed Funding](Assignments/hw12-ConvertibleNotes,%20SAFEs/Harvard-Convertible%20Notes%20on%20Seed%20Funding.pdf)
+
+3. **Venture Capital Negotiations**
+   - VC term sheet evaluation
+   - Reading materials:
+     - [Harvard: You Can Negotiate with VC](Assignments/hw13-Negotiate%20with%20VC,%20EvalVCTerms/Harvard-You%20can%20Negotiate%20with%20VC.pdf)
+     - [Stanford: Evaluating VC Term Sheet](Assignments/hw13-Negotiate%20with%20VC,%20EvalVCTerms/Stanford-Evalutating%20VC%20Sheet.pdf)
+
+4. **IPO Process**
+   - Case study: Facebook
+   - Reading materials:
+     - [Harvard: IPO](Assignments/hw14-IPO,%20Facebook/Harvard-IPO.pdf)
+     - [IVEY: Case on Facebook](Assignments/hw14-IPO,%20Facebook/IVEY-Case%20on%20Facebook.pdf)
 
 ## 📝 Part of My Course Notes
 
