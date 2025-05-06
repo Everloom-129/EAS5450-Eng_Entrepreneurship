@@ -5,9 +5,6 @@ Jie Wang
 02/06/2025
 
 
-
-
-
 ### **a. What elements of the teachings of Peter Drucker, William Davidow, and Geoffrey Moore do you recognize in this article?**
 
 - **Peter Drucker:** His core belief that *the purpose of a business is to create a customer* is central to the article. It emphasizes that startups should not just focus on product development but also validate customer demand before scaling.
