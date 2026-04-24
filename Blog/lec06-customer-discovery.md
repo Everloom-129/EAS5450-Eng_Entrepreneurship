@@ -1,0 +1,58 @@
+# Lec 6: Customer Discovery — The Art of Asking the Right Questions
+
+*February 6, 2025*
+
+> Build-measure-learn only works if you know what you're measuring. Customer discovery is how you figure that out before you burn your runway.
+
+## The Big Picture
+
+Most engineering founders build products they would want to use. That's a great starting point and a terrible ending point. The gap between "I would use this" and "enough people will pay for this to build a business" is exactly what customer discovery is designed to close.
+
+This lecture covers the frameworks from Harvard's *Customer Discovery and Validation for Entrepreneurs* — a toolkit for figuring out whether your idea has a market before you've committed three years of your life to it.
+
+---
+
+## 3 Facts That Hit Different
+
+- **Lead users are already solving the problem themselves** — with duct tape, workarounds, and hacked-together tools. Finding these people is gold. They've already validated that the problem is painful enough to spend time on, and their DIY solutions tell you exactly what features matter.
+
+- **Focus groups are better at *disproving* demand than proving it.** Participants tend to say "yes" to hypothetical product ideas to be polite. The real signal comes when you ask them to pre-order or commit in writing. A Letter of Intent (LOI) from a potential customer is worth more than a hundred "I'd definitely buy that" responses.
+
+- **Conjoint analysis** — a quantitative method where customers make explicit trade-offs between product configurations — produces hard data on willingness to pay and feature priority. Unlike surveys, it forces real choices: "Would you pay $199 for Feature A, or $99 without it?" That trade-off reveals true preference, not stated preference.
+
+---
+
+## Q&A
+
+**Q: What do you actually need to learn from a potential customer?**
+
+Five things:
+1. **What problem do they have?** (Don't assume — listen)
+2. **Do they know they have it?** (If not, you have an education problem)
+3. **What are they using now?** (Your real competition is the status quo)
+4. **How do they discover and buy solutions?** (Your go-to-market is hidden here)
+5. **Will they pay?** (And how much — this is non-negotiable to learn early)
+
+The ordering matters. If you skip to question 5 before you've answered 1–4, you'll get garbage data.
+
+**Q: Who are "lead users" and why should you find them first?**
+
+Lead users are early adopters who face the problem you're solving more intensely than average users. They've often built their own partial solutions. They have a budget or authority to adopt something better. And critically — they're *willing to share feedback* because they actually want the problem solved.
+
+Geoffrey Moore would call these your first beachhead. Win them completely before thinking about the mainstream. Lead users give you the highest-signal feedback and often become your earliest evangelists.
+
+**Q: B2B or B2C — does customer discovery work the same way?**
+
+Not quite. In **B2C**, you're usually dealing with one or two decision-makers (the buyer and the user, often the same person). The path from awareness to purchase follows a Hierarchy of Effects: Unaware → Aware → Trial → Repeat.
+
+In **B2B**, there's a full **Buying Center** with distinct roles: Initiator, Gatekeeper, Influencer, Decider, Purchaser, User. Getting to the Decider without understanding who the Gatekeeper is will kill your deal. Enterprise sales is an exercise in organizational mapping as much as product selling.
+
+---
+
+## My Take
+
+Customer discovery is the part of entrepreneurship that feels most like doing science correctly. You form a hypothesis ("this customer segment has this problem"), design an experiment (customer interview, LOI, MVP), and update your beliefs based on evidence.
+
+The cognitive biases from the Lean Startup reading apply directly here: **optimism bias** makes you interpret weak signals as strong ones; **confirmation bias** makes you remember the customer who said "yes" and forget the five who hesitated. The fix is the same as it is in good research: pre-register your hypotheses, look for disconfirming evidence, and treat a customer who tells you "no" as more valuable than one who nods politely.
+
+In my own experience: the hardest part isn't asking questions — it's resisting the urge to pitch while you're supposed to be listening. The discovery interview is not a sales meeting. The moment you start selling, you stop learning.
