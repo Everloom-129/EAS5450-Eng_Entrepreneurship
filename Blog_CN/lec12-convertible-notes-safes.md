@@ -1,59 +1,59 @@
-# Lec 12: Convertible Notes & SAFEs — Seed Financing Without the Valuation Fight
+# 第12讲：可转换票据与SAFE -- 无需估值之争的种子融资
 
-*March 2025*
+*2025年3月*
 
-> Pricing a startup at seed stage is guesswork dressed in spreadsheets. Convertible notes and SAFEs are an honest acknowledgment of that fact.
+> 为种子阶段的初创公司定价，是穿着电子表格的猜测游戏。可转换票据和SAFE是对这一事实的诚实承认。
 
-## The Big Picture
+## 全局视角
 
-Before priced equity rounds, founders and investors had to agree on a valuation before writing a check. For a pre-revenue company with no customers and no product, this was like arguing about the price of a ghost. Convertible notes — and later SAFEs — solved this by kicking the valuation question down the road to Series A, when there's actual data.
+在股权定价轮之前，创始人和投资者必须在签支票之前就估值达成一致。对于一家没有客户、没有产品的前收入公司而言，这就像在争论一个幽灵的价格。可转换票据，以及后来的SAFE，通过将估值问题推迟到A轮（届时有实际数据）来解决这个问题。
 
-This is one of the most practically important lectures of the semester. If you're starting a company, you'll encounter these instruments within the first 12–18 months.
-
----
-
-## 3 Facts That Hit Different
-
-- **A SAFE has no maturity date and no interest**. A convertible note has both. This seemingly small difference is enormous: a convertible note that matures without a qualifying financing round can trigger insolvency (the note is technically due). A SAFE can sit indefinitely, giving founders more time without creating a ticking legal clock.
-
-- **The discount on conversion rewards early investors for risk**. A typical 20% discount means a seed investor who put in $100K converts at $0.80 per share when Series A investors pay $1.00. That 20% bonus compensates for investing when the risk was highest — before product-market fit, before revenue, before everything.
-
-- **Post-money SAFEs are founder-unfriendly relative to pre-money SAFEs** in one specific way: each SAFE's ownership is calculated independently, so multiple SAFEs stack up in a predictable way. But post-money SAFEs allow investors to know their *exact* ownership percentage at signing, which is actually more transparent for everyone — less surprise dilution at Series A.
+这是本学期最具实践价值的讲座之一。如果你在创业，你将在最初的12至18个月内遇到这些工具。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: What's the core difference between a convertible note and a SAFE?**
+- **SAFE没有到期日，也没有利息**；可转换票据两者都有。这个看似微小的差异意义重大：一张在没有合格融资轮的情况下到期的可转换票据可能引发技术性破产（票据在技术上已到期）。SAFE可以无限期存续，给创始人更多时间，不会制造滴答作响的法律时钟。
 
-| | Convertible Note | SAFE |
+- **转换时的折扣奖励早期投资者承担的风险**。典型的20%折扣意味着：种子投资者投入的10万美元将在A轮投资者支付1美元/股时以0.8美元/股转换。这20%的溢价补偿了在风险最高时投资的代价，彼时产品与市场契合、收入和一切都尚未出现。
+
+- **投后SAFE相较于投前SAFE在一个具体方面对创始人更不友好**：每张SAFE的所有权是独立计算的，因此多张SAFE的叠加是可预期的。但投后SAFE允许投资者在签署时就知道他们的*确切*所有权比例，这实际上对各方都更透明，减少了A轮时的意外稀释。
+
+---
+
+## 问答
+
+**问：可转换票据与SAFE的核心区别是什么？**
+
+| | 可转换票据 | SAFE |
 |---|---|---|
-| Instrument type | Debt | Equity |
-| Maturity date | Yes | No |
-| Interest | Yes (4–8%) | No |
-| Complexity | Higher | Lower |
-| Founder risk | Higher (maturity clock) | Lower |
+| 工具类型 | 债务 | 股权 |
+| 到期日 | 有 | 无 |
+| 利息 | 有（4%-8%） | 无 |
+| 复杂程度 | 较高 | 较低 |
+| 创始人风险 | 较高（到期时钟） | 较低 |
 
-The SAFE was invented by Y Combinator in 2013 specifically to reduce friction and legal cost in seed investing. For most early-stage startups today, SAFEs are the standard instrument.
+SAFE由Y Combinator于2013年发明，专门用于减少种子投资中的摩擦和法律成本。对于如今大多数早期初创公司而言，SAFE是标准工具。
 
-**Q: What is a valuation cap and why does it exist?**
+**问：什么是估值上限？为何它存在？**
 
-Imagine you raise $500K on a convertible note with a 20% discount but no cap. Your startup kills it — Series A comes at $100M valuation. Your seed investor's $500K converts at $80M (20% off $100M) — a 160x return on paper, but the dilution to founders is minimal because the entry price is still high.
+想象你以20%折扣但无上限的可转换票据融资50万美元。你的初创公司一飞冲天，A轮估值达到1亿美元。你的种子投资者的50万美元以8000万美元转换（1亿美元打八折），账面回报160倍，但对创始人的稀释极小，因为入场价格仍然很高。
 
-Now flip it: if there's a $5M cap, the seed investor converts as if the valuation were $5M — getting 10% of the company for $500K. Suddenly the early investor is *much* better protected.
+现在反过来看：如果有500万美元的上限，种子投资者将以500万美元估值转换，以50万美元获得公司10%的股份。早期投资者的保障突然大幅增加。
 
-The cap is the mechanism by which early investors get compensated for the *optionality* of investing before the company was proven. It converts a potential lottery ticket into a floor.
+上限是早期投资者获得补偿的机制，补偿的是在公司尚未得到验证之前投资的*期权价值*。它将潜在的彩票变成了下限保护。
 
-**Q: Why would a sophisticated VC prefer a priced round over a SAFE at seed?**
+**问：一个成熟的风险投资人为何会在种子阶段偏好定价轮而非SAFE？**
 
-Because VCs want to know exactly what they own. A SAFE is a promise of future equity — and if multiple SAFEs stack up before Series A, the dilution calculation gets complicated. A priced round defines ownership at the moment of investment. For VCs who may be writing larger checks ($2M+), the certainty of a priced round is worth the extra legal cost.
+因为风险投资人想知道他们确切拥有什么。SAFE是对未来股权的承诺，如果在A轮之前叠加了多张SAFE，稀释计算会变得复杂。定价轮在投资时就明确了所有权。对于可能签较大支票（200万美元以上）的风险投资人而言，定价轮的确定性值得额外的法律成本。
 
-That said, most seed-stage VCs today accept SAFEs precisely because the legal overhead of a priced round is disproportionate to the check size.
+话虽如此，大多数种子阶段的风险投资人如今接受SAFE，正是因为定价轮的法律开销与支票大小不成比例。
 
 ---
 
-## My Take
+## 我的感悟
 
-Convertible notes and SAFEs are elegant engineering solutions to a valuation uncertainty problem. Instead of forcing a premature decision, you create a contract whose key parameters (price per share) self-complete once more information is available. It's almost like a lazy evaluation pattern in functional programming — defer the computation until you have the inputs you need.
+可转换票据和SAFE是对估值不确定性问题的优雅工程解决方案。与其强迫做出过早的决定，不如创建一份关键参数（每股价格）在更多信息可用后自动完成的合同。这几乎像是函数式编程中的惰性求值模式：将计算推迟到你拥有所需输入的那一刻。
 
-The practical implication for me: if I'm raising a pre-seed round in the next few years, I'll default to post-money SAFEs unless a specific investor insists on a note. Less friction, no maturity date, and the math is cleaner. Save the legal fight for Series A, when there's actually something to fight over.
+对我的实际启示：如果我在未来几年内进行种子前融资，我会默认使用投后SAFE，除非特定投资者坚持使用票据。摩擦更少，没有到期日，数学更清晰。把法律之争留给A轮，届时才有真正值得争论的东西。

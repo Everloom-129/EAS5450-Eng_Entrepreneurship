@@ -1,54 +1,54 @@
-# Lec 1: The DNA of Innovation — How Great Entrepreneurs Are Wired
+# 第1讲：创新的DNA -- 伟大创业者的思维密码
 
-*January 20, 2025*
+*2025年1月20日*
 
-> Turns out, innovation is less a lightning bolt and more a muscle. And like any muscle, it can be trained.
+> 创新不是一道闪电，而是一块肌肉。与所有肌肉一样，它可以被训练。
 
-## The Big Picture
+## 全局视角
 
-What separates innovators from everyone else? It's not IQ. It's not luck. According to *The Innovator's DNA* by Dyer, Gregersen, and Christensen, it's a specific set of behavioral skills that visionary entrepreneurs consistently practice — and the good news is, they're learnable.
+什么区分了创新者与其他人？不是智商，不是运气。根据戴尔、格雷格森与克里斯滕森合著的《创新者的DNA》，答案是一套有远见的创业者持续实践的行为技能，而好消息是：这些技能是可以习得的。
 
-This first lecture sets the foundation for the entire course: why observing carefully, questioning constantly, and connecting dots across domains is the *actual* engineering of entrepreneurship. Louis Agassiz would agree.
-
----
-
-## 3 Facts That Hit Different
-
-- **Innovators spend 50% more time on discovery activities** — questioning, observing, experimenting, and networking — than typical executives. This came out of a 6-year study of over 3,000 executives and 500 entrepreneurs. The delta is not marginal. It's structural.
-
-- **Jeff Bezos, Steve Jobs, and Pierre Omidyar** were all studied as exemplary "associators" — people who connect seemingly unrelated ideas from different fields. Amazon, Apple, eBay: all born from connections across industries, not from within them.
-
-- **Peter Drucker's warning is still sharp today**: "A new business has no present — only a future." Most tech founders obsess over building the product but forget they also need to build the *business*. Drucker estimated that more ventures fail from lack of financial foresight and market focus than from bad technology.
+第一讲奠定了整门课程的基础：为何仔细观察、持续发问、跨领域连接，才是创业的真正"工程学"。路易·阿加西斯对此深以为然。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: What does Louis Agassiz have to do with entrepreneurship?**
+- **创新者在探索活动上花费的时间比普通高管多出50%**，包括发问、观察、实验和社交。这一结论来自对3000余名高管和500名创业者长达6年的研究。这个差距并非边际性的，而是结构性的。
 
-More than you'd think. Agassiz, a 19th-century Harvard naturalist, famously forced his students to stare at a dead fish — for *days* — without any guidance or hints. The point? Deep observation before conclusion. This maps directly to customer discovery: before you build anything, sit with the problem. Watch how people actually behave. Most founders skip this and pay for it later.
+- **杰夫·贝索斯、史蒂夫·乔布斯和皮埃尔·奥米迪亚**都被列为典型的"关联者"，即能够跨领域连接看似不相关想法的人。亚马逊、苹果、eBay无一例外地诞生于跨行业的思想连接，而非行业内部。
 
-**Q: What are the 5 Discovery Skills, and which one matters most?**
-
-The five are: **Associating, Questioning, Observing, Experimenting, and Networking.** They're interconnected — but Associating is the cognitive engine. It's what happens when your brain fires connections between disparate domains. Steve Jobs famously credited his calligraphy class at Reed College for the beautiful typography in the first Mac. You can't plan those connections. You can only make yourself more likely to have them by exposing yourself to diverse fields, people, and experiences.
-
-**Q: What are Drucker's 4 requirements for entrepreneurial management, and why do founders ignore them?**
-
-1. **Focus on the Market** — know your customer before your product.
-2. **Financial Planning** — cash flow kills more startups than competition.
-3. **Build a Management Team Early** — no founder can do it alone.
-4. **Personal Commitment** — your full energy, not a side project.
-
-Founders ignore them because these feel like "management problems" rather than "engineering problems." But Drucker is clear: you can't engineer a product into a company. You have to build both simultaneously.
+- **彼得·德鲁克的警告在今天依然振聋发聩**："新企业没有现在，只有未来。"大多数科技创始人痴迷于打磨产品，却忘记同时构建商业本身。德鲁克估计，更多创业失败源于缺乏财务远见和市场聚焦，而非技术不济。
 
 ---
 
-## My Take
+## 问答
 
-If I had to rank my own Discovery Skills right now — **Associating (4/5), Questioning (4/5), Observing (2/5), Experimenting (3/5), Networking (5/5)**. The weakest link is Observing — I tend to jump to building before I've fully understood the problem. This is essentially the same bug as confirmation bias in ML: you test the model on the distribution you assume, not the distribution that actually exists in the world.
+**问：路易·阿加西斯与创业有何关系？**
 
-The Agassiz principle is a reminder to sit with the fish longer. Entrepreneurs, like reinforcement learning agents, learn the most not from the reward signal, but from the environment they choose to explore.
+比你想象的更多。阿加西斯是19世纪哈佛博物学家，他曾让学生盯着一条死鱼看上几天，不给任何指引。重点何在？结论之前，先深度观察。这与客户发现直接对应：在构建任何东西之前，先沉浸在问题中，观察人们的真实行为。大多数创始人跳过了这一步，并为此付出代价。
 
-HP is the ultimate proof of Drucker's framework: market-first, pay-as-you-go finances, trust-based culture, and two founders fully committed to their vision. Not lucky — engineered.
+**问：五大发现技能是什么？哪一项最重要？**
 
-Three HP practices deserve direct callout. The **Next Bench Approach**: build for the engineer on the bench next to you — someone whose problems you understand because you share them. This is the earliest industrial form of user-centered design, and it forces product-market fit by construction. The **no me-too products** rule: every release needed a true advancement; shipping a copy of a competitor's product was a cultural violation, not just a strategic one. And **MBWA (Management by Walking Around)**: Packard and Hewlett treated floor-level observation as a live sensor network for detecting product-market drift before it became fatal. Every engineering lead who attends standups instead of just reading reports is running this same protocol.
+五大技能是：**关联、发问、观察、实验、社交**。它们相互关联，其中"关联"是认知引擎。史蒂夫·乔布斯曾将第一台Mac漂亮的字体排印归功于他在里德学院选修的书法课。你无法计划这些连接，只能通过接触多元领域、人物与经验，让自己更有可能产生这类连接。
+
+**问：德鲁克的四项创业管理要求是什么？为何创始人总是忽视它们？**
+
+1. **聚焦市场**：在了解产品之前，先了解客户。
+2. **财务规划**：现金流杀死初创公司的概率大于竞争对手。
+3. **尽早建立管理团队**：没有创始人能单打独斗。
+4. **个人承诺**：全力以赴，而非作为副业。
+
+创始人忽视它们，因为这些像是"管理问题"而非"工程问题"。但德鲁克说得很清楚：你无法将产品工程成一家公司，必须同时构建两者。
+
+---
+
+## 我的感悟
+
+如果现在对自己的发现技能打分：**关联（4/5）、发问（4/5）、观察（2/5）、实验（3/5）、社交（5/5）**。最薄弱的是观察，我倾向于在充分理解问题之前便急于动手。这与机器学习中的确认偏差如出一辙：在你假设的分布上测试模型，而非世界中真实存在的分布。
+
+阿加西斯原则提醒我们：多盯着那条鱼看一会儿。创业者与强化学习智能体相似，学习的关键不在于奖励信号，而在于他们选择探索的环境。
+
+HP是德鲁克框架的终极验证：市场优先、量入为出的财务、以信任为基础的文化，以及两位对愿景全力投入的创始人。这不是运气，而是工程。
+
+HP的三项实践值得特别点出。**邻桌法则**：为坐在你旁边的工程师构建产品，因为你们共享同样的问题，这是以用户为中心设计最早的工业形式，从结构上保证了产品与市场的契合。**无跟风产品**原则：每次发布必须带来真正的进步，照搬竞争对手的产品是对文化的违背，而不仅仅是战略上的失误。以及**走动式管理（MBWA）**：帕卡德与休利特将车间层面的观察视为实时传感网络，用以在产品与市场错位演变为致命问题之前加以发现。每一位参加站会而非只读报告的工程主管，都在运行同样的协议。

@@ -1,60 +1,60 @@
-# Lec 7: Lean Startup & Dropbox — Build Less, Learn More
+# 第7讲：精益创业与Dropbox -- 构建更少，学习更多
 
-*February 10, 2025*
+*2025年2月10日*
 
-> Drew Houston posted a 3-minute demo video of a product that didn't fully exist yet. Beta registrations went from 5,000 to 75,000 overnight. That's lean startup in one story.
+> 德鲁·霍斯顿发布了一段3分钟的演示视频，展示的是一个尚未完全存在的产品。测试版注册量一夜之间从5000增至75000。这就是精益创业的一个故事缩影。
 
-## The Big Picture
+## 全局视角
 
-Eric Ries' Lean Startup methodology sounds obvious in retrospect: don't build everything upfront, test your assumptions with real customers, iterate fast. But in 2007–2010, this was genuinely contrarian. Most startups were still operating on the "build it and they will come" model.
+埃里克·里斯的精益创业方法论事后听来显而易见：不要预先构建一切，用真实客户测试你的假设，快速迭代。但在2007至2010年，这确实是逆潮流而动。大多数初创公司仍在运行"建好了他们自然会来"的模式。
 
-Dropbox is the canonical lean startup story. Houston entered a crowded market — online backup and file sync — that big players like Microsoft, Google, and EMC were all watching. He won not by out-resourcing them, but by out-learning them.
-
----
-
-## 3 Facts That Hit Different
-
-- **Beta registrations jumped from 5,000 to 75,000 overnight** after Houston posted a demo video to Digg, embedding "Easter eggs" (tech jokes hidden in the video) that resonated with the hacker community. The product wasn't even fully built. The video was the MVP.
-
-- **Dropbox's referral program gave both referrer and new user extra storage** — a two-sided incentive. This single tactic made the product go viral. Cost per acquisition via paid search: ~$388. Cost via referral: near zero. Paid advertising was abandoned entirely after testing proved it unprofitable.
-
-- **It took 18 months** to ship a commercial version — not the 8 weeks Houston originally estimated. Planning fallacy is universal. The honest takeaway: Houston kept learning the whole time, which is why the eventual product was so much better than his original hypothesis.
+Dropbox是精益创业的经典故事。霍斯顿进入了一个竞争激烈的市场，微软、谷歌和EMC等大公司都在盯着在线备份和文件同步。他的胜利不是靠资源超越他们，而是靠学习速度超越他们。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: What are the four cognitive biases entrepreneurs must guard against, and how did Dropbox handle each?**
+- **测试版注册量在一夜之间从5000跳升至75000**，这发生在霍斯顿在Digg上发布演示视频之后，视频中埋藏了针对黑客社区的"彩蛋"（隐藏的技术玩笑）。产品甚至还没有完全构建好，视频本身就是最小可行产品。
 
-1. **Optimism Bias** — overestimating positive outcomes. Houston assumed 8 weeks to ship. Reality: 18 months. His mitigation: he focused on the learning, not the timeline. The delay made the product better.
+- **Dropbox的推荐计划为推荐人和新用户双方都提供额外存储空间**，双边激励。这一单一策略让产品实现了病毒式传播。通过付费搜索获客的单次成本约为388美元，通过推荐则近乎为零。经过测试证明无利可图后，付费广告被完全放弃。
 
-2. **Planning Fallacy** — underestimating costs and duration. Same story. Mitigation: MVPs and staged releases kept burn low even as timelines stretched.
-
-3. **Confirmation Bias** — seeking evidence that confirms your hypothesis. Dropbox ran A/B tests and tracked cohort data, which surfaced *disconfirming* evidence (paid ads don't work). They pivoted based on data, not conviction.
-
-4. **Sunk Cost Fallacy** — continuing a failing path because you've already invested. Dropbox killed paid advertising even after investing in it, because the data said no. Rational decision-making over emotional attachment.
-
-**Q: What hypotheses did Houston hold going into Y Combinator, and which ones proved wrong?**
-
-Houston's core hypotheses:
-- People will adopt a service that "just works" across devices → **Confirmed**
-- USB drives are the status quo we're replacing → **Confirmed**
-- A freemium model (1–2GB free, pay for more) will work → **Confirmed**, eventually adjusted to 2GB free
-- Paid advertising will drive acquisition → **Rejected** — CPC for storage keywords was too high and conversions too low
-- Commercial version ships in ~8 weeks → **Rejected** — took 18 months
-
-The YC application process itself was a forcing function for hypothesis clarity. You can't raise money without being able to articulate what you believe and what evidence you'd accept to change your mind.
-
-**Q: Should Dropbox have built a separate SMB version by mid-2010?**
-
-This is the classic "platform vs. product" tension. The argument for a separate SMB version: businesses have distinct needs (admin controls, audit logs, priority support) and higher willingness to pay. The argument against: splitting your engineering resources and your positioning is expensive, and Dropbox's competitive advantage was simplicity.
-
-The "Trojan Horse" strategy — let individuals adopt Dropbox inside companies without IT approval, until IT notices and formalizes it — was both more elegant and more aligned with Dropbox's core competency. It's also how Slack grew. Let the product speak for itself, then sell the organization after the individual has already validated it.
+- **商业版本花了18个月**才发布，远非霍斯顿最初估计的8周。规划谬误是普遍存在的。诚实的结论是：霍斯顿一直在学习，这就是为什么最终产品远比他最初的假设优秀。
 
 ---
 
-## My Take
+## 问答
 
-Dropbox's story maps almost exactly to what I've seen in research: the most productive path is usually not the fastest one. In drone racing, we ran hundreds of short experiments with toy environments before deploying a real policy — not because we were slow, but because each experiment was a targeted hypothesis test. Houston's 18-month "delay" was 18 months of structured learning.
+**问：创业者必须警惕的四种认知偏差是什么？Dropbox是如何应对每一种的？**
 
-The cognitive bias framing also hits hard. In robotics research, optimism bias and planning fallacy are standard-issue for grad students estimating how long it takes to get a robot to work. The fix isn't pessimism — it's better experimental design. Break the hypothesis into smaller, falsifiable pieces. Test the hardest assumption first.
+1. **乐观偏差**：过度估计积极结果。霍斯顿预计8周发货，实际花了18个月。他的应对方式：专注于学习，而非时间线。延误让产品变得更好。
+
+2. **规划谬误**：低估成本和时长。同样的故事。应对方式：最小可行产品和分阶段发布，即使时间线延长也保持低消耗。
+
+3. **确认偏差**：寻找证实假设的证据。Dropbox进行了A/B测试并追踪队列数据，这些数据呈现出*反证*（付费广告无效）。他们根据数据而非信念转向。
+
+4. **沉没成本谬误**：因为已经投入而继续失败的路径。Dropbox即便已经在付费广告上有所投入，也在数据说不的情况下果断放弃。理性决策超越情感依附。
+
+**问：霍斯顿进入Y Combinator时持有哪些假设？哪些被证明是错的？**
+
+霍斯顿的核心假设：
+- 人们会采用一种跨设备"无缝运行"的服务 -- **已确认**
+- USB驱动器是我们要替代的现状 -- **已确认**
+- 免费增值模式（1至2GB免费，更多需付费）会奏效 -- **已确认**，后来调整为2GB免费
+- 付费广告将推动获客 -- **已否定**，存储关键词的CPC过高且转化率过低
+- 商业版本约8周内发布 -- **已否定**，花了18个月
+
+YC申请过程本身就是一个迫使假设清晰化的机制。你无法在无法清楚表达你相信什么、以及你会接受什么证据来改变想法的情况下融到资。
+
+**问：到2010年中，Dropbox应该构建一个独立的中小企业版本吗？**
+
+这是经典的"平台还是产品"之争。支持独立SMB版本的理由：企业有不同的需求（管理员控制、审计日志、优先支持），且支付意愿更高。反对的理由：分散工程资源和定位成本高昂，而Dropbox的竞争优势正是简洁性。
+
+"特洛伊木马"策略更为优雅，也更契合Dropbox的核心竞争力：让个人在未经IT部门批准的情况下在公司内采用Dropbox，直到IT部门注意到并予以正式化。Slack也是这样成长的。让产品自己说话，然后在个人已经验证其价值后再向组织销售。
+
+---
+
+## 我的感悟
+
+Dropbox的故事几乎与我在研究中观察到的情况完全对应：最有成效的路径通常不是最快的。在无人机竞速中，我们在使用真实策略部署之前，用玩具环境运行了数百次短期实验，不是因为速度慢，而是因为每次实验都是一个有针对性的假设测试。霍斯顿18个月的"延误"是18个月的结构化学习。
+
+认知偏差框架也颇具冲击力。在机器人学研究中，乐观偏差和规划谬误是估计让机器人正常运作需要多长时间的研究生的标配。解决之道不是悲观，而是更好的实验设计：将假设分解为更小的可证伪部分，优先测试最难的假设。

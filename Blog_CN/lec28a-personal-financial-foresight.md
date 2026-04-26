@@ -1,76 +1,76 @@
-# Lec 28a: Personal Financial Foresight — Engineering Your Own Balance Sheet
+# 第28a讲：个人财务远见 -- 工程化你自己的资产负债表
 
-*April–May 2025*
+*2025年4月至5月*
 
-> You've spent this entire semester learning how to manage a company's finances. Now apply the same rigor to your own. Most engineers never do, and it costs them decades.
+> 你花了整整一个学期学习如何管理一家公司的财务。现在把同样的严谨性应用到你自己身上。大多数工程师从不这样做，而这让他们付出了数十年的代价。
 
-## The Big Picture
+## 全局视角
 
-This is the lecture that most entrepreneurship courses skip entirely — and the one that may have the most direct impact on your life. Personal financial foresight is the application of everything we've learned about cash flow, valuation, risk, and capital structure to your own financial situation.
+这是大多数创业课程完全跳过的讲座，也可能是对你生活影响最直接的一讲。个人财务远见是将我们学到的关于现金流、估值、风险和资本结构的一切，应用到你自己的财务状况上。
 
-The framing matters: think of yourself as a startup. You have a balance sheet (assets vs. liabilities), an income statement (income vs. expenses), a cash flow statement (actual money in vs. out), and a long-run strategy. Most people never look at their personal finances this way — they manage month-to-month, defer long-term thinking, and wonder why wealth doesn't accumulate.
-
----
-
-## 3 Facts That Hit Different
-
-- **The average American household has a net worth of ~$192,000** (Federal Reserve 2022). The median is ~$97,000. The gap between mean and median is driven by the extreme concentration of wealth at the top — the top 1% holds more wealth than the bottom 50% combined. Personal financial foresight is partly about understanding which trajectory you're on and making intentional choices about it.
-
-- **Compound interest works both ways.** A $10,000 credit card balance at 20% APR costs $2,000/year in interest — money that never comes back. That same $10,000 invested at 7% annual return (historical equity market average) grows to ~$76,000 in 30 years. The difference in outcome between these two scenarios over a career is staggering. The first financial priority for any young professional is eliminating high-interest debt.
-
-- **Equity compensation in startups is worth nothing until it's worth something** — and the tax implications of when and how you exercise options can change your outcome by hundreds of thousands of dollars. The difference between exercising ISOs early (Section 83b election, QSBS eligibility) vs. late (AMT exposure at exercise, ordinary income on spread) is the kind of decision that's irreversible once made. Most engineers at startups have no idea this decision is happening.
+框架很重要：把自己视为一家初创公司。你有资产负债表（资产与负债）、利润表（收入与支出）、现金流量表（实际流入与流出的金钱），以及长期战略。大多数人从不以这种方式看待个人财务，他们按月管理、推迟长期思考，然后纳闷财富为何不能积累。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: How should a young engineering professional think about their financial "balance sheet"?**
+- **美国普通家庭的净资产约为19.2万美元**（美联储2022年数据），中位数约为9.7万美元。均值与中位数之间的差距由顶层财富的极度集中所驱动，前1%持有的财富超过后50%的总和。个人财务远见的部分意义在于理解你处于哪条轨迹上，并对此做出有意识的选择。
 
-Assets (what you own):
-- Human capital: your skills, reputation, network — the engine of your future income
-- Financial capital: savings, investments, equity holdings
-- Real assets: home equity (if you own)
+- **复利双向起作用**。2万美元的信用卡余额以20%的年利率每年产生2000美元的利息，这笔钱永远回不来。同样的2万美元以历史股票市场平均7%的年回报率投资，在30年后增长到约15.2万美元。这两种情景在职业生涯中的结果差异是惊人的。任何年轻专业人士的第一优先是消灭高利率债务。
 
-Liabilities (what you owe):
-- Student loans
-- Credit card debt
-- Mortgage
-- Any other obligations
-
-**Net worth = Assets − Liabilities.** For most fresh graduates, this is negative (student debt). The goal of the next 5–10 years is to grow assets and shrink liabilities simultaneously. The lever that matters most is **human capital**: the return on investing in your skills and career often far exceeds the return on any financial instrument.
-
-**Q: What are the specific financial considerations unique to startup employees and founders?**
-
-Three things most startup people get wrong:
-
-1. **Equity vesting and cliff periods**: you don't own anything until the cliff (typically 1 year). Leaving before the cliff means leaving with nothing. Understanding this is table stakes for evaluating any startup offer.
-
-2. **ISO vs. NSO options**: Incentive Stock Options (ISOs) have favorable tax treatment but require careful handling. Non-Qualified Stock Options (NSOs) are simpler but taxed as ordinary income at exercise. The 83(b) election on restricted stock or early exercise can dramatically reduce your tax burden — but it has a 30-day window from grant.
-
-3. **Liquidity timeline**: startup equity may not be liquid for 5–10 years. Evaluate your personal cash flow needs over that period independently of your equity position. Don't count equity as spendable until it's actually liquid.
-
-**Q: What is the right savings and investment strategy for a graduate student or early-career engineer?**
-
-The principles are simple; the discipline is harder:
-
-1. **Maximize tax-advantaged accounts first**: 401(k) to employer match (free money), then HSA if eligible (triple tax advantage), then Roth IRA (tax-free growth), then taxable accounts.
-
-2. **Invest in low-cost index funds**: the research is clear — actively managed funds underperform index funds net of fees over long periods. A total market index fund (VTI, VTSAX) plus an international index plus a bond index covers the entire global market at minimal cost.
-
-3. **Emergency fund before investing**: 3–6 months of expenses in liquid savings. This is the buffer that keeps you from selling investments at the worst time or going into debt during unexpected events.
-
-4. **Treat your career investment as your highest-return asset**: in your 20s and 30s, the highest ROI decision is usually the next career move that accelerates your skill development and network — not the marginal optimization of your portfolio allocation. A career decision that increases your income by $30K/year is worth $900K over a 30-year career (not even accounting for compounding).
+- **初创公司的股权补偿在兑现之前一文不值**，而何时以何种方式行权的税务影响，可能改变你数十万美元的结果。提前行使激励股票期权（83(b)条款选择，QSBS资格）与晚些行使（行权时的替代性最低税，价差上的普通收入税）之间的差距，是一旦做出就不可逆的决策。初创公司的大多数工程师根本不知道这个决策正在发生。
 
 ---
 
-## My Take
+## 问答
 
-Personal financial foresight is the meta-skill of this entire course. Everything we've studied — cash flow management, capital efficiency, value creation vs. value capture — applies at the personal scale as well as the company scale.
+**问：年轻的工程师应该如何思考自己的财务"资产负债表"？**
 
-The specific insight I'm taking from this lecture: **equity compensation is the primary financial lever for engineers at startups**, and most people navigate it with zero knowledge of the relevant tax rules and timing decisions. I'm committing to understanding 83(b) elections, ISO vs. NSO distinctions, and QSBS eligibility before I join any startup, because those decisions have no do-overs.
+资产（你拥有的）：
+- 人力资本：你的技能、声誉、人脉网络，这是你未来收入的引擎
+- 金融资本：储蓄、投资、股权持有
+- 实物资产：房产净值（如果你有）
 
-More broadly: the engineering mindset — model the system, identify the constraints, optimize the controllable variables — is exactly the right approach to personal finance. Don't wing it. Build the model, stress-test the assumptions, and make intentional decisions with full information. That's engineering. It should be finance too.
+负债（你欠的）：
+- 学生贷款
+- 信用卡债务
+- 抵押贷款
+- 任何其他义务
+
+**净资产 = 资产 - 负债**。对大多数应届毕业生而言，这是负数（学生债务）。接下来5至10年的目标是同时增加资产和缩小负债。最重要的杠杆是**人力资本**：投资于你的技能和职业的回报，通常远超任何金融工具的回报。
+
+**问：对于初创公司员工和创始人来说，有哪些独特的财务考量？**
+
+大多数初创公司人员在三件事上犯错：
+
+1. **股权归属和断崖期**：在断崖期之前（通常为1年）你什么都不拥有。在断崖期之前离职意味着两手空空离开。理解这一点是评估任何初创公司offer的基本要求。
+
+2. **激励股票期权与非合格股票期权**：激励股票期权（ISO）有税务优惠，但需要谨慎处理。非合格股票期权（NSO）更简单，但在行权时按普通收入征税。限制性股票或早期行权的83(b)选择权声明可以大幅降低你的税负，但它有一个从授予之日起30天的窗口。
+
+3. **流动性时间线**：初创公司股权在5至10年内可能不具流动性。独立于股权状况评估你在该期间的个人现金流需求。在股权真正流动之前，不要将其视为可支配资金。
+
+**问：研究生或早期职业工程师的正确储蓄和投资策略是什么？**
+
+原则很简单；纪律更难：
+
+1. **首先最大化税收优惠账户**：401(k)达到雇主匹配（白得的钱），然后是HSA（如果符合条件，三重税收优惠），然后是Roth IRA（免税增长），然后是应税账户。
+
+2. **投资于低成本指数基金**：研究很清楚，主动管理型基金在扣除费用后长期跑输指数基金。一只全市场指数基金（VTI、VTSAX）加国际指数加债券指数，以最低成本覆盖了整个全球市场。
+
+3. **先建立应急资金，再投资**：3至6个月支出的流动储蓄。这是一个缓冲，防止你在最糟糕的时候抛售投资或在意外事件时陷入债务。
+
+4. **将职业投资视为你最高回报的资产**：在你20至30多岁时，最高投资回报率的决策通常是下一个加速你技能发展和人脉网络的职业举措，而非投资组合配置的边际优化。一个让你年收入提高3万美元的职业决策，在30年职业生涯中价值90万美元（还未考虑复利效应）。
 
 ---
 
-*This is the final lecture of EAS5450. The frameworks are in the notes. The cases are in the memory. What remains is applying them — in companies, in careers, and in life.*
+## 我的感悟
+
+个人财务远见是整门课程的元技能。我们研究的一切，现金流管理、资本效率、价值创造与价值捕获，在个人层面和公司层面都同样适用。
+
+我从这讲中获取的具体洞见：**股权补偿是初创公司工程师的主要财务杠杆**，而大多数人在没有任何相关税务规则和时机决策知识的情况下驾驭它。我承诺在加入任何初创公司之前了解83(b)选择权声明、激励股票期权与非合格股票期权的区别，以及QSBS资格，因为那些决策没有重来的机会。
+
+更广泛地说：工程师思维，建模系统、识别约束、优化可控变量，正是处理个人财务的正确方法。不要靠感觉。建立模型，压力测试假设，在完整信息下做出有意识的决策。这是工程学，它也应该是财务学。
+
+---
+
+*这是EAS5450的最后一讲。框架在笔记中，案例在记忆里。剩下的是应用它们，在公司、在职业生涯，以及在生活中。*

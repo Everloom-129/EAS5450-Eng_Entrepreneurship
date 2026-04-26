@@ -41,7 +41,7 @@ export default function Post() {
       {/* ── Top nav ── */}
       <nav className="post-nav">
         <button className="nav-back" onClick={() => navigate('/')}>
-          &#8592; Engineering Entrepreneurship
+          &#8592; {lang === 'cn' ? '工程创业学' : 'Engineering Entrepreneurship'}
         </button>
         <div className="nav-right">
           <button className="lang-toggle lang-toggle-post" onClick={toggleLang} aria-label="Switch language">
@@ -69,7 +69,7 @@ export default function Post() {
             <span>Jie Wang</span>
             {post.date && <><span className="dot">·</span><span>{post.date}</span></>}
             <span className="dot">·</span>
-            <span>{post.readingTime} min read</span>
+            <span>{post.readingTime} {lang === 'cn' ? '分钟阅读' : 'min read'}</span>
           </div>
         </div>
         <span className="hero-num" aria-hidden="true">{post.num}</span>
@@ -87,13 +87,13 @@ export default function Post() {
         <nav className="post-pagination">
           {prev ? (
             <button className="pag-btn pag-prev" onClick={() => navigate(`/post/${prev.slug}`)}>
-              <span className="pag-dir">← Previous</span>
+              <span className="pag-dir">{lang === 'cn' ? '← 上一篇' : '← Previous'}</span>
               <span className="pag-title">{prev.title}</span>
             </button>
           ) : <div />}
           {next ? (
             <button className="pag-btn pag-next" onClick={() => navigate(`/post/${next.slug}`)}>
-              <span className="pag-dir">Next →</span>
+              <span className="pag-dir">{lang === 'cn' ? '下一篇 →' : 'Next →'}</span>
               <span className="pag-title">{next.title}</span>
             </button>
           ) : <div />}

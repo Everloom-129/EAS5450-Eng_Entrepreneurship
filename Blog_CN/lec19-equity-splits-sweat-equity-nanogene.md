@@ -1,66 +1,66 @@
-# Lec 19: Equity Splits, Sweat Equity & NanoGene — The Most Important Conversation Founders Avoid
+# 第19讲：股权分配、汗水股权与NanoGene -- 创始人最不愿进行的对话
 
-*March–April 2025*
+*2025年3月至4月*
 
-> The equity split is the first design decision of a company. Get it wrong and every subsequent decision becomes harder. Get it right and you've set the foundation for trust between co-founders for years.
+> 股权分配是一家公司的第一个设计决策。做错了，此后每一个决策都会变得更难；做对了，你就为联合创始人之间多年的信任奠定了基础。
 
-## The Big Picture
+## 全局视角
 
-Every early-stage startup has this conversation — usually too late, usually under pressure, often badly. How do you divide ownership among co-founders? What happens when someone leaves? What is "sweat equity" actually worth, and how do you compensate advisors and early employees who aren't taking market salary?
+每家早期初创公司都会有这场对话，通常太晚，通常在压力之下，往往进行得很糟。如何在联合创始人之间分配所有权？有人离开时会发生什么？"汗水股权"实际上价值几何，如何补偿那些没有拿市场薪资的顾问和早期员工？
 
-Harvard's *Reward Dilemmas* and *The Very First Mistake Most Startup Founders Make* make a research-backed case: most founders split equity equally as a default, this is almost always wrong, and the consequences are a major source of co-founder conflict and startup failure.
+哈佛的《奖励困境》和《大多数初创创始人犯的第一个错误》以研究为基础论证：大多数创始人默认平均分配股权，这几乎总是错的，而其后果是联合创始人冲突和初创公司失败的重要来源。
 
-The NanoGene case brings this to life: a biotech startup navigating the exact dilemma of how to value different types of founder contribution — idea, IP, capital, and execution labor.
-
----
-
-## 3 Facts That Hit Different
-
-- **65% of high-potential startups fail due to co-founder conflict** — more than from bad products, bad markets, or bad funding. The equity split conversation is the #1 deferred bomb in early-stage companies. Avoiding it doesn't make it go away; it just means it explodes later, when more is at stake.
-
-- **Equal splits are the path of least resistance and often the worst outcome.** Research by Noam Wasserman (Harvard) shows that equal equity splits are typically decided in under a week — a sign they weren't carefully negotiated. Unequal splits, by contrast, reflect real analysis of differential contribution. The former breeds resentment when contributions diverge; the latter sets accurate expectations upfront.
-
-- **Vesting schedules are the safety mechanism** that most first-time founders miss. Standard Silicon Valley vesting: 4-year vest with a 1-year cliff. This means: if a co-founder leaves before year one, they get nothing. After one year, they've "earned" 25% of their grant. Then it vests monthly over the next three years. Without vesting, a co-founder who leaves on day 90 still owns 33% of your company forever.
+NanoGene案例将这一切具象化：一家生物技术初创公司，正在应对如何为不同类型的创始人贡献，包括想法、知识产权、资金和执行劳动，进行估值的确切困境。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: How should co-founders actually think about dividing equity?**
+- **65%的高潜力初创公司因联合创始人冲突而失败**，超过了因产品不佳、市场不佳或融资不佳而失败的数量。股权分配对话是早期公司中最常被推迟引爆的炸弹。回避它不会让它消失，只是意味着它会在赌注更高的时候爆炸。
 
-Not equally, unless the contributions are genuinely equal — and they rarely are. The factors to consider:
+- **平均分配是阻力最小的路径，往往是最糟糕的结果**。诺阿姆·瓦瑟曼（哈佛）的研究显示，平均分配股权通常在不到一周内就决定了，这是没有经过仔细谈判的标志。不平等分配则反映了对差异化贡献的真实分析。前者在贡献出现分歧时滋生怨恨；后者则从一开始就设定准确的预期。
 
-- **Idea**: contributes some value, but ideas are cheap; execution is expensive. Weight: 10–15%
-- **IP/Technology**: if one founder brought patented tech or a licensed algorithm, that's real asset value
-- **Domain expertise**: specific industry knowledge that's hard to hire for matters
-- **Capital contribution**: founders who invest personal money should be compensated via a lower valuation on their investment, not more equity
-- **Full-time commitment**: part-time contributors shouldn't have equal equity to full-time ones
-- **Future role**: who will be CEO? That role typically warrants a premium
-
-The right process: have this conversation on day one, use a framework (not a gut feeling), and put it in a founders' agreement before you do anything else together.
-
-**Q: What is "sweat equity" and how should it be valued?**
-
-Sweat equity is equity granted in exchange for services rendered at below-market compensation — or for deferred market-rate compensation that may never be paid. An engineer who takes $60K instead of $150K is providing $90K/year in deferred value; that deferred compensation can be converted into equity at the company's current valuation.
-
-The mechanics matter: if you grant equity for services without a proper 83(b) election and proper documentation, you may create a taxable event at exactly the wrong moment. Get a startup lawyer to structure this correctly from the beginning.
-
-**Q: What does the NanoGene case teach about equity in research-to-startup transitions?**
-
-NanoGene started as academic research — the founders were professors/researchers who invented the core technology at a university. The complications:
-
-- The university may own the IP (most do, via IP assignment agreements)
-- The faculty founder may have obligations to students/postdocs who contributed to the research
-- The timing of "when does the company start" affects who is a founder vs. who is an employee/consultant
-
-The key lesson: in any research-to-startup transition, the IP licensing agreement from the university is the founding document, not the incorporation paperwork. Clarify ownership of the core technology before any co-founder equity discussion begins.
+- **归属计划是大多数第一次创业者会遗漏的安全机制**。硅谷标准归属方式：4年归属，1年断崖。这意味着：如果联合创始人在第一年之前离开，他们什么都得不到；满一年后，他们"赚得"了25%的授予；然后在接下来三年内按月归属。没有归属计划，一个在第90天离开的联合创始人仍将永远拥有你公司33%的股权。
 
 ---
 
-## My Take
+## 问答
 
-This is the lecture that should be required for every PhD student who's ever thought about commercializing their research. The IP assignment question alone — who owns what you built in the lab — is something most grad students have never thought about, yet it determines whether their startup can even exist.
+**问：联合创始人实际上应该如何思考股权分配？**
 
-The sweat equity concept also maps directly to my situation. Taking a startup role at below-market salary is a financial bet. The equity has to be worth enough to make up for the income differential, adjusted for the probability of success (which is low) and the time to liquidity (which is long). The math is usually unfavorable unless you really believe in the mission and the team. That's why the team due diligence matters as much as the market due diligence.
+不要平均分配，除非贡献是真正相等的，而这种情况很少见。需要考虑的因素：
 
-Equal splits with vesting are better than unequal splits without vesting. But a carefully negotiated unequal split with proper vesting is the right answer. Have the uncomfortable conversation on day zero.
+- **想法**：有一些价值，但想法很廉价；执行才昂贵。权重：10%至15%
+- **知识产权/技术**：如果一位创始人带来了专利技术或授权算法，那是真实的资产价值
+- **领域专业知识**：难以雇到的特定行业知识很重要
+- **资金贡献**：投入个人资金的创始人应通过其投资的较低估值获得补偿，而非更多股权
+- **全职承诺**：兼职贡献者不应与全职人员享有相同股权
+- **未来角色**：谁将担任CEO？该角色通常值得溢价
+
+正确的流程：在第一天就进行这场对话，使用框架（而非直觉），在你们一起做任何其他事情之前先签署创始人协议。
+
+**问：什么是"汗水股权"？它应该如何估值？**
+
+汗水股权是以低于市场薪酬提供服务，或以可能永远不会支付的递延市场薪酬换取的股权。一位拿6万美元而非15万美元的工程师，每年提供了9万美元的递延价值；这笔递延薪酬可以按公司当前估值转换为股权。
+
+机制很重要：如果你在没有适当的83(b)选择权声明和适当文件的情况下为服务授予股权，你可能在最糟糕的时刻创造应税事件。从一开始就请初创公司律师正确设计这一结构。
+
+**问：NanoGene案例关于研究到初创公司过渡中的股权教会了我们什么？**
+
+NanoGene始于学术研究，创始人是在大学发明核心技术的教授/研究员。复杂之处在于：
+
+- 大学可能拥有知识产权（大多数大学通过知识产权转让协议确实拥有）
+- 教职创始人可能对参与研究的学生/博士后负有义务
+- "公司何时开始"的时间点影响谁是创始人，谁是员工/顾问
+
+关键教训：在任何研究到初创公司的过渡中，大学的知识产权许可协议才是创始文件，而非注册文件。在任何联合创始人股权讨论开始之前，先明确核心技术的所有权。
+
+---
+
+## 我的感悟
+
+这是那堂应该对每一位曾想过将研究成果商业化的博士生成为必修课的讲座。仅知识产权转让问题，即谁拥有你在实验室里构建的东西，就是大多数研究生从未想过的事情，但它决定了你的初创公司是否能够存在。
+
+汗水股权的概念也直接映射了我的处境。以低于市场薪酬加入初创公司是一个财务赌注。股权必须足够有价值，以弥补收入差距，根据成功概率（很低）和流动性时间（很长）进行调整。数学上通常是不利的，除非你真的相信使命和团队。这就是为何对团队的尽职调查与对市场的尽职调查同等重要。
+
+有归属计划的平均分配优于没有归属计划的不平等分配。但经过仔细谈判的不平等分配加上适当的归属计划才是正确答案。在第零天就进行那场不舒服的对话。

@@ -1,61 +1,61 @@
-# Lec 13: Negotiating with VCs & Evaluating Term Sheets — Know What You're Signing
+# 第13讲：与风险投资人谈判及评估条款清单 -- 知道你在签什么
 
-*March 2025*
+*2025年3月*
 
-> A term sheet is not a handshake. It's a blueprint for who controls the company, who gets paid first, and who gets nothing if things go sideways.
+> 条款清单不是握手协议，而是关于谁控制公司、谁优先获得分配、以及如果事情出问题谁颗粒无收的蓝图。
 
-## The Big Picture
+## 全局视角
 
-Most founders are so relieved to get a term sheet that they sign it without fully understanding what they agreed to. That's how you end up with a "successful" exit where the founders get $0 because liquidation preferences wiped out common equity.
+大多数创始人在拿到条款清单时如释重负，未经充分理解就签了字。这就是"成功"退出后创始人因为清算优先权消灭了普通股权益而分文未得的原因。
 
-This lecture covers the anatomy of a VC term sheet — the key economic and control provisions, what's negotiable, and what's standard. The Harvard reading *You Can Negotiate with VCs* confirms: more is negotiable than founders think, especially when there's competitive tension between multiple term sheets.
-
----
-
-## 3 Facts That Hit Different
-
-- **Liquidation preferences can wipe out founder returns entirely.** A 2x participating liquidation preference on a $10M Series A means the VC gets $20M back before any common shareholders see a dollar. If the company sells for $25M, the VC takes $20M and the remaining $5M is split among everyone else. Founders who raised at a $20M post-money valuation effectively got nothing.
-
-- **Anti-dilution provisions protect investors from down rounds.** Full-ratchet anti-dilution reprices all prior shares at the new, lower price — devastating for founders in a down round. Weighted-average anti-dilution is more founder-friendly and is now the market standard. Know the difference before you sign.
-
-- **Board composition is often more important than valuation.** A board with 3 seats: 2 investors, 1 founder means investors control every major decision — firing the CEO, approving acquisitions, pivoting the business. A 2-2-1 structure (2 founders, 2 investors, 1 independent) is meaningfully more balanced. This is the control provision most founders underestimate.
+本讲涵盖风险投资条款清单的结构，包括关键的经济和控制条款、哪些可以谈判、哪些是行业惯例。哈佛阅读材料《你可以与风险投资人谈判》证实：可谈判的空间比创始人想象的更大，尤其是当多份条款清单之间存在竞争张力时。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: What are the most important terms to negotiate in a Series A term sheet?**
+- **清算优先权可以完全抹去创始人的回报**。A轮1000万美元的2倍参与式清算优先权意味着风险投资人在任何普通股股东见到一分钱之前先拿回2000万美元。如果公司以2500万美元出售，风险投资人拿走2000万，剩余500万由所有人平分。在投后估值2000万美元时融资的创始人实际上颗粒无收。
 
-Ranked by practical impact:
+- **反稀释条款保护投资者免受下行轮的影响**。完全棘轮式反稀释以新的更低价格重新为所有之前的股份定价，在下行轮中对创始人具有毁灭性。加权平均反稀释对创始人更友好，现已成为市场标准。签字前了解其中的区别。
 
-1. **Liquidation preference structure** — 1x non-participating is standard. Anything above that is a red flag. "Participating preferred" means VCs double-dip: they get their preference *and* participate in upside as common shareholders.
-
-2. **Board composition** — fight hard for a balanced board, especially if this is your first institutional round. Once you give up board control, you may not get it back.
-
-3. **Anti-dilution clause** — weighted-average is standard. Full-ratchet is punitive and should be rejected.
-
-4. **Valuation (pre-money)** — obviously matters, but often founders over-optimize here at the expense of the provisions above. A higher valuation with a 3x participating preference is worse than a lower valuation with clean 1x non-participating.
-
-5. **Option pool** — VCs often require a large option pool to be created *pre-money* (before their investment), which dilutes founders, not investors. Negotiate the size down.
-
-**Q: When do you have leverage in a VC negotiation?**
-
-When you have **competitive term sheets** — multiple investors making offers simultaneously. This is the single most reliable source of negotiating leverage. The way to create competition: run a structured process, meet multiple firms in parallel, and create FOMO by being genuinely hard to get.
-
-Other sources of leverage: strong traction metrics (revenue growth, retention, engagement), a business where the VC *needs* your category to win their portfolio strategy, or a co-founder with deep industry credibility.
-
-**Q: What's the most common mistake founders make when evaluating a term sheet?**
-
-Anchoring on **valuation** while ignoring economic and control terms. A $20M pre-money valuation with 2x participating preference and full-ratchet anti-dilution is *worse* than a $15M pre-money with 1x non-participating and weighted-average protection. The headline number is the least predictive of actual founder outcome.
-
-Second mistake: not understanding the **cap table implications**. Model every term out to a realistic exit (3x, 5x, 10x revenue) and see what each party receives. The numbers will surprise you.
+- **董事会构成往往比估值更重要**。三席董事会：2名投资者、1名创始人，意味着投资者控制每一个重大决策，包括解雇CEO、批准收购和转变业务方向。2-2-1结构（2名创始人、2名投资者、1名独立人士）的平衡性明显更好。这是大多数创始人低估的控制条款。
 
 ---
 
-## My Take
+## 问答
 
-Term sheet negotiation is essentially a two-party optimization problem with asymmetric information — VCs have seen thousands of these; most founders have seen zero. The knowledge gap is real and consequential.
+**问：A轮条款清单中最重要的谈判条款是什么？**
 
-The best defense is education (this lecture) and advisors who've been through it. Before signing anything, get a lawyer who specializes in startup financing — not your family's estate attorney. The $10K in legal fees is the highest-ROI investment you'll make in the fundraising process.
+按实际影响排名：
 
-Personally, I think of control terms like system architecture: they determine what can be changed later. A bad board structure is like a bad API design — it's possible to work around, but the friction compounds over time. Get it right at the beginning.
+1. **清算优先权结构**：1倍非参与是惯例。超出此范围是危险信号。"参与式优先股"意味着风险投资人双重获益：他们既得到优先权，又作为普通股股东参与上行收益。
+
+2. **董事会构成**：为平衡董事会而努力争取，尤其是在你的首轮机构融资中。一旦失去董事会控制权，可能再也拿不回来。
+
+3. **反稀释条款**：加权平均是惯例。完全棘轮是惩罚性的，应予拒绝。
+
+4. **估值（投前）**：显然重要，但创始人往往在上述条款方面过度优化。高估值加3倍参与式优先权，比低估值加干净的1倍非参与式更糟糕。
+
+5. **期权池**：风险投资人通常要求在其投资*之前*（投前）创建大型期权池，稀释的是创始人而非投资者。将规模谈下来。
+
+**问：在与风险投资人的谈判中，你何时拥有筹码？**
+
+当你手握**竞争性条款清单**时，即多个投资者同时出价时。这是最可靠的单一谈判筹码来源。创造竞争的方式是：运行结构化流程，同步与多家机构会面，通过真正难以得到而制造紧迫感。
+
+其他筹码来源：强劲的牵引力指标（收入增长、留存率、参与度）、风险投资人*需要*你所在类别来赢得其投资组合战略的业务，或者在行业中拥有深厚信誉的联合创始人。
+
+**问：创始人在评估条款清单时最常犯的错误是什么？**
+
+锚定在**估值**上，同时忽视经济和控制条款。2000万美元的投前估值加2倍参与式优先权加完全棘轮反稀释，比1500万美元的投前估值加1倍非参与式加加权平均保护*更糟糕*。头条数字是对实际创始人结果预测能力最弱的指标。
+
+第二个错误：不理解**股权结构表的影响**。将每个条款推演至现实的退出情景（3倍、5倍、10倍收入），看看每一方拿到什么。这些数字会让你大吃一惊。
+
+---
+
+## 我的感悟
+
+条款清单谈判本质上是一个信息不对称的双方优化问题：风险投资人见过数千个这样的案例，而大多数创始人一个都没见过。知识鸿沟是真实存在的，后果也是真实的。
+
+最好的防御是教育（本讲）和见过这一切的顾问。在签任何东西之前，请一位专注于初创融资的律师，而不是你家人的遗产律师。1万美元的法律费用是整个融资过程中投资回报率最高的投入。
+
+就我个人而言，我把控制条款视为系统架构：它们决定了之后什么可以被改变。糟糕的董事会结构就像糟糕的API设计，可以变通应对，但摩擦会随时间复利累积。一开始就做对。

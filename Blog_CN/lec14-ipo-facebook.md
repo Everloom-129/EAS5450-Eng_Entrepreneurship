@@ -1,65 +1,65 @@
-# Lec 14: IPO & The Facebook Case — Going Public Is Not a Finish Line
+# 第14讲：IPO与Facebook案例 -- 上市不是终点线
 
-*March 5, 2025*
+*2025年3月5日*
 
-> Facebook's IPO raised $16 billion and was immediately called a disaster. The stock dropped 50% in the first three months. Then it became one of the greatest wealth-creation events in technology history. Timing and framing matter enormously.
+> Facebook的IPO融资160亿美元，却立即被称为一场灾难。股价在最初三个月下跌了50%。然后它成为科技史上最伟大的财富创造事件之一。时机与框架的作用不可低估。
 
-## The Big Picture
+## 全局视角
 
-An IPO — Initial Public Offering — is the process by which a private company sells shares to the public market for the first time. It's often portrayed as the ultimate startup success story. It's actually a financing event with significant costs, constraints, and risks.
+IPO（首次公开募股）是私人公司首次向公开市场出售股份的过程。它常被描绘为初创公司成功的终极象征，但实际上是一个具有重大成本、约束和风险的融资事件。
 
-The Facebook IPO of May 2012 is the best modern case study in how an IPO can go technically "right" (raised $16B, largest tech IPO at the time) while being perceived as a failure by the market — and then become a long-term triumph.
-
----
-
-## 3 Facts That Hit Different
-
-- **Facebook's IPO valued the company at over $100 billion** — roughly 100x trailing 12-month earnings and 26x trailing 12-month sales. By any traditional metric, this was expensive. Aswath Damodaran's DCF analysis suggested the stock was priced for perfection; one analyst called it the most overvalued major IPO in recent memory.
-
-- **85% of Facebook's revenue in 2011 came from advertising** — but the company had *no mobile ad product* at IPO time. Mobile was already 50%+ of usage and growing. This single gap was the most significant red flag in the prospectus, and it's the one most analysts missed.
-
-- **LinkedIn's IPO in 2011 saw its stock rise 109% on day one**, setting unrealistic expectations for the Facebook IPO a year later. When Facebook's stock dipped on opening day instead, the narrative became "failure" — even though the company raised $16B in cash at a valuation it would later justify many times over.
+2012年5月的Facebook IPO是最好的现代案例，展示了一次IPO如何在技术上"正确"（融资160亿美元，当时最大的科技IPO），却被市场视为失败，然后又成为长期的胜利。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: Why do companies go public, and what are the real costs?**
+- **Facebook的IPO将公司估值定在逾1000亿美元**，大约是过去12个月盈利的100倍和过去12个月销售额的26倍。按任何传统指标，这都很昂贵。阿斯沃斯·达莫达兰的DCF分析表明，股票定价已是完美预期；一位分析师称其为近期记忆中估值最高的重大IPO。
 
-**Reasons to go public:**
-- **Liquidity**: founders, employees, and early investors can sell shares
-- **Capital**: access to large amounts of growth financing
-- **Currency**: public stock can be used for acquisitions
-- **Visibility**: public status enhances brand credibility with customers and partners
+- **2011年Facebook 85%的收入来自广告**，但公司在IPO时*没有任何移动广告产品*。当时移动设备的使用量已超过50%且仍在增长。这个单一缺口是招股说明书中最重要的危险信号，也是大多数分析师错过的那一个。
 
-**Costs:**
-- **Fees**: underwriting fees alone can be 5–7% of proceeds; total legal/accounting costs often 10%+ of capital raised
-- **Disclosure**: everything is now public — financials, strategy, competitive position
-- **Short-termism**: public markets pressure quarterly earnings at the expense of long-term investment
-- **Lock-up expiration**: insiders are typically locked up for 6 months post-IPO; when the lock-up expires, a wave of selling can crater the stock
-
-**Q: What is the underwriter's role, and where do incentives misalign?**
-
-The underwriter (investment bank) manages the entire IPO process: pricing the offering, building a book of demand, allocating shares, and stabilizing the price post-offering. They earn a fee — typically 7% of proceeds.
-
-Here's the misalignment: underwriters have an incentive to *underprice* the offering. Why? Because underpriced shares mean big first-day "pops" — great for the institutional investors the bank allocated shares to, who get an immediate profit. Those investors then reward the bank with future business.
-
-From the company's perspective, a 20% first-day pop means they left 20% of the capital they could have raised on the table. The bank wins; the company loses. This is why companies like Direct Listings (Spotify, Palantir) and SPACs emerged as alternatives — they tried to cut out the underwriter's pricing advantage.
-
-**Q: Should you have invested in Facebook's IPO at $38/share?**
-
-At $38 with 100x earnings and no mobile monetization? Probably not on fundamentals. But Facebook proved that in platform businesses, the right question isn't "is this fairly valued today?" — it's "will this be dramatically more valuable in 5 years?"
-
-The mobile advertising problem was solved within 18 months of the IPO. By 2014, Facebook was generating more revenue from mobile than desktop. The investors who sold in the post-IPO crash and bought back in at $20–25 made multiples. The investors who held through the noise made even more.
-
-The lesson: IPO pricing is a short-term market clearing event, not a long-term value statement.
+- **LinkedIn在2011年的IPO首日股价上涨了109%**，为一年后的Facebook IPO设定了不切实际的预期。当Facebook的股票在开盘日反而下跌时，叙事变成了"失败"，尽管公司以未来将多次证实的估值融到了160亿美元现金。
 
 ---
 
-## My Take
+## 问答
 
-The Facebook IPO story is really a lesson in narrative vs. fundamentals. The narrative in May 2012 was "overhyped, overpriced, mobile problem." The fundamental reality was "one billion engaged users, dominant advertising platform, brilliant product team, facing a solvable technical problem." Narratives win short-term; fundamentals win long-term.
+**问：公司为何要上市？真实成本是什么？**
 
-For a technical founder thinking about going public someday: the IPO process is 6–12 months of intense management distraction, regulatory filings, investor roadshows, and legal scrutiny. It is not the destination — it's a transition from one form of capital market to another. The real work starts after the bell rings.
+**上市的原因：**
+- **流动性**：创始人、员工和早期投资者可以出售股份
+- **资本**：获得大量增长融资
+- **货币**：上市股票可用于收购
+- **曝光度**：上市地位提升了在客户和合作伙伴眼中的品牌公信力
 
-Zuckerberg's dual-class share structure (controlling 56% of votes with Class B shares) was controversial at IPO but proved prescient: it let him make bold long-term bets — Instagram acquisition, VR/metaverse pivot — without needing shareholder approval. Control is underrated.
+**成本：**
+- **费用**：仅承销费就可能占募集资金的5%至7%；法律和会计总成本往往超过募集资金的10%
+- **信息披露**：一切现在都是公开的，包括财务状况、战略和竞争地位
+- **短视主义**：公开市场以牺牲长期投资为代价施压季度盈利
+- **锁定期到期**：内部人士通常在IPO后锁定6个月；锁定期到期时，大量抛售可能重创股价
+
+**问：承销商的作用是什么？激励机制在哪里错位？**
+
+承销商（投资银行）管理整个IPO过程：为发行定价、建立需求账簿、分配股份，以及在发行后稳定价格。他们收取佣金，通常是募集资金的7%。
+
+问题在于：承销商有动机将发行*定价偏低*。为什么？因为被低估的股份意味着首日大涨，这对获得股份分配的机构投资者大有裨益，他们立即获利。这些投资者随后以未来的业务回报银行。
+
+从公司角度看，20%的首日涨幅意味着他们把本可融到的20%资金留在了桌上。银行赢了，公司输了。这就是为什么直接上市（Spotify、Palantir）和SPAC作为替代方案出现，它们试图去除承销商的定价优势。
+
+**问：你是否应该以38美元/股买入Facebook的IPO？**
+
+以38美元、100倍市盈率且没有移动变现能力？从基本面看，可能不应该。但Facebook证明，在平台型业务中，正确的问题不是"今天的定价是否合理"，而是"5年后这会否大幅升值"？
+
+移动广告问题在IPO后18个月内得到解决。到2014年，Facebook从移动端产生的收入超过了桌面端。在IPO后崩盘中卖出并在20至25美元买回的投资者获得了数倍收益。坚守的投资者赚得更多。
+
+教训：IPO定价是短期市场出清事件，而非长期价值声明。
+
+---
+
+## 我的感悟
+
+Facebook IPO的故事本质上是关于叙事与基本面之间张力的教训。2012年5月的叙事是"过度炒作、定价过高、移动端有问题"。基本现实是"十亿活跃用户、占主导地位的广告平台、出色的产品团队，面对一个可以解决的技术问题"。叙事在短期获胜；基本面在长期获胜。
+
+对于考虑将来上市的技术创始人而言：IPO过程是6至12个月的密集管理分心、监管申报、投资者路演和法律审查。这不是目的地，而是从一种资本市场形式到另一种形式的过渡。真正的工作在敲钟之后开始。
+
+扎克伯格的双重股权结构（通过B类股控制56%的投票权）在IPO时颇具争议，但事后证明是先见之明：它让他能够做出大胆的长期押注，比如收购Instagram和进军VR/元宇宙，而无需股东批准。控制权被低估了。

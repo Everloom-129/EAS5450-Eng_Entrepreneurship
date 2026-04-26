@@ -90,21 +90,38 @@ export default function Home() {
         </button>
         <div className="pub-header-inner">
           <img src={eentLogo} alt="EAS 5450 Logo" className="pub-logo" />
-          <p className="pub-eyebrow">EAS 5450 &nbsp;·&nbsp; Penn Engineering</p>
-          <h1 className="pub-title">Engineering<br />Entrepreneurship</h1>
+          <p className="pub-eyebrow">
+            {lang === 'cn' ? 'EAS 5450 · 宾夕法尼亚大学工程学院' : 'EAS 5450  ·  Penn Engineering'}
+          </p>
+          <h1 className="pub-title">
+            {lang === 'cn' ? <>工程<br />创业学</> : <>Engineering<br />Entrepreneurship</>}
+          </h1>
           <p className="pub-byline">
-            A course blog by{' '}
-            <a href="https://everloom-129.github.io/" target="_blank" rel="noopener noreferrer">
-              <img src={tomTonyImg} alt="Jie Wang" className="pub-avatar" />
-              <strong>Jie Wang</strong>
-            </a>
-            {' '}— case studies and notes on innovation,
-            strategy, finance, and leadership from 30 lectures.
+            {lang === 'cn' ? (
+              <>
+                课程博客，作者{' '}
+                <a href="https://everloom-129.github.io/" target="_blank" rel="noopener noreferrer">
+                  <img src={tomTonyImg} alt="王杰" className="pub-avatar" />
+                  <strong>王杰（Tony）</strong>
+                </a>
+                {' '}-- 涵盖创新、战略、财务与领导力的30讲案例笔记。
+              </>
+            ) : (
+              <>
+                A course blog by{' '}
+                <a href="https://everloom-129.github.io/" target="_blank" rel="noopener noreferrer">
+                  <img src={tomTonyImg} alt="Jie Wang" className="pub-avatar" />
+                  <strong>Jie Wang</strong>
+                </a>
+                {' '}— case studies and notes on innovation,
+                strategy, finance, and leadership from 30 lectures.
+              </>
+            )}
           </p>
           <div className="pub-stats">
-            <span>{posts.length} issues</span>
+            <span>{posts.length} {lang === 'cn' ? '篇' : 'issues'}</span>
             <span className="dot">·</span>
-            <span>Spring 2025</span>
+            <span>{lang === 'cn' ? '2025年春季' : 'Spring 2025'}</span>
             <span className="dot">·</span>
             <a
               href="https://www.linkedin.com/in/jie-wang-8ab93a266/"

@@ -1,68 +1,68 @@
-# Lec 27: Managers vs. Leaders — Which One Are You, and Does It Matter?
+# 第27讲：管理者与领导者 -- 你是哪一个？有关系吗？
 
-*April 29, 2025*
+*2025年4月29日*
 
-> Zaleznik's distinction cuts deep: managers want to preserve the system; leaders want to change it. Most organizations need both — and the best entrepreneurs know which mode to be in and when.
+> 扎勒兹尼克的区分切中要害：管理者想要维护系统；领导者想要改变系统。大多数组织两者都需要，而最优秀的创业者知道何时应处于哪种模式。
 
-## The Big Picture
+## 全局视角
 
-The final lecture of the semester brings together three lenses on leadership: Abraham Zaleznik's classic *Managers and Leaders: Are They Different?* (Harvard Business Review, 1977), Austin and Nolan's *Bridging the Gap Between Stewards and Creators*, and Schumpeter's theory of entrepreneurial leadership.
+学期的最后一讲汇集了三个领导力视角：亚伯拉罕·扎勒兹尼克的经典文章《管理者与领导者：他们不同吗？》（《哈佛商业评论》，1977年）、奥斯汀与诺兰的《弥合管家与创造者之间的鸿沟》，以及熊彼特关于创业领导力的理论。
 
-The synthesis: there are fundamentally two orientations to organizational life. Neither is universally superior. But knowing which you are — and which the moment requires — is essential for any engineering entrepreneur.
-
----
-
-## 3 Facts That Hit Different
-
-- **Zaleznik's 1977 HBR paper is one of the most reprinted in the journal's history** — nearly 50 years old and still taught in top business programs. Its durability is a testament to how precisely it describes a real and persistent tension in organizations.
-
-- **Joseph Schumpeter coined "creative destruction"** to describe how entrepreneurship disrupts existing economic structures — new products, new methods, new markets that make existing ones obsolete. His insight: the entrepreneur is not primarily a risk-taker but a *disruptor* — driven by the "joy of creating" rather than by expected financial return. The intrinsic motivation of building something new is the engine of capitalist innovation.
-
-- **Research shows that most organizations promote managers into leadership roles** — and then wonder why innovation stalls. The skills that make someone an excellent manager (systems thinking, risk mitigation, process optimization) are often in direct tension with leadership (vision, uncertainty tolerance, creative disruption). Promoting on past performance creates a leadership vacuum at exactly the moment the organization needs change.
+综合结论：对组织生活有两种根本不同的取向，两者都不是普遍优越的。但知道你是哪一种，以及时机需要哪一种，对于任何工程创业者来说都是必不可少的。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: What is Zaleznik's core distinction between managers and leaders?**
+- **扎勒兹尼克1977年的《哈佛商业评论》文章是该刊物历史上转载最多的文章之一**，将近50年后仍在顶级商学院课程中讲授。它的持久性证明了它对组织中一种真实且持久张力的精准描述。
 
-| | Managers | Leaders |
+- **约瑟夫·熊彼特创造了"创造性破坏"**这个词，用以描述创业如何破坏现有的经济结构：新产品、新方法、使现有事物过时的新市场。他的洞见是：创业者主要不是风险承担者，而是*破坏者*，由"创造的喜悦"而非预期的财务回报所驱动。构建新事物的内在动机是资本主义创新的引擎。
+
+- **研究表明，大多数组织将管理者晋升到领导岗位**，然后纳闷为何创新停滞。使人成为优秀管理者的技能（系统思维、风险缓解、流程优化）往往与领导力（愿景、不确定性承受力、创造性破坏）直接冲突。基于过去表现的晋升在组织最需要变革的时刻恰好制造了领导力真空。
+
+---
+
+## 问答
+
+**问：扎勒兹尼克对管理者与领导者的核心区分是什么？**
+
+| | 管理者 | 领导者 |
 |---|---|---|
-| Orientation | Processes, stability, efficiency | Vision, change, possibility |
-| Relationship to problems | Solve within existing constraints | Reframe the constraints |
-| Decision-making | Analytical, consensus-seeking | Intuitive, willing to disrupt |
-| Risk attitude | Risk mitigation | Tolerance for ambiguity |
-| Identity | Organizational role | Personal vision |
-| Time horizon | Short-term performance | Long-term transformation |
+| 取向 | 流程、稳定、效率 | 愿景、变革、可能性 |
+| 对问题的关系 | 在现有约束内解决 | 重新框架约束本身 |
+| 决策方式 | 分析性、寻求共识 | 直觉性、愿意颠覆 |
+| 风险态度 | 风险缓解 | 对模糊性的容忍 |
+| 身份认同 | 组织角色 | 个人愿景 |
+| 时间视野 | 短期绩效 | 长期转型 |
 
-Neither is inherently superior. A company needs great managers to execute — but it needs leaders to determine *what* to execute toward. The failure mode: an organization full of great managers with no leaders stagnates; an organization full of leaders with no managers produces brilliant chaos.
+两者本质上都不更优越。一家公司需要优秀的管理者来执行，但需要领导者来决定*向何处*执行。失败模式是：一个充满优秀管理者却没有领导者的组织会停滞；一个充满领导者却没有管理者的组织产生光辉灿烂的混乱。
 
-**Q: What does Schumpeterian leadership mean for an engineering entrepreneur?**
+**问：熊彼特式领导力对工程创业者意味着什么？**
 
-Schumpeter's entrepreneur is motivated not by stable returns but by the act of creation itself. The excitement is in building something that didn't exist, disrupting a market that was comfortable, and proving that a different configuration of resources and ideas can create more value than the current one.
+熊彼特的创业者不是被稳定的回报所激励，而是被创造行为本身所激励。兴奋在于构建一个之前不存在的东西，颠覆一个安于现状的市场，证明一种不同的资源和想法配置能够创造比现有更多的价值。
 
-For an engineering entrepreneur, this maps to the research mindset taken to commercial scale: you're not optimizing an existing process, you're proposing a new one. The entrepreneur and the researcher share the same fundamental drive — the conviction that the current state of the world is suboptimal and that you can make it better.
+对于工程创业者，这映射了被带到商业规模的研究思维：你不是在优化现有流程，而是在提出一个新的流程。创业者和研究者共享同样的根本驱动力，即相信世界的当前状态不是最优的，而你可以让它变得更好。
 
-The risk: Schumpeterian leaders can be intoxicating to follow but exhausting to work for. The joy of creating needs to be balanced with the discipline of building a system that can sustain the vision after the initial creative burst.
+风险在于：熊彼特式领导者令人着迷，但可能令人精疲力竭地为其工作。创造的喜悦需要与构建一个在初始创造性爆发之后能够维持愿景的系统的纪律相平衡。
 
-**Q: How should an engineering entrepreneur self-assess their leadership orientation — and build toward the mode they lack?**
+**问：工程创业者应该如何自我评估其领导取向，并建立其所缺乏的模式？**
 
-Start with what you do when everything is uncertain. Leaders lean into ambiguity — they find it energizing. Managers reduce ambiguity — through systems, clear milestones, and defined ownership. Neither instinct is wrong; you need both. But most people have a dominant mode, and most technical founders skew toward leader (high tolerance for ambiguity, hypothesis-driven, comfortable exploring before converging).
+从当一切都不确定时你做什么开始。领导者倾向于迎向模糊性，他们觉得这是激励人的。管理者减少模糊性，通过系统、清晰的里程碑和明确的所有权。两种本能都没有错，你两者都需要。但大多数人有一种主导模式，而大多数技术创始人倾向于领导者（对模糊性的高度容忍、以假设为驱动、在收敛之前乐于探索）。
 
-The practical gap for engineering founders is usually on the **manager side**: execution discipline, meeting cadence, accountability structures, and the ability to deliver results *through others* rather than through your own technical output. The bridge isn't suppressing your leadership instincts — it's deliberately building management skills around them.
+工程创始人通常实际缺口在**管理者**一侧：执行纪律、会议节奏、问责结构，以及通过*他人*而非通过自己的技术产出来交付结果的能力。弥合方式不是压制你的领导本能，而是刻意在其周围建立管理技能。
 
-One forcing function: take on a cross-functional coordination role before you start a company. Run a project where success depends entirely on people following through on commitments, not on your own technical ability. In research, this is the difference between being a solo researcher and a team lead. In industry, it's the tech lead or program manager role. That pressure — delivering through others — is where management instincts develop. Building this muscle early is the difference between a brilliant individual contributor and a founder who can turn a vision into an organization.
-
----
-
-## My Take
-
-This lecture lands differently at the end of a full semester of case studies. Looking back: every company we studied had a defining leadership moment — HP's Dave Packard building the HP Way, Hawkins' stubborn vision of the PalmPilot, Holmes' catastrophic leadership failure at Theranos, Collins' Level 5 leaders who built great companies through humility and will.
-
-The throughline: **leadership is a practice, not a trait**. It can be learned, developed, and situationally applied. The best engineering entrepreneurs are the ones who understand this and deliberately work on both dimensions — their technical expertise *and* their capacity to lead people through uncertainty toward a vision worth building.
-
-That's what this course has been about. Not just the frameworks and the case studies — but developing the judgment to know which tool to use, when, and why.
+一个强制函数：在你创业之前承担一个跨职能协调角色。运营一个成功完全依赖于他人按承诺执行的项目，而非取决于你自己的技术能力。在研究中，这是独立研究者与团队负责人之间的区别。在工业界，这是技术主管或项目经理角色。那种压力，即通过他人来交付成果，正是管理本能发展的地方。尽早培养这块肌肉，是才华横溢的个人贡献者与能够将愿景变为组织的创始人之间的区别。
 
 ---
 
-*And that's a wrap on EAS5450 — Engineering Entrepreneurship at Penn. 27 lectures, 28 case studies, one semester of frameworks that I plan to use for a lifetime. The course is over; the work is just beginning.*
+## 我的感悟
+
+这堂课在经历了一整个学期的案例研究之后，以不同的方式落地。回顾来看：我们研究的每一家公司都有一个决定性的领导力时刻，HP的戴夫·帕卡德构建"HP之道"、霍金斯对PalmPilot坚定的愿景、霍姆斯在Theranos的灾难性领导失误、科林斯的第五级领导者通过谦逊和意志构建伟大公司。
+
+贯穿始终的是：**领导力是一种实践，而非一种特质**。它可以被学习、发展，并根据情境应用。最优秀的工程创业者是那些理解这一点并刻意在两个维度上努力的人，既包括技术专业知识，也包括在不确定性中带领人们走向值得构建的愿景的能力。
+
+这就是这门课程的全部意义。不仅仅是框架和案例研究，而是培养判断力，知道该使用哪个工具、何时使用以及为何使用。
+
+---
+
+*EAS5450就此结束，宾大工程创业学。27讲，28个案例研究，一个学期的框架，我计划用上一生。课程结束了；工作才刚刚开始。*

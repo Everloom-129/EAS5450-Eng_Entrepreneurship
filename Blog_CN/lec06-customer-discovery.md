@@ -1,64 +1,64 @@
-# Lec 6: Customer Discovery — The Art of Asking the Right Questions
+# 第6讲：客户发现 -- 提问的艺术
 
-*February 6, 2025*
+*2025年2月6日*
 
-> Build-measure-learn only works if you know what you're measuring. Customer discovery is how you figure that out before you burn your runway.
+> 构建-测量-学习只有在你知道自己在测量什么时才有效。客户发现正是在你烧光现金跑道之前搞清楚这个问题的方法。
 
-## The Big Picture
+## 全局视角
 
-Most engineering founders build products they would want to use. That's a great starting point and a terrible ending point. The gap between "I would use this" and "enough people will pay for this to build a business" is exactly what customer discovery is designed to close.
+大多数工程师创始人构建他们自己想用的产品。这是一个很好的起点，却是一个糟糕的终点。"我会用这个"和"足够多的人会为此付费从而支撑一门生意"之间的差距，正是客户发现旨在弥合的。
 
-This lecture covers the frameworks from Harvard's *Customer Discovery and Validation for Entrepreneurs* — a toolkit for figuring out whether your idea has a market before you've committed three years of your life to it.
-
----
-
-## 3 Facts That Hit Different
-
-- **Lead users are already solving the problem themselves** — with duct tape, workarounds, and hacked-together tools. Finding these people is gold. They've already validated that the problem is painful enough to spend time on, and their DIY solutions tell you exactly what features matter.
-
-- **Focus groups are better at *disproving* demand than proving it.** Participants tend to say "yes" to hypothetical product ideas to be polite. The real signal comes when you ask them to pre-order or commit in writing. A Letter of Intent (LOI) from a potential customer is worth more than a hundred "I'd definitely buy that" responses.
-
-- **Conjoint analysis** — a quantitative method where customers make explicit trade-offs between product configurations — produces hard data on willingness to pay and feature priority. Unlike surveys, it forces real choices: "Would you pay $199 for Feature A, or $99 without it?" That trade-off reveals true preference, not stated preference.
+本讲涵盖哈佛《创业者的客户发现与验证》中的框架，这是一套在你投入三年人生之前判断你的想法是否有市场的工具包。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: What do you actually need to learn from a potential customer?**
+- **领先用户已经在自己解决这个问题**，用胶带、变通方案和临时拼凑的工具。找到这些人是金矿。他们已经验证了这个问题痛苦到值得花时间，而他们的自制解决方案正好告诉你哪些功能真正重要。
 
-Five things:
-1. **What problem do they have?** (Don't assume — listen)
-2. **Do they know they have it?** (If not, you have an education problem)
-3. **What are they using now?** (Your real competition is the status quo)
-4. **How do they discover and buy solutions?** (Your go-to-market is hidden here)
-5. **Will they pay?** (And how much — this is non-negotiable to learn early)
+- **焦点小组更擅长*证伪*需求，而非证实需求**。参与者倾向于对假设性产品说"是"，因为礼貌。真正的信号出现在你要求他们预购或书面承诺的时候。一份来自潜在客户的意向书（LOI）价值超过一百个"我肯定会买"的口头回应。
 
-The ordering matters. If you skip to question 5 before you've answered 1–4, you'll get garbage data.
-
-Question 3 deserves more depth. Understanding the status quo means mapping the **perceived losses** a customer would face by switching from it. These losses are: direct monetary cost, time and learning-curve investment, uncertainty that the new solution actually works, brand loyalty to an existing vendor, psychological affinity with familiar tools, and network viability (whether colleagues, partners, and integrations support the new thing). Customers don't just need a better product — they need a product good enough to overcome the aggregate of these losses. Knowing which losses are highest for your target segment shapes how you price (offset switching cost with a lower entry price), how you onboard (invest in a concierge setup to neutralize the learning curve), and what proof points you lead with in the pitch.
-
-**Q: Who are "lead users" and why should you find them first?**
-
-Lead users are early adopters who face the problem you're solving more intensely than average users. They've often built their own partial solutions. They have a budget or authority to adopt something better. And critically — they're *willing to share feedback* because they actually want the problem solved.
-
-Geoffrey Moore would call these your first beachhead. Win them completely before thinking about the mainstream. Lead users give you the highest-signal feedback and often become your earliest evangelists.
-
-**Q: B2B or B2C — does customer discovery work the same way?**
-
-Not quite. In **B2C**, you're usually dealing with one or two decision-makers (the buyer and the user, often the same person). The path from awareness to purchase follows a Hierarchy of Effects: Unaware → Aware → Trial → Repeat.
-
-In **B2B**, there's a full **Buying Center** with distinct roles: Initiator, Gatekeeper, Influencer, Decider, Purchaser, User. Getting to the Decider without understanding who the Gatekeeper is will kill your deal. Enterprise sales is an exercise in organizational mapping as much as product selling.
+- **联合分析**是一种定量方法，要求客户在不同产品配置之间做出明确权衡，从而产生关于支付意愿和功能优先级的硬数据。与调查问卷不同，它迫使真实的选择："你愿意花199美元买含功能A的版本，还是99美元买不含功能A的版本？"这种权衡揭示的是真实偏好，而非口头偏好。
 
 ---
 
-## My Take
+## 问答
 
-Customer discovery is the part of entrepreneurship that feels most like doing science correctly. You form a hypothesis ("this customer segment has this problem"), design an experiment (customer interview, LOI, MVP), and update your beliefs based on evidence.
+**问：从潜在客户那里你究竟需要了解什么？**
 
-The cognitive biases from the Lean Startup reading apply directly here: **optimism bias** makes you interpret weak signals as strong ones; **confirmation bias** makes you remember the customer who said "yes" and forget the five who hesitated. The fix is the same as it is in good research: pre-register your hypotheses, look for disconfirming evidence, and treat a customer who tells you "no" as more valuable than one who nods politely.
+五件事：
+1. **他们有什么问题？**（不要假设，要倾听）
+2. **他们知道自己有这个问题吗？**（如果不知道，你面临的是一个教育问题）
+3. **他们现在在用什么？**（你真正的竞争对手是现状）
+4. **他们如何发现和购买解决方案？**（你的市场进入策略就隐藏在这里）
+5. **他们会付钱吗？**（多少，这一点必须尽早搞清楚）
 
-One methodological note on conjoint analysis: when testing price sensitivity, **never present multiple price options to the same respondent in a list** (e.g., "A: $50, B: $100, C: $150"). People reliably choose the middle option — it's a psychological anchor artifact, not a demand signal. Instead, vary price only when at least one other attribute varies, and test price points across different respondents with matched demographic and business profiles. Then run a sensitivity test (p < 0.05) to understand which attributes actually move willingness to pay. Stated preferences are cheap; revealed trade-offs are expensive to collect but are the only data worth building strategy on.
+顺序至关重要。如果你在回答1至4之前就跳到第5个问题，你得到的将是垃圾数据。
 
-On AI-assisted discovery: LLM-based simulation tools (such as SimUser for mobile usability and USimAgent for search behavior) can generate usability feedback at scale without recruiting real users, covering roughly 60–80% of basic signal in early-stage prototyping. This is genuinely useful for moving fast. But AI simulation consistently misses the qualitative depth that drives real insight — the frustrated pause, the unexpected workaround, the thing the user does that no one on your team predicted. Use AI to iterate quickly; use real interviews to iterate correctly.
+第3个问题值得深入探讨。理解现状意味着梳理客户从现有方案切换时将面临的**感知损失**。这些损失包括：直接的货币成本、时间和学习曲线投入、对新方案是否真正有效的不确定性、对现有供应商的品牌忠诚、对熟悉工具的心理依赖，以及网络可行性（同事、合作伙伴和集成系统是否支持新方案）。客户不只是需要一个更好的产品，他们需要一个好到足以克服这些损失之总和的产品。了解哪些损失对你的目标细分市场最高，将影响你的定价方式（用较低的入门价格抵消切换成本）、引导方式（投资礼宾式引导以消除学习曲线），以及在推介中优先展示哪些证明点。
 
-In my own experience: the hardest part isn't asking questions — it's resisting the urge to pitch while you're supposed to be listening. The discovery interview is not a sales meeting. The moment you start selling, you stop learning.
+**问：谁是"领先用户"？为何要首先找到他们？**
+
+领先用户是比普通用户更强烈面对你所要解决问题的早期采用者。他们往往已经构建了自己的部分解决方案，有预算或权力采纳更好的方案，而且至关重要的是，他们*愿意分享反馈*，因为他们真的想解决这个问题。
+
+杰弗里·摩尔会称这些人为你的第一个滩头阵地。在考虑主流市场之前，先彻底赢得他们。领先用户给你最高信噪比的反馈，往往也成为你最早的布道者。
+
+**问：B2B还是B2C，客户发现的方式相同吗？**
+
+并不完全相同。在**B2C**中，你通常只需处理一两个决策者（购买者和用户，往往是同一个人）。从认知到购买的路径遵循"效果层次"：未认知 -- 认知 -- 试用 -- 重复购买。
+
+在**B2B**中，有一个完整的**采购中心**，包含不同角色：发起人、守门人、影响者、决策者、采购者、使用者。在不了解守门人是谁的情况下直接找到决策者会让你的交易泡汤。企业销售是一门组织图谱的艺术，与产品销售同等重要。
+
+---
+
+## 我的感悟
+
+客户发现是创业中感觉最像正确做科学的部分。你形成一个假设（"这个客户细分市场有这个问题"），设计一个实验（客户访谈、意向书、最小可行产品），然后根据证据更新你的判断。
+
+精益创业阅读材料中的认知偏差在这里直接适用：**乐观偏差**让你将弱信号解读为强信号；**确认偏差**让你记住那个说"是"的客户，却忘记了那五个犹豫不决的客户。解决方法与优秀研究中的方法相同：预先登记你的假设，寻找反证，并将告诉你"不"的客户视为比礼貌点头的客户更有价值。
+
+关于联合分析的一个方法论提示：测试价格敏感性时，**永远不要以列表形式向同一受访者呈现多个价格选项**（例如"A：50美元，B：100美元，C：150美元"）。人们会可靠地选择中间选项，这是心理锚定效应，而非需求信号。应该只在至少有一个其他属性同时变化时调整价格，并在不同受访者中测试价格点（匹配人口统计和商业特征）。然后运行敏感性测试（p < 0.05）以了解哪些属性真正影响支付意愿。口头偏好廉价；揭示的权衡收集成本高，却是唯一值得据此制定战略的数据。
+
+关于AI辅助发现：基于大语言模型的模拟工具（如SimUser和USimAgent）可以大规模生成可用性反馈，而无需招募真实用户，在早期原型阶段大约能覆盖60%至80%的基础信号，对快速推进确实有用。但AI模拟始终缺失驱动真实洞察的定性深度：那个沮丧的停顿、意外的变通方法、用户做了团队中没人预料到的事情。用AI快速迭代，用真实访谈正确迭代。
+
+就我自身经历而言：最难的不是提问，而是在本应倾听时克制住推销的冲动。发现访谈不是销售会议。你一旦开始销售，就停止了学习。

@@ -1,67 +1,67 @@
-# Lec 11: Venture Finance & Bootstrapping — The First Bucket of Gold
+# 第11讲：风险融资与自力更生 -- 第一桶金
 
-*February–March 2025*
+*2025年2月至3月*
 
-> The hardest money to raise is the first money. Not because investors are stingy — but because at the seed stage, you're asking someone to bet on a person, not a product.
+> 最难募集的钱是第一笔钱。不是因为投资者吝啬，而是在种子阶段，你在请人押注的是一个人，而非一款产品。
 
-## The Big Picture
+## 全局视角
 
-Two very different paths to startup capital: **bootstrapping** (self-funding from revenue) and **venture financing** (external equity investment). Neither is universally better. The choice depends on your market dynamics, your growth rate requirements, and how much control you want to keep.
+通向创业资本的两条截然不同的路径：**自力更生**（靠营收自筹资金）和**风险融资**（外部股权投资）。两者都不是普遍意义上更好的选择，取决于你的市场动态、增长速度要求，以及你希望保留多少控制权。
 
-Harvard's *Bootstrap Finance* makes the case that many companies — particularly services businesses and slow-growth markets — are better served by bootstrapping than by taking VC money too early. But for technology startups in winner-take-most markets, the calculus often flips.
-
----
-
-## 3 Facts That Hit Different
-
-- **Most VC-backed startups fail to return capital** to their investors. The top 10–20 deals in a fund's portfolio often account for 100%+ of returns, with the rest a wash or a loss. This power-law dynamic means VCs need moonshots — they will push you toward aggressive growth even when it's premature.
-
-- **Bootstrapped companies retain 100% ownership** — which means if you sell for $10M, you keep $10M (minus taxes). A VC-backed company that raises $5M at a $10M post-money valuation and sells for $50M might net its founders only $15–20M after dilution, preferences, and option pool payouts. The math of dilution is brutal and compounding.
-
-- **The "first bucket of gold" principle**: the hardest fundraise is your first. Once you have one credible investor or customer, subsequent ones follow much more easily. Social proof compounds. This is why Letters of Intent from customers — even non-binding ones — are so valuable in early fundraising: they break the chicken-and-egg problem.
+哈佛的《自力更生融资》一文论证：许多公司，尤其是服务型企业和慢增长市场中的公司，靠自力更生的效果优于过早接受风险投资。但对于处于赢者通吃市场中的科技初创公司，这一逻辑往往反转。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: When should a startup bootstrap vs. raise venture capital?**
+- **大多数风险投资支持的初创公司未能为投资者回收本金**。一个基金投资组合中的前10至20笔交易往往贡献了超过100%的回报，其余要么持平要么亏损。这种幂律动态意味着风险投资人需要登月级别的押注，他们会推动你激进增长，即便时机尚未成熟。
 
-Bootstrap if:
-- Your market grows at a predictable rate and winner-take-most dynamics don't apply
-- You can reach profitability on early customer revenue
-- You want to retain control and build long-term
+- **自力更生的公司保留100%所有权**，这意味着如果你以1000万美元出售，你拿走1000万（扣税后）。一家融资500万美元、投后估值1000万美元的风险投资支持公司，以5000万美元出售后，扣除稀释、优先权和期权池分配，创始人可能只拿到1500至2000万美元。稀释的算术残酷且具有复利效应。
 
-Raise VC if:
-- Speed to scale is a critical competitive moat (network effects, data moats)
-- Capital intensity is high (hardware, biotech, infrastructure)
-- You're in a market where being second means zero
-
-The key question: does your competitive position *require* more capital than you can generate from early revenue? If yes, VC is likely necessary. If no, think hard before giving up equity.
-
-**Q: What does the venture financing structure actually look like at seed stage?**
-
-At seed, the most common instruments are **convertible notes** and **SAFEs** (Simple Agreements for Future Equity). Both delay the valuation conversation to the Series A. Key terms:
-
-- **Discount rate**: converts at a lower price than Series A investors pay — typically 15–25%
-- **Valuation cap**: maximum valuation at which the note converts, protecting early investors if the company 10x's before the A
-- **Interest** (notes only): typically 4–8% annually, accrues and converts with principal
-
-The advantage for founders: you raise money faster, with fewer legal fees, without having to fight over valuation before you have traction data.
-
-**Q: What makes an investor credible and worth taking money from, beyond the check size?**
-
-**Smart money vs. dumb money** is a real distinction. A check from a domain expert, a strategic connector, or a proven operator is worth multiples of the same dollar amount from a passive investor. Ask:
-
-1. Have they helped portfolio companies with introductions, hiring, pivots?
-2. Do they have operational experience in your industry?
-3. Are they adversarial in hard times or supportive?
-
-The worst investors are ones who push growth before you have product-market fit and then abandon you when growth slows. The best investors act like board members even before they have a seat.
+- **"第一桶金"原则**：最难的融资是你的第一笔。一旦你有了一位有信誉的投资者或客户，后续的人就容易得多了。社会证明具有复利效应。这就是为何来自客户的意向书，即便是非约束性的，在早期融资中如此宝贵：它打破了先有鸡还是先有蛋的僵局。
 
 ---
 
-## My Take
+## 问答
 
-The bootstrap vs. VC decision is one I think about in the context of academic research too. A well-funded lab with no product-market constraint can explore freely — that's bootstrapping at a small scale. A VC-backed lab equivalent is one with a specific deliverable, a timeline, and an investor who wants results. Both modes produce different kinds of work.
+**问：初创公司何时应该自力更生，何时应该融风险投资？**
 
-For my own eventual startup: I'd bootstrap as long as possible to retain control and validate the core hypothesis without external pressure. Then raise when I have clear evidence that capital is the binding constraint on growth — not unclear product-market fit dressed up as a funding problem.
+自力更生的情况：
+- 你的市场以可预期的速度增长，且赢者通吃的动态不适用
+- 你可以靠早期客户收入达到盈利
+- 你想保留控制权并长期构建
+
+融风险投资的情况：
+- 快速扩展是关键竞争护城河（网络效应、数据护城河）
+- 资本密集度高（硬件、生物技术、基础设施）
+- 你处于第二名意味着零的市场
+
+关键问题是：你的竞争地位*是否需要*超出早期收入所能产生的资本？如果是，风险投资可能是必要的。如果不是，在放弃股权之前请仔细思考。
+
+**问：种子阶段的风险融资结构实际上是什么样的？**
+
+在种子阶段，最常见的工具是**可转换票据**和**SAFE**（未来股权简单协议）。两者都将估值讨论推迟到A轮，届时将有实际数据。关键条款：
+
+- **折扣率**：以低于A轮投资者支付价格的价格转换，通常为15%至25%
+- **估值上限**：票据转换时的最高估值，保护早期投资者免受公司在A轮之前10倍增值的影响
+- **利息**（仅限票据）：通常每年4%至8%，与本金一起累计并转换
+
+对创始人的优势：融资更快，法律费用更少，无需在获得牵引力数据之前就争论估值。
+
+**问：除了支票大小之外，什么使投资者可信且值得接受资金？**
+
+**聪明钱与哑钱**的区别是真实存在的。来自领域专家、战略连接者或经验丰富的运营者的资金，价值是同等金额被动投资者的数倍。追问：
+
+1. 他们是否在介绍、招聘、转型等方面帮助过被投公司？
+2. 他们在你的行业是否有运营经验？
+3. 在艰难时刻他们是对抗性的还是支持性的？
+
+最糟糕的投资者是在你获得产品与市场契合之前就推动增长，然后在增长放缓时抛弃你的人。最好的投资者即便在获得董事会席位之前就像董事会成员一样行事。
+
+---
+
+## 我的感悟
+
+自力更生与风险投资的决策是我也会在学术研究背景下思考的问题。没有产品与市场约束的资金充足实验室可以自由探索，这是小规模的自力更生。等价的风险投资支持的实验室则有具体的可交付成果、时间线，以及想要看到结果的投资者。两种模式产生不同类型的工作。
+
+对于我自己未来的初创公司：我会尽可能长时间地自力更生以保留控制权，并在没有外部压力的情况下验证核心假设。然后在我有清晰证据表明资本是增长的约束因素时融资，而不是把不清晰的产品与市场契合伪装成融资问题。

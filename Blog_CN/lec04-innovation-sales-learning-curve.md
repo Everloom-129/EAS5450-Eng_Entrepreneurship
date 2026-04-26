@@ -1,55 +1,55 @@
-# Lec 4: Innovation & The Sales Learning Curve — Don't Hire Salespeople Too Early
+# 第4讲：创新与销售学习曲线 -- 不要过早招聘销售人员
 
-*February 2025*
+*2025年2月*
 
-> Scaling sales before you understand your customer is like deploying a model trained on the wrong distribution. The numbers look fine until they don't.
+> 在理解客户之前大规模扩张销售，就像在错误分布上训练模型然后部署。数字看起来不错，直到它崩溃的那一刻。
 
-## The Big Picture
+## 全局视角
 
-Every founder wants to grow. So the instinct is: hire more salespeople, run more ads, scale faster. The *Sales Learning Curve* by Mark Leslie and Charles Holloway (Harvard Business Review) makes a counterintuitive argument — **more salespeople early on actually slows you down**.
+每位创始人都渴望增长，于是本能反应是：招更多销售人员，投放更多广告，更快扩张。马克·莱斯利和查尔斯·霍洛韦在《哈佛商业评论》上发表的《销售学习曲线》提出了一个反直觉的论点：**早期招聘更多销售人员实际上会拖慢你**。
 
-The reason: a new product isn't fully defined yet. Your customer's use case, objections, and buying process are all unknown unknowns. Hiring a 20-person sales team before you've figured out *how* people buy will burn your runway and generate bad signal.
-
----
-
-## 3 Facts That Hit Different
-
-- **Sales yield** — average annual revenue per fully trained sales rep — is the key metric that governs when to scale. Until yield reaches the "break-even" point (revenue per rep equals cost per rep), you're still in learning mode. Adding more reps before you hit this milestone is actively harmful.
-
-- **The "Renaissance Rep"** (early-stage salesperson) is completely different from a "Coin-Operated Rep" (late-stage). In the initiation phase, you need someone who tolerates ambiguity, loves the technology, and writes their own playbook from scratch. A traditional quota-driven salesperson in this role will fail — and take your best customers with them.
-
-- **A premature marketing campaign** doesn't just waste money. It sets false expectations in the market that are hard to walk back. If you tell the world your product does X before you've fully validated X with real customers, you're now locked into that promise. This is why startups die from success: too much attention too early.
+原因是：新产品尚未完全成型。客户的使用场景、异议和购买流程都是未知的未知。在弄清楚*人们如何购买*之前就招募20人的销售团队，只会烧光你的现金跑道，并产生错误信号。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: What is the Sales Learning Curve, and how is it different from the Manufacturing Learning Curve?**
+- **销售产出**（每位训练有素的销售代表的年均收入）是决定何时扩张的关键指标。在产出达到"盈亏平衡点"（每位代表的营收等于其成本）之前，你仍处于学习模式。在达到这一里程碑之前增加更多代表，是在主动伤害自己。
 
-The **Manufacturing Learning Curve** is about production efficiency — as you make more units, your cost per unit drops due to accumulated experience and process optimization. It's a supply-side phenomenon.
+- **"文艺复兴型代表"**（早期销售人员）与"计件型代表"（后期销售人员）截然不同。在启动阶段，你需要能够容忍模糊性、热爱产品技术、从零开始编写销售手册的人。将传统的以配额为导向的销售人员放在这个岗位，他们会失败，并带走你最好的客户。
 
-The **Sales Learning Curve** is a demand-side phenomenon. It describes how your entire organization — sales, marketing, product, engineering — learns from customers how to *sell, position, and refine* a new product. Progress is measured in sales yield, not unit cost. The two curves are complementary but operate on different timescales and require different interventions.
-
-**Q: What are the three phases, and what should founders do differently in each?**
-
-- **Initiation Phase**: Small team (3–4 people), heavy on learning, light on quotas. Sales comp should be salary-heavy, not commission-heavy, so reps are incentivized to learn rather than close at any cost. Founders should be the first salespeople.
-
-- **Transition Phase**: You've proven the model with a critical mass of customers. Start adding "Enlightened Reps" — people comfortable with ambiguity but not needing to write the playbook themselves. Sales yield target: 2x the break-even.
-
-- **Execution Phase**: The formula is proven. Now hire "Coin-Operated Reps" at scale — people who just need a territory, price book, and quota. This is when growth becomes predictable.
-
-**Q: From the Innovation funnel perspective — how does a customer-driven approach change product development?**
-
-The Innovation funnel starts broad (many ideas) and narrows through stages of validation. The customer-driven approach means you don't narrow by internal preference — you narrow by **stakeholder signal**. Prototypes at each stage aren't just engineering checkpoints; they're feedback mechanisms. The goal is to find out what customers *actually need*, which is often different from what they *say* they need and very different from what engineers *assume* they need.
-
-Key insight: **Positioning = Differentiation × Segmentation**. You're not building for everyone. You're building for a specific "who" with a specific "what problem" solved in a specific "how."
+- **过早的营销推广**不仅仅是浪费金钱，它会在市场中树立难以扭转的错误预期。如果你在尚未与真实客户完全验证X功能之前就向全世界宣称你的产品能做X，你现在就被这个承诺锁死了。这就是初创公司死于成功的原因：过早受到过多关注。
 
 ---
 
-## My Take
+## 问答
 
-The Sales Learning Curve maps almost perfectly to how I think about research and deployment in robotics. In the lab, we don't deploy the full system on Day 1. We start with a toy environment, run experiments, understand failure modes, then scale. The "renaissance rep" equivalent in research is the PhD student who builds the first prototype and understands the failure modes deeply — before the undergrads run the full experiment.
+**问：什么是销售学习曲线？它与制造学习曲线有何不同？**
 
-The dangerous instinct — in both startups and research — is to go big before you've validated the core hypothesis. In a startup, this kills the company. In research, it burns the compute budget on an approach that doesn't work. Either way: learn first, scale second.
+**制造学习曲线**是关于生产效率的：随着你制造更多单位，由于经验积累和流程优化，每单位成本下降。这是供给侧现象。
 
-The Clever case (from the YC video) is the clearest evidence: Tyler Bosmeny, the CEO, spent months doing sales himself before hiring anyone. That's not inefficiency — that's the fastest path to a repeatable sales model.
+**销售学习曲线**是需求侧现象。它描述你的整个组织，包括销售、营销、产品、工程团队，如何从客户那里学习如何*销售、定位和完善*新产品。进展以销售产出衡量，而非单位成本。两条曲线相辅相成，但运作在不同的时间尺度上，需要不同的干预措施。
+
+**问：三个阶段是什么？创始人在每个阶段应有何不同的做法？**
+
+- **启动阶段**：小团队（3至4人），注重学习，配额要求轻。销售薪酬应以基本工资为主而非佣金，使代表有动力去学习而非不惜一切成交。创始人应该是第一批销售人员。
+
+- **过渡阶段**：你已经用足够多的客户验证了模式。开始增加"开明型代表"，他们对模糊性有承受力，但不需要自己编写手册。销售产出目标：盈亏平衡点的2倍。
+
+- **执行阶段**：公式已经得到验证。现在批量招募"计件型代表"，他们只需要一个区域、一本价格手册和一个配额。这是增长变得可预测的阶段。
+
+**问：从创新漏斗的角度看，以客户为驱动的方法如何改变产品开发？**
+
+创新漏斗从宽（众多想法）开始，通过验证阶段逐步收窄。以客户为驱动的方法意味着你不是按内部偏好收窄，而是按**利益相关者的信号**收窄。每个阶段的原型不只是工程检查点，而是反馈机制。目标是找出客户*真正需要什么*，这往往不同于他们*声称需要什么*，更不同于工程师*假设他们需要什么*。
+
+关键洞见：**定位 = 差异化 x 细分化**。你不是在为所有人构建产品，而是为有特定问题需要以特定方式解决的特定"谁"构建产品。
+
+---
+
+## 我的感悟
+
+销售学习曲线几乎完美地映射了我在机器人学研究和部署方面的思维方式。在实验室里，我们不会在第一天就部署完整系统。我们从玩具环境开始，运行实验，理解失败模式，然后扩展。研究中"文艺复兴型代表"的等价物，是那位构建第一个原型并深刻理解失败模式的博士生，而非让本科生直接运行完整实验。
+
+无论是在初创公司还是研究中，危险的本能都是在核心假设得到验证之前就大规模扩张。在初创公司，这会杀死公司；在研究中，这会在不奏效的方法上耗尽算力预算。无论如何：先学习，后扩展。
+
+Clever案例（来自YC视频）是最清晰的佐证：CEO泰勒·博斯门尼在招聘任何人之前，花了数月时间亲自做销售。这不是低效，而是建立可复制销售模式的最快路径。

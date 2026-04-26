@@ -1,65 +1,65 @@
-# Lec 24: First Who, Hiring Right & Why Incentive Plans Can't Work — Sun Microsystems
+# 第24讲：先人后事、正确招聘与激励计划为何失效 -- 太阳微系统
 
-*April 2025*
+*2025年4月*
 
-> Jim Collins: "First who, then what." The most important decisions you make as a founder are not strategic — they are people decisions. Get the wrong people on the bus and no strategy survives.
+> 吉姆·科林斯："先人后事。"你作为创始人做出的最重要决策不是战略决策，而是人的决策。把错误的人带上车，任何战略都无法存活。
 
-## The Big Picture
+## 全局视角
 
-This lecture synthesizes three powerful ideas: **Collins' "First Who" principle** (hiring the right people before deciding the strategy), **Harvard's Note on Hiring Process** (the mechanics of actually finding and evaluating people), and **Alfie Kohn's argument that incentive pay doesn't work** (backed by a decade of behavioral research). The Sun Microsystems case is the live context for all three.
+本讲综合了三个有力的思想：**科林斯的"先人"原则**（在决定战略之前先招募正确的人）、**哈佛关于招聘流程的笔记**（实际找到和评估人才的机制），以及**阿尔菲·科恩关于激励性薪酬无效的论点**（有十年行为学研究支撑）。太阳微系统案例是三者的现实背景。
 
-Together, these readings challenge almost everything most engineers believe about building a team and motivating them.
-
----
-
-## 3 Facts That Hit Different
-
-- **"First who, then what" is counterintuitive.** Most founders start with a strategy and hire to execute it. Collins argues the great companies did it backwards: get the right people first, *then* figure out the strategy together. The right people will self-organize toward the right strategy; the wrong people will fail even with the right strategy handed to them.
-
-- **Alfie Kohn's core finding**: in a comprehensive review of research on incentive plans, he found that **financial incentives reliably improve performance on simple, mechanical tasks** — and **reliably harm performance on complex, creative, or cognitive tasks**. For any knowledge-intensive job (engineering, design, sales for complex products), bonus systems make people worse at their jobs, not better. The reasons: they reduce intrinsic motivation, create short-term thinking, and undermine collaboration.
-
-- **Sun Microsystems** was founded in 1982 by Andy Bechtolsheim, Vinod Khosla, Bill Joy, and Scott McNealy — four people with complementary and world-class capabilities. The company went from zero to $1 billion in revenue in 6 years — one of the fastest in history at the time. The "first who" principle was embedded in the founding: each founder was exceptional, and the diversity of their expertise (hardware, software, business, networking) created a self-reinforcing advantage.
+这些阅读材料合在一起，挑战了大多数工程师关于团队构建和激励方式所持有的几乎所有信念。
 
 ---
 
-## Q&A
+## 三个让我醍醐灌顶的事实
 
-**Q: How do you actually implement "First Who" — what does good hiring look like in practice?**
+- **"先人后事"是反直觉的**。大多数创始人从一个战略出发，然后招聘人来执行它。科林斯认为伟大的公司做的恰恰相反：先找到正确的人，*然后*一起确定战略。正确的人会自发组织走向正确的战略；错误的人即便交给他们正确的战略也会失败。
 
-The Harvard Note on Hiring Process identifies several key principles:
+- **阿尔菲·科恩的核心发现**：在对激励计划研究的全面综述中，他发现**金钱激励可靠地提高了简单、机械性任务上的绩效**，但**可靠地损害了复杂、创造性或认知性任务上的绩效**。对于任何知识密集型工作（工程、设计、复杂产品的销售），奖金制度让人们在工作中表现更差，而非更好。原因是：它们降低了内在动机，造成短期主义，并破坏了协作。
 
-1. **Define the role before you post it**: what decisions will this person make? What does success look like in 90 days? In 12 months? Vague roles attract vague candidates.
-
-2. **Structured interviews beat unstructured ones**: behavioral questions ("tell me about a time when...") with consistent scoring rubrics predict performance better than free-form conversations.
-
-3. **Work sample tests beat resumes**: the best predictor of how someone will do the job is watching them do a version of the job. Coding challenges, design exercises, case studies — these create real signal vs. the noise of a resume.
-
-4. **Hire for intellectual honesty and learning velocity**: in fast-moving startups, the ability to update your beliefs based on evidence is more valuable than any specific expertise. People who can't be wrong are the most dangerous hires.
-
-5. **Reference checks are the most underused tool**: most founders treat them as formality. The real signal is *how* a reference answers — enthusiasm, specificity, and what they *don't* say.
-
-**Q: If financial incentives don't work for creative jobs, what does?**
-
-Kohn's research points to three intrinsic motivators (later codified by Daniel Pink as Autonomy, Mastery, and Purpose):
-
-- **Autonomy**: people perform better when they control *how* they do their work. Micromanagement destroys this.
-- **Mastery**: the opportunity to get better at something meaningful. This is why great engineers don't leave for money — they leave when they stop learning.
-- **Purpose**: connection to something bigger than the task. "We're building technology that changes how humans interact with the physical world" is a purpose. "Complete 40 tickets per sprint" is not.
-
-For startups: the implication is that equity (which aligns long-term interest, not monthly performance) is more motivating than bonuses. Mission clarity beats commission plans.
-
-**Q: What can the Sun founding story teach about assembling a founding team?**
-
-Sun's four founders covered distinct, non-overlapping capabilities: Bechtolsheim (hardware architecture), Joy (operating systems and software), Khosla (business/strategy/fundraising), McNealy (operations and execution). No ego fights over domain — each person was clearly the best at their domain.
-
-The lesson: **complementarity matters more than likability**. Most co-founding teams form because people like each other. The best founding teams form because the capabilities are complementary and the trust is earned through work, not friendship. Friendship is a nice bonus; professional complementarity is the requirement.
+- **太阳微系统**由安迪·贝托尔斯海姆、维诺德·科斯拉、比尔·乔伊和斯科特·麦克尼利于1982年创立，四位在各自领域互补且世界级水平的人。公司在6年内从零增长到10亿美元收入，是当时历史上最快之一。"先人"原则嵌入在创立之中：每位创始人都出类拔萃，而他们专业知识的多样性（硬件、软件、商业、网络）创造了相互强化的优势。
 
 ---
 
-## My Take
+## 问答
 
-The "why incentive plans don't work" piece is the one that I've thought about most since reading it. In robotics research, we never use financial incentives to motivate grad students. The motivation is always intrinsic — curiosity, the problem, the desire to publish, the challenge of making the robot work. And the most productive people I've worked with are the ones most driven by those intrinsic factors.
+**问：如何实际落实"先人后事"？好的招聘在实践中是什么样的？**
 
-The implication for startup team-building: if you're relying on a bonus structure to get people to care about the company's success, you've already failed. The people who will build a great company are the ones who'd work on the problem even if the compensation were slightly below market — because the problem, the team, and the mission are that compelling.
+哈佛关于招聘流程的笔记确定了几条关键原则：
 
-Sun's founding story is also a reminder that the best teams don't always start as friends. Sometimes they start as strangers who recognize each other's capability and make a bet together. That kind of respect-first relationship is often more durable than friendship-first.
+1. **在发布职位之前定义角色**：此人将做出哪些决策？90天后的成功是什么样的？12个月后呢？模糊的角色吸引模糊的候选人。
+
+2. **结构化面试优于非结构化面试**：行为性问题（"告诉我一次你...的经历"）加上一致的评分标准，比自由对话更能预测绩效。
+
+3. **工作样本测试优于简历**：预测某人如何胜任工作的最佳方式是观察他们做这份工作的某种形式。编程挑战、设计练习、案例研究，这些创造真实信号，而非简历的噪音。
+
+4. **为知识诚实性和学习速度招聘**：在快速发展的初创公司中，根据证据更新信念的能力比任何特定专业知识更有价值。不能接受自己犯错的人是最危险的招聘对象。
+
+5. **参考背景调查是被利用最少的工具**：大多数创始人将其视为走形式。真正的信号在于推荐人如何回答，即热情、具体性，以及他们*没有说*的话。
+
+**问：如果金钱激励对创造性工作无效，什么有效？**
+
+科恩的研究指向三种内在激励因素（后来被丹尼尔·平克总结为自主、精通和目的）：
+
+- **自主**：人们在控制*如何*完成工作时表现更好。微管理会摧毁这一点。
+- **精通**：在有意义的事情上不断进步的机会。这就是为什么优秀的工程师不会为了钱而离开，他们在停止学习时才离开。
+- **目的**：与任务之外更宏大事物的连接。"我们正在构建改变人类与物理世界交互方式的技术"是一种目的。"每个迭代完成40张工单"不是。
+
+对于初创公司：含义是股权（与长期利益对齐，而非月度绩效）比奖金更能激励人。使命清晰度胜过佣金计划。
+
+**问：太阳微系统的创立故事对于组建创始团队有何教训？**
+
+太阳的四位创始人涵盖了独特的、不重叠的能力：贝托尔斯海姆（硬件架构）、乔伊（操作系统和软件）、科斯拉（商业/战略/融资）、麦克尼利（运营和执行）。没有关于领域的自我之战，每个人在自己的领域都清楚地是最好的。
+
+教训：**互补性比好感度更重要**。大多数联合创始团队因为彼此喜欢而形成。最好的创始团队形成是因为能力互补，信任通过工作而非友谊赢得。友谊是一个不错的奖励；职业互补性才是要求。
+
+---
+
+## 我的感悟
+
+"激励计划为何失效"这一部分是自我阅读以来思考最多的。在机器人学研究中，我们从不用金钱激励来激励研究生。动力始终是内在的：好奇心、问题本身、发表的渴望、让机器人工作的挑战。我合作过的最有生产力的人，是被这些内在因素驱动最强烈的人。
+
+对于初创团队构建的含义是：如果你依赖奖金结构让人们关心公司的成功，你已经失败了。那些将构建一家伟大公司的人，是那些即便薪酬略低于市场水平也愿意研究这个问题的人，因为问题、团队和使命是如此引人入胜。
+
+太阳的创立故事也提醒我们，最好的团队并不总是始于朋友。有时他们始于陌生人，那些认可彼此能力并共同下注的陌生人。这种以尊重为先的关系，往往比以友谊为先的关系更为持久。
