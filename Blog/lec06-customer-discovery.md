@@ -35,6 +35,8 @@ Five things:
 
 The ordering matters. If you skip to question 5 before you've answered 1–4, you'll get garbage data.
 
+Question 3 deserves more depth. Understanding the status quo means mapping the **perceived losses** a customer would face by switching from it. These losses are: direct monetary cost, time and learning-curve investment, uncertainty that the new solution actually works, brand loyalty to an existing vendor, psychological affinity with familiar tools, and network viability (whether colleagues, partners, and integrations support the new thing). Customers don't just need a better product — they need a product good enough to overcome the aggregate of these losses. Knowing which losses are highest for your target segment shapes how you price (offset switching cost with a lower entry price), how you onboard (invest in a concierge setup to neutralize the learning curve), and what proof points you lead with in the pitch.
+
 **Q: Who are "lead users" and why should you find them first?**
 
 Lead users are early adopters who face the problem you're solving more intensely than average users. They've often built their own partial solutions. They have a budget or authority to adopt something better. And critically — they're *willing to share feedback* because they actually want the problem solved.
@@ -54,5 +56,9 @@ In **B2B**, there's a full **Buying Center** with distinct roles: Initiator, Gat
 Customer discovery is the part of entrepreneurship that feels most like doing science correctly. You form a hypothesis ("this customer segment has this problem"), design an experiment (customer interview, LOI, MVP), and update your beliefs based on evidence.
 
 The cognitive biases from the Lean Startup reading apply directly here: **optimism bias** makes you interpret weak signals as strong ones; **confirmation bias** makes you remember the customer who said "yes" and forget the five who hesitated. The fix is the same as it is in good research: pre-register your hypotheses, look for disconfirming evidence, and treat a customer who tells you "no" as more valuable than one who nods politely.
+
+One methodological note on conjoint analysis: when testing price sensitivity, **never present multiple price options to the same respondent in a list** (e.g., "A: $50, B: $100, C: $150"). People reliably choose the middle option — it's a psychological anchor artifact, not a demand signal. Instead, vary price only when at least one other attribute varies, and test price points across different respondents with matched demographic and business profiles. Then run a sensitivity test (p < 0.05) to understand which attributes actually move willingness to pay. Stated preferences are cheap; revealed trade-offs are expensive to collect but are the only data worth building strategy on.
+
+On AI-assisted discovery: LLM-based simulation tools (such as SimUser for mobile usability and USimAgent for search behavior) can generate usability feedback at scale without recruiting real users, covering roughly 60–80% of basic signal in early-stage prototyping. This is genuinely useful for moving fast. But AI simulation consistently misses the qualitative depth that drives real insight — the frustrated pause, the unexpected workaround, the thing the user does that no one on your team predicted. Use AI to iterate quickly; use real interviews to iterate correctly.
 
 In my own experience: the hardest part isn't asking questions — it's resisting the urge to pitch while you're supposed to be listening. The discovery interview is not a sales meeting. The moment you start selling, you stop learning.

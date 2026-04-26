@@ -82,6 +82,26 @@ The homework numbering (hw1–hw27) is offset from the PPT/blog numbering:
 
 Guest speaker lectures (PPTs 17, 19, 21, 23) map to hw16, hw18, hw20, hw22 respectively.
 
+## Website Design System
+
+The React blog (`src/`) uses a **Penn Engineering color palette** inspired by `eent.seas.upenn.edu`.
+
+**Brand colors (in `src/index.css` CSS variables):**
+- `--accent: #011F5B` — Penn Blue (primary: buttons, links, headings)
+- `--penn-red: #990000` — Penn Red (Finance/Guest/Regulation card accents)
+- `--penn-light: #82AFD3` — Penn Light Blue (nav links on dark backgrounds)
+- `--accent-dim: #E3EAF5` — Pale Penn Blue tint (blockquote bg, badge bg)
+
+**Layout sections with Penn Blue backgrounds:** `.pub-header` (home banner), `.post-nav` (sticky nav), `.site-footer`.
+
+**Cover gradients / tag badge colors** are defined in `src/Home.tsx` (`GRADIENTS`, `TAG_COLORS`). Each category maps to a Penn Blue or Penn Red variant. To add a category, add entries to both objects and to `ALL_TAGS` in `src/posts.ts`.
+
+**Static images** live in `image/` at the project root and are imported directly in `src/Home.tsx`:
+- `image/eas545_logo.png` — course logo shown in pub-header (CSS-filtered white)
+- `image/Tom_with_Tony.jpg` — author avatar shown in pub-header byline
+
+**Disclaimer** is rendered in the footer via the `.disclaimer` CSS class, sourced from the copyright text in `README.md`.
+
 ## Key Files to Know
 
 - `index.md` — Site landing page; lists all assignments with HTML links (`.html` extension, not `.md`)

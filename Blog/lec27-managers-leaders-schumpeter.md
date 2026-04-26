@@ -45,13 +45,13 @@ For an engineering entrepreneur, this maps to the research mindset taken to comm
 
 The risk: Schumpeterian leaders can be intoxicating to follow but exhausting to work for. The joy of creating needs to be balanced with the discipline of building a system that can sustain the vision after the initial creative burst.
 
-**Q: Where do you place yourself on the leader-manager spectrum?**
+**Q: How should an engineering entrepreneur self-assess their leadership orientation — and build toward the mode they lack?**
 
-For me: **leader, with growing appreciation for manager skills**. My instinct is to pursue the uncertain, interesting, world-changing problem. I tolerate ambiguity well — reinforcement learning will do that to you after enough training runs. I prefer defining the problem over optimizing the solution.
+Start with what you do when everything is uncertain. Leaders lean into ambiguity — they find it energizing. Managers reduce ambiguity — through systems, clear milestones, and defined ownership. Neither instinct is wrong; you need both. But most people have a dominant mode, and most technical founders skew toward leader (high tolerance for ambiguity, hypothesis-driven, comfortable exploring before converging).
 
-But leadership without management is incomplete. At Penn, at GRASP Lab, and in any serious engineering project, the execution details matter as much as the vision. The best founders I've observed are people who think like leaders about where to go and like managers about how to get there — and who build complementary teams to cover their weaker mode.
+The practical gap for engineering founders is usually on the **manager side**: execution discipline, meeting cadence, accountability structures, and the ability to deliver results *through others* rather than through your own technical output. The bridge isn't suppressing your leadership instincts — it's deliberately building management skills around them.
 
-The PhiloCoffee Club at ZJU was an early forcing function: you can't run a club on vision alone. Someone has to book the venues, manage the mailing list, coordinate the schedule. Learning to move between creative vision and operational execution — that's the integration Zaleznik describes as rare, but necessary.
+One forcing function: take on a cross-functional coordination role before you start a company. Run a project where success depends entirely on people following through on commitments, not on your own technical ability. In research, this is the difference between being a solo researcher and a team lead. In industry, it's the tech lead or program manager role. That pressure — delivering through others — is where management instincts develop. Building this muscle early is the difference between a brilliant individual contributor and a founder who can turn a vision into an organization.
 
 ---
 
