@@ -8,6 +8,12 @@ const rawModules = import.meta.glob('../Blog/lec*.md', {
   eager: true,
 }) as Record<string, string>
 
+const rawModulesCN = import.meta.glob('../Blog_CN/lec*.md', {
+  query: '?raw',
+  import: 'default',
+  eager: true,
+}) as Record<string, string>
+
 // ── Tag mapping ───────────────────────────────────────────────────────────────
 const TAG_MAP: Record<string, string> = {
   lec00: 'Innovation', lec01: 'Innovation',
@@ -40,9 +46,12 @@ function parse(path: string, content: string): PostMeta {
   const slug = path.split('/').pop()!.replace('.md', '')
   const num = extractNum(slug)
 
-  // Title: strip "Lec N:" prefix for clean card display
+  // Title: strip "Lec N:" (EN) or "第N讲：" (CN) prefix for clean card display
   const rawTitle = content.match(/^#\s+(.+)$/m)?.[1] ?? slug
-  const title = rawTitle.replace(/^Lec\s+[\w]+[:\s–—]+\s*/i, '').trim()
+  const title = rawTitle
+    .replace(/^Lec\s+[\w]+[:\s–—]+\s*/i, '')
+    .replace(/^第\d+\w*讲[：:]\s*/, '')
+    .trim()
 
   // Date (first standalone *..* line)
   const date = content.match(/^\*([^*\n]+)\*\s*$/m)?.[1]?.trim() ?? ''
@@ -50,9 +59,9 @@ function parse(path: string, content: string): PostMeta {
   // Opening blockquote
   const quote = content.match(/^>\s*(.+)$/m)?.[1]?.trim() ?? ''
 
-  // Excerpt: first substantive paragraph under "The Big Picture"
+  // Excerpt: first substantive paragraph under "The Big Picture" (EN) or "全局视角" (CN)
   let excerpt = ''
-  const bpSection = content.split(/##\s+The Big Picture/i)[1] ?? ''
+  const bpSection = content.split(/##\s+(?:The Big Picture|全局视角)/i)[1] ?? ''
   for (const line of bpSection.split('\n')) {
     const clean = line.replace(/\*\*(.+?)\*\*/g, '$1').replace(/\*(.+?)\*/g, '$1').trim()
     if (clean.length > 60 && !clean.startsWith('#') && !clean.startsWith('>') && !clean.startsWith('-')) {
@@ -79,6 +88,14 @@ export const posts: PostMeta[] = Object.entries(rawModules)
 
 export const postsBySlug: Record<string, PostMeta> = Object.fromEntries(
   posts.map(p => [p.slug, p])
+)
+
+export const postsCN: PostMeta[] = Object.entries(rawModulesCN)
+  .map(([path, content]) => parse(path, content))
+  .sort((a, b) => sortKey(a.slug) - sortKey(b.slug))
+
+export const postsBySluugCN: Record<string, PostMeta> = Object.fromEntries(
+  postsCN.map(p => [p.slug, p])
 )
 
 export const ALL_TAGS = ['All', ...Array.from(new Set(posts.map(p => p.tag))).sort()]

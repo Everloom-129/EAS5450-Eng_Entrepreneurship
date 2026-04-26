@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { posts, ALL_TAGS } from './posts'
+import { posts, postsCN, ALL_TAGS } from './posts'
+import { useLang } from './LangContext'
 import type { PostMeta } from './types'
 import eentLogo from '../image/eas545_logo.png'
 import tomTonyImg from '../image/Tom_with_Tony.jpg'
@@ -73,13 +74,20 @@ function PostCard({ post }: { post: PostMeta }) {
 // ── Home page ─────────────────────────────────────────────────────────────────
 export default function Home() {
   const [activeTag, setActiveTag] = useState('All')
+  const { lang, toggleLang } = useLang()
 
-  const filtered = activeTag === 'All' ? posts : posts.filter(p => p.tag === activeTag)
+  const allPosts = lang === 'cn' ? postsCN : posts
+  const filtered = activeTag === 'All' ? allPosts : allPosts.filter(p => p.tag === activeTag)
 
   return (
     <div className="page-home">
       {/* ── Publication header ── */}
       <header className="pub-header">
+        <button className="lang-toggle" onClick={toggleLang} aria-label="Switch language">
+          <span className={lang === 'en' ? 'lang-active' : ''}>EN</span>
+          <span className="lang-sep">|</span>
+          <span className={lang === 'cn' ? 'lang-active' : ''}>中文</span>
+        </button>
         <div className="pub-header-inner">
           <img src={eentLogo} alt="EAS 5450 Logo" className="pub-logo" />
           <p className="pub-eyebrow">EAS 5450 &nbsp;·&nbsp; Penn Engineering</p>

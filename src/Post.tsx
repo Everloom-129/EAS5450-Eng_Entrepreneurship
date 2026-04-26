@@ -1,7 +1,8 @@
 import { useParams, useNavigate } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-import { posts, postsBySlug } from './posts'
+import { posts, postsBySlug, postsBySluugCN } from './posts'
+import { useLang } from './LangContext'
 import { CoverArt, GRADIENTS, TAG_COLORS } from './Home'
 
 // Strip the h1 title and date line — both shown in the hero
@@ -15,7 +16,8 @@ function prepareContent(raw: string): string {
 export default function Post() {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
-  const post = postsBySlug[slug ?? '']
+  const { lang, toggleLang } = useLang()
+  const post = (lang === 'cn' ? postsBySluugCN[slug ?? ''] : null) ?? postsBySlug[slug ?? '']
 
   if (!post) {
     return (
@@ -41,7 +43,14 @@ export default function Post() {
         <button className="nav-back" onClick={() => navigate('/')}>
           &#8592; Engineering Entrepreneurship
         </button>
-        <span className="nav-lec">Lec {post.num}</span>
+        <div className="nav-right">
+          <button className="lang-toggle lang-toggle-post" onClick={toggleLang} aria-label="Switch language">
+            <span className={lang === 'en' ? 'lang-active' : ''}>EN</span>
+            <span className="lang-sep">|</span>
+            <span className={lang === 'cn' ? 'lang-active' : ''}>中文</span>
+          </button>
+          <span className="nav-lec">Lec {post.num}</span>
+        </div>
       </nav>
 
       {/* ── Hero banner ── */}
