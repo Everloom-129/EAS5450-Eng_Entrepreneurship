@@ -64,6 +64,6 @@ Both succeeded by tight alignment between their target segment and every element
 
 The pricing lecture is where entrepreneurship gets the most uncomfortable for engineers. We're trained to think cost-plus: materials + labor + margin = price. But customers don't care about your cost structure. They care about what the product does for them relative to alternatives.
 
-The perceived value insight is something I keep seeing in both hardware and software: the brand signal matters as much as the technical spec. A robot arm from a well-known manufacturer commands a 3-5x premium over equivalent Chinese hardware — not because the engineering is 3-5x better, but because the perceived reliability and support are valued at that premium. That's TEV thinking, whether the buyer knows it or not.
+The perceived value insight shows up everywhere in hardware and software: brand signal matters as much as the technical spec. Two products with near-identical specs can sell at 3–5x different price points if one has a better support reputation or a more trusted brand. That's TEV thinking in practice — buyers aren't pricing your cost structure, they're pricing their own risk and the alternatives available to them.
 
 The 5 C's analysis is something I'll do for any venture I consider. Context especially: in robotics, the regulatory environment (FAA, FDA, DOT) is a non-obvious constraint that changes the market structure entirely. Ignoring context doesn't make it go away.

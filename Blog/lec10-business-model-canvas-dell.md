@@ -32,7 +32,7 @@ The BMC forces you to think about *all* the dimensions of a business simultaneou
 
 **Q: How did Dell's business model create competitive advantage that pure technology couldn't?**
 
-Dell's model was hard to copy for the same reason that complex software architectures are hard to copy: the advantage isn't in any single component, it's in how all the components interact. Direct sales, build-to-order, just-in-time supply chain, and negative working capital all reinforce each other. Compaq couldn't just adopt direct sales without tearing apart its entire channel partner network — which would have been catastrophic for its existing revenue.
+Dell's model was hard to copy because the advantage wasn't in any single component — it was in how all the components reinforced each other. Direct sales, build-to-order, just-in-time supply chain, and negative working capital all worked together. Compaq couldn't just adopt direct sales without dismantling its entire channel partner network, which would have been catastrophic for its existing revenue. Copying one piece while leaving the rest intact doesn't replicate the system.
 
 This is **business model lock-in** — more durable than patent protection and harder to litigate against.
 
@@ -48,4 +48,4 @@ For startups, the lesson is: don't compete on every dimension. Pick the axis whe
 
 The BMC is now something I sketch before I code anything. Not because the sketch will be right — it won't be — but because it forces you to confront the assumptions hiding in your head. "Who are the customers?" is not the same as "What segment of customers will pay for this?" The difference between a hobby project and a business often lives in that gap.
 
-Dell's story also resonates from a systems design angle. The real innovation wasn't the computer — it was the architecture of the supply chain, the cash flow model, and the customer interface. Same lesson as software: the algorithm matters less than the system it runs in. Get the system right and the algorithm becomes easier to optimize.
+Dell's story also shows that the real innovation wasn't the computer — it was the architecture of the supply chain, the cash flow model, and the customer interface. The underlying principle: how you organize the business matters as much as what you build. Get the business model right and the product strategy becomes easier to execute.

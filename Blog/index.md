@@ -1,22 +1,22 @@
-# EAS5450 Engineering Entrepreneurship — Course Blog
+# EAS5450 Engineering Entrepreneurship — Course Notes
 
-*Jie (Tony) Wang · University of Pennsylvania MSROBO · Spring 2025*
+*Jie Wang · University of Pennsylvania GRASP Lab · Spring 2025*
 
-> A semester of frameworks, cases, and hard-earned insight — written in the moments between the lectures and the deadlines.
+> With the help of Claude Code, I'll distill and organize the frameworks, case studies, and sharp insights from this course, publishing them here for others to learn from. If you spot any mistakes, please let me know — my email: tonyw3@seas.upenn.edu
 
 ---
 
-## About This Blog
+## About This Course Notes
 
-These are my personal blog posts for EAS5450, one per lecture. Each post follows a unified format:
+These are my personal notes for EAS5450, one per lecture. Each note follows a unified format:
 
 - **Hook** — one-line that frames the lecture's key tension
 - **The Big Picture** — why this lecture matters
 - **3 Facts That Hit Different** — specific, cited data from the readings
 - **Q&A** — 3 key questions answered directly
-- **My Take** — personal reflection, usually with an engineering analogy
+- **My Take** — personal reflection, connecting the lecture to real startup and research experience
 
-The goal was to make the course material genuinely useful — not just summary notes, but ideas sharp enough to apply when building something real.
+The goal is to make the course material genuinely useful — not just summary notes, but ideas sharp enough to apply in real-world entrepreneurship.
 
 ---
 

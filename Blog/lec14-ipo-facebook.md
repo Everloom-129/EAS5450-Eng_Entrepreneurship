@@ -6,7 +6,7 @@
 
 ## The Big Picture
 
-An IPO — Initial Public Offering — is the process by which a private company sells shares to the public market for the first time. It's often portrayed as the ultimate startup success story. It's actually a financing event with significant costs, constraints, and risks.
+An IPO (Initial Public Offering) is the process by which a private company sells shares to the public market for the first time. It's often portrayed as the ultimate startup success story. It's actually a financing event with significant costs, constraints, and risks.
 
 The Facebook IPO of May 2012 is the best modern case study in how an IPO can go technically "right" (raised $16B, largest tech IPO at the time) while being perceived as a failure by the market — and then become a long-term triumph.
 

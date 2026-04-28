@@ -26,7 +26,7 @@ The Vermeer case is the perfect live-fire example. A tiny startup with barely $5
 
 **Q: What's the difference between a "device" and a "complete product," and why does it matter?**
 
-A *device* is the raw technology — think the chip, the algorithm, the hardware. A *complete product* is everything a customer needs to actually get value: documentation, training, support, integration, and a clear use case.
+A *device* is the raw technology: the chip, the algorithm, the hardware. A *complete product* is everything a customer needs to actually get value — documentation, training, support, integration, and a clear use case.
 
 Most engineering founders ship devices. They wonder why adoption is slow. The answer is almost always the same: customers don't buy technology, they buy outcomes. A startup that wraps its device in a complete product — even a minimal one — dramatically lowers the customer's "switching cost" from their current (broken) solution.
 
@@ -52,8 +52,8 @@ For Vermeer in late 1995, with Microsoft entering the browser market aggressivel
 
 ## My Take
 
-The Vermeer story hits close. Building software under competitive pressure, working at 007 pace, trusting teammates to own their modules — that's exactly the vibe of a heavy grad school project or a robotics competition. The difference is that at Vermeer, the stakes were equity, not grades.
+The Vermeer story hits close. Building software under competitive pressure, moving fast, trusting teammates to own their modules — that's a familiar mode for anyone who's shipped something under a real deadline. The difference is that at Vermeer, the stakes were equity, not grades.
 
-Market segmentation is also something I keep coming back to from an engineering perspective. A laser beam beats a floodlight when precision matters. Focus your resources on one segment until you've carved out defensible territory — then expand. Think of it like gradient descent with a very high learning rate: you need to lock in the local minimum of your niche before you try to find the global one.
+Market segmentation is also something I keep coming back to. Focus your resources on one segment until you've carved out defensible territory, then expand. The order matters: you can't skip to scale before you've nailed the beachhead. Companies that try to win everywhere at once usually win nowhere.
 
 Moore's model also has an underappreciated psychological layer. **Early Adopters (Visionaries)** are intuitive, contrarian, risk-tolerant, and motivated by future possibilities — they'll buy the device and assemble the complete product themselves if they have to. **Early Majority (Pragmatists)** are analytic, conformist, risk-managed, and motivated by present problems — they need the complete product with references, support, and proof that their peers already use it. These two groups fundamentally mistrust each other's reasoning. That mistrust is the Chasm, and no amount of better technology closes it. Only a market reference point from within the pragmatist community does. Vermeer's acquisition by Microsoft was, among other things, a chasm-crossing shortcut: instant credibility with every IT department that cared what Microsoft endorsed.

@@ -54,6 +54,6 @@ This is the positioning lesson: don't compete on price against a competitor who 
 
 Julia's story is one of the most direct refutations of the "you need to stay in your lane" career narrative. Materials science → finance → fashion marketplace is not an obvious path, but it's a highly logical one when you understand that markets, materials, and products all share the same underlying design logic.
 
-The Pickle model also highlights something I find fascinating about marketplace businesses: the product you're building is not the thing being sold. It's the *trust and liquidity infrastructure* that makes voluntary exchange between strangers possible. In robotics terms, you're building the communication protocol, not the application. Get the protocol right and the applications build themselves.
+The Pickle model also highlights something I find fascinating about marketplace businesses: the product you're building is not the thing being sold. It's the *trust and liquidity infrastructure* that makes voluntary exchange between strangers possible. Get that infrastructure right — payments, reviews, dispute resolution, curation — and the transactions follow.
 
 For the China expansion question: I'd be cautious. Xianyu has 300M users and Alibaba's logistics infrastructure. Pickle's advantage is community and curation — both of which are culturally specific and hard to transplant. Southeast Asia or Europe might be better expansion bets, where the fashion-sharing culture is growing but the incumbents are weaker.

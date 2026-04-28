@@ -54,6 +54,6 @@ That said, most seed-stage VCs today accept SAFEs precisely because the legal ov
 
 ## My Take
 
-Convertible notes and SAFEs are elegant engineering solutions to a valuation uncertainty problem. Instead of forcing a premature decision, you create a contract whose key parameters (price per share) self-complete once more information is available. It's almost like a lazy evaluation pattern in functional programming — defer the computation until you have the inputs you need.
+Convertible notes and SAFEs are clever solutions to a valuation uncertainty problem. Instead of forcing a premature decision, you create a contract whose key parameter — price per share — resolves itself once more information is available. Kicking the valuation conversation to Series A isn't procrastination; it's rational when the data you'd need to price accurately doesn't exist yet.
 
 The practical implication for me: if I'm raising a pre-seed round in the next few years, I'll default to post-money SAFEs unless a specific investor insists on a note. Less friction, no maturity date, and the math is cleaner. Save the legal fight for Series A, when there's actually something to fight over.

@@ -69,7 +69,7 @@ Personal financial foresight is the meta-skill of this entire course. Everything
 
 The specific insight I'm taking from this lecture: **equity compensation is the primary financial lever for engineers at startups**, and most people navigate it with zero knowledge of the relevant tax rules and timing decisions. I'm committing to understanding 83(b) elections, ISO vs. NSO distinctions, and QSBS eligibility before I join any startup, because those decisions have no do-overs.
 
-More broadly: the engineering mindset — model the system, identify the constraints, optimize the controllable variables — is exactly the right approach to personal finance. Don't wing it. Build the model, stress-test the assumptions, and make intentional decisions with full information. That's engineering. It should be finance too.
+More broadly: personal finance rewards the same habits as any rigorous discipline — model the situation accurately, understand the constraints, and make intentional decisions with full information. Most people wing it and wonder why they're behind. Don't.
 
 ---
 

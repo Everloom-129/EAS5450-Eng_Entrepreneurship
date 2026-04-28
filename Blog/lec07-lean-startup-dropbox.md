@@ -40,7 +40,7 @@ Houston's core hypotheses:
 - People will adopt a service that "just works" across devices → **Confirmed**
 - USB drives are the status quo we're replacing → **Confirmed**
 - A freemium model (1–2GB free, pay for more) will work → **Confirmed**, eventually adjusted to 2GB free
-- Paid advertising will drive acquisition → **Rejected** — CPC for storage keywords was too high and conversions too low
+- Paid advertising will drive acquisition → **Rejected** — CPC for storage keywords was too high and conversions too low. Houston's own framing stuck: "Search is great for harvesting demand, not for creating it." Dropbox needed to *create* demand from scratch, which required a different channel entirely.
 - Commercial version ships in ~8 weeks → **Rejected** — took 18 months
 
 The YC application process itself was a forcing function for hypothesis clarity. You can't raise money without being able to articulate what you believe and what evidence you'd accept to change your mind.
@@ -55,6 +55,6 @@ The "Trojan Horse" strategy — let individuals adopt Dropbox inside companies w
 
 ## My Take
 
-Dropbox's story maps almost exactly to what I've seen in research: the most productive path is usually not the fastest one. In drone racing, we ran hundreds of short experiments with toy environments before deploying a real policy — not because we were slow, but because each experiment was a targeted hypothesis test. Houston's 18-month "delay" was 18 months of structured learning.
+Dropbox's story is a good reminder that the most productive path is usually not the fastest one. Houston's 18-month "delay" was 18 months of structured learning — each feature tested against real user behavior, each pricing assumption validated or discarded. The eventual product was better precisely because it took longer.
 
-The cognitive bias framing also hits hard. In robotics research, optimism bias and planning fallacy are standard-issue for grad students estimating how long it takes to get a robot to work. The fix isn't pessimism — it's better experimental design. Break the hypothesis into smaller, falsifiable pieces. Test the hardest assumption first.
+The cognitive bias framing also hits hard. Optimism bias and planning fallacy are standard-issue in almost any complex project. The fix isn't pessimism — it's better experimental design. Break the hypothesis into smaller, falsifiable pieces. Test the hardest assumption first. Dropbox did this consistently, which is why the referral program replaced paid ads instead of just being added to them.

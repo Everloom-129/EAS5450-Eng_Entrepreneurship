@@ -36,8 +36,8 @@ Three factors:
 
 **Q: What are the specific red flags that should have triggered earlier investigation?**
 
-Looking backward, the list is clear:
-- **No peer-reviewed publications** on the core technology — extraordinary for a diagnostic claims at clinical accuracy
+In hindsight, the list is clear:
+- **No peer-reviewed publications** on the core technology — extraordinary for a company making clinical accuracy claims
 - **No FDA clearance** for clinical use, obtained only through workarounds (CLIA laboratory exemption)
 - **No credible scientific advisory board** — only famous political figures
 - **Former employees silenced by NDAs** and legal threats — Theranos had one of the most aggressive legal programs against whistleblowers in startup history

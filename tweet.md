@@ -7,11 +7,9 @@
 ---
 
 **1/**
-I took an Engineering Entrepreneurship course at Penn a year ago.
+I took EAS5450: Engineering Entrepreneurship at Penn one year ago, initially thinking it was about startups. It was actually about how to think. The lessons turn to be more important and valuable over time.
 
-I thought it was about startups. It was actually about how to think.
-
-Here's what changed how I see AI + Robotics as a business — a thread 🧵
+Here's what changed how I see AI + Robotics as a business🧵
 
 ---
 

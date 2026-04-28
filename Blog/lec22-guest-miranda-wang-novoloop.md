@@ -34,7 +34,7 @@ The strategic implication: your story has to be true in all three frames, but th
 
 After the interest rate shock of 2022 and the explosion of GenAI as the dominant investment theme, climate tech and clean energy funding dropped significantly. Miranda described this shift directly: investors who were writing climate-tech checks in 2021 redirected attention to AI, leaving companies in the middle of their scaling journey scrambling for capital.
 
-Novoloop's diversification — VC equity + US DOE grants + philanthropic foundations — was a deliberate hedge against exactly this scenario. No single funding source dependency. This is sophisticated capital stack engineering.
+Novoloop's diversification — VC equity + US DOE grants + philanthropic foundations — was a deliberate hedge against exactly this scenario. No single funding source dependency. That's capital structure thinking applied well before most startups bother with it.
 
 **Q: What does the Novoloop pilot plant milestone mean strategically?**
 
@@ -52,6 +52,6 @@ Once the pilot plant works, the path to commercial scale (10x, 100x the pilot ca
 
 Miranda's story is one of the most inspiring in this course, partly because it started here — at Penn, in the Wharton entrepreneurship program, as an undergrad. She didn't wait for the "right time" or the "right credentials." She started when she had the best possible combination: an important problem, deep scientific curiosity, access to Penn's research resources, and nothing to lose.
 
-The Novoloop challenge — getting plastic chemistry to work at industrial scale — is structurally similar to the challenge in robotics: lab demos are the easy part. Deployment in messy, real-world conditions is where most systems fail. The engineering principles are the same: design for the corner cases, not the ideal conditions. Plan for supply chain variability, not ideal feedstock. That's where the real company is built.
+The Novoloop challenge — getting plastic chemistry to work at industrial scale — is the same challenge every deep-tech company faces: lab demos are the easy part. Deployment in messy, real-world conditions is where most technologies break. The engineering principles apply: design for the corner cases, not the ideal conditions. Plan for supply chain variability, not ideal feedstock. That's where the real company is built.
 
 For me personally: Miranda's path from Penn undergrad → startup CEO is the exact trajectory I aspire to, just in a different domain. The common thread is engineering rigor applied to a problem that matters.

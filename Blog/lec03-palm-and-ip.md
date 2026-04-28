@@ -28,7 +28,7 @@ PalmPrint, Hawkins' handwriting recognition algorithm (which eventually became G
 
 Two main ones. First, **venture capital signaling**: investors treat patents as government-certified proof that your technology is novel and defensible. Sutter Hill Venture Partners' interest in Palm was partly due to PalmPrint's patent. You're not just selling an idea — you're selling a government-backed asset.
 
-Second, **licensing leverage**: Hawkins could license PalmPrint to GRiD while retaining the right to found Palm Computing. The non-exclusive structure meant he kept optionality. This is the IP equivalent of dual-use architecture in systems design — same core, multiple deployments.
+Second, **licensing leverage**: Hawkins could license PalmPrint to GRiD while retaining the right to found Palm Computing. The non-exclusive structure meant he kept his options open — one technology, multiple commercial paths.
 
 **Q: Why can't a patent fully protect a software algorithm?**
 
@@ -36,9 +36,9 @@ Because enforcement requires *detection*, and detecting that your algorithm is b
 
 **Q: What's the bigger lesson from the GRiD/Tandy IP complication?**
 
-Always model the downstream ownership implications of any IP agreement *before* you sign. Hawkins owned PalmPrint, but enhancements made while employed at GRiD belonged to GRiD. When Tandy acquired GRiD, those improvements were locked behind a corporate interest Hawkins had no control over. This is a classic case of **dependency creep** — similar to how technical debt accumulates in software: each small compromise compounds into a structural constraint.
+Hawkins owned PalmPrint, but enhancements made while employed at GRiD belonged to GRiD. When Tandy acquired GRiD, those improvements were locked behind a corporate interest Hawkins had no control over. This is a classic case of dependency creep: each small compromise compounds into a structural constraint.
 
-The lesson: think of your IP agreements like system interfaces. Define the boundaries clearly, minimize shared state, and never let a third party own the critical upgrade path.
+The lesson: model the downstream ownership implications of any IP agreement before you sign. Define scope clearly, and never let a third party own the critical upgrade path.
 
 ---
 
@@ -46,4 +46,4 @@ The lesson: think of your IP agreements like system interfaces. Define the bound
 
 The Palm story is basically the origin story of the modern smartphone — except the company that invented the category ended up being acquired and dismantled. PalmPrint became Graffiti, which became the gold standard for handwriting recognition before touchscreens made it obsolete.
 
-The IP lesson hits differently when you think about it from a robotics angle. GRASP Lab's research outputs — algorithms, models, architectures — are often published openly. That's a different kind of IP strategy: you signal capability and attract talent, but you don't monetize directly. Whether to patent, publish, or license depends entirely on your business model. Hawkins chose the hybrid path: patent for VC credibility, license for independence. Smart engineering of the business layer, not just the tech.
+The IP lesson also shows up in academic research settings. Research outputs — algorithms, models, architectures — are often published openly. That's a different IP strategy: you signal capability and attract talent, but you don't monetize directly. Whether to patent, publish, or license depends entirely on your business model. Hawkins chose the hybrid path: patent for VC credibility, license for independence. Smart thinking on the business side, not just the technical one.

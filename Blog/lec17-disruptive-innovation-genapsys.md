@@ -57,6 +57,6 @@ The honest NPV analysis for most hardware/deeptech startups is negative in the b
 
 ## My Take
 
-GenapSys is a cautionary tale that I think about a lot in robotics. LIDAR for autonomous vehicles, surgical robots, drone navigation systems — all follow similar patterns: promising technology, enormous market, long path to commercial viability, and well-resourced incumbents who can copy your approach if you succeed.
+GenapSys is a cautionary tale that applies across any deep tech sector: LIDAR for autonomous vehicles, medical devices, industrial automation. The pattern repeats — promising technology, large market, long path to commercial viability, and well-resourced incumbents who can copy your approach if you start to succeed.
 
-The disruptor's real advantage usually isn't the technology itself — it's the willingness to serve a customer segment the incumbent ignores. For robotics, that might mean starting with simple, repetitive industrial tasks rather than trying to solve full autonomy. Win the easy problem first, build the data and revenue to go after the hard one. That's how disruption actually works.
+The disruptor's real advantage usually isn't the technology itself — it's the willingness to serve a customer segment the incumbent ignores. Win the easy problem first, build the data and revenue to go after the hard one. That's how disruption actually works, as Christensen documented again and again.

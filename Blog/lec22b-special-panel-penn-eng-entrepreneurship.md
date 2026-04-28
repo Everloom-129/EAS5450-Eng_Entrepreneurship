@@ -30,7 +30,7 @@ The panelists converged on a few principles:
 
 - **Don't raise VC too early** if you're still in fundamental R&D. Investors expect progress against milestones, and hardware R&D timelines are notoriously hard to predict. Grants (NSF, DARPA, DOE, SBIR) are non-dilutive and don't create equity pressure on a timeline.
 
-- **Find customers who will co-fund development** — Letters of Intent, paid pilots, and co-development agreements with strategic partners validate demand and provide capital simultaneously. This is the cleanest financing signal.
+- **Find customers who will co-fund development** — Letters of Intent, paid pilots, and co-development agreements with strategic partners validate demand and provide capital simultaneously. Revenue from customers beats equity from investors every time.
 
 - **Think about the "valley of death" financing gap** — the period after initial R&D when you need manufacturing scale but before you have revenue to sustain it. Government loan guarantees (like DOE loan programs) and strategic corporate partnerships can bridge this gap without massive VC dilution.
 

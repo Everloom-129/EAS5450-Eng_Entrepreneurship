@@ -2,7 +2,7 @@
 
 *March–April 2025*
 
-> The equity split is the first design decision of a company. Get it wrong and every subsequent decision becomes harder. Get it right and you've set the foundation for trust between co-founders for years.
+> The equity split is the first real decision a company makes. Get it wrong and every subsequent decision becomes harder. Get it right and you've set the foundation for trust between co-founders for years.
 
 ## The Big Picture
 

@@ -62,6 +62,4 @@ The worst investors are ones who push growth before you have product-market fit 
 
 ## My Take
 
-The bootstrap vs. VC decision is one I think about in the context of academic research too. A well-funded lab with no product-market constraint can explore freely — that's bootstrapping at a small scale. A VC-backed lab equivalent is one with a specific deliverable, a timeline, and an investor who wants results. Both modes produce different kinds of work.
-
-For my own eventual startup: I'd bootstrap as long as possible to retain control and validate the core hypothesis without external pressure. Then raise when I have clear evidence that capital is the binding constraint on growth — not unclear product-market fit dressed up as a funding problem.
+For my own eventual startup: I'd bootstrap as long as possible to retain control and validate the core hypothesis without external pressure. Then raise when I have clear evidence that capital is the binding constraint on growth — not unclear product-market fit dressed up as a funding problem. The distinction matters: VCs can accelerate a good business, but they can't fix a broken one, and they'll push you to scale either way.

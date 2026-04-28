@@ -14,7 +14,7 @@ N12 Technologies is the case study: a nanocomposite materials startup that grew 
 
 ## 3 Facts That Hit Different
 
-- **Culture is a control system.** Chatman's core argument: strong culture is the most effective management mechanism available — more efficient than rules, surveillance, or hierarchy. When people deeply internalize the values and norms of an organization, they make decisions consistent with company goals without needing oversight. This is the operating system that runs without explicit instruction.
+- **Culture is a control system.** Chatman's core argument: strong culture is the most effective management mechanism available. It is more efficient than rules, surveillance, or hierarchy. When people deeply internalize the values and norms of an organization, they make decisions consistent with company goals without needing to be told. Culture is what runs the company when nobody's watching.
 
 - **N12's three scaling phases** each required distinct organizational responses: flat and fluid (4→7 employees), vertical team structure with functional specialization (7→16), and formalized communication with preserved cultural rituals (16→27). The company's flagship product, **NanoStitch** (a nanocomposite structural material), was validated during the first phase — the flat team that proved the technology was the same team that had to evolve into a scaled organization. Each transition introduced friction and required deliberate management of both structure and culture simultaneously.
 
@@ -46,7 +46,7 @@ The through-line: N12 scaled the *structure* while protecting the *trust*. New h
 
 Several concrete behaviors from the research:
 
-- **Preserve founder-level access**: even at 50 people, the CEO should still be in regular direct contact with individual contributors, not just their direct reports. This maintains the signal quality of early-stage communication.
+- **Preserve founder-level access**: even at 50 people, the CEO should still be in regular direct contact with individual contributors, not just their direct reports. This keeps direct communication alive instead of losing it to layers of management.
 - **Ritualize the informal**: the N12 breakfast tradition is a good example. Informal social bonding that happens naturally at 5 people has to be intentionally created at 25.
 - **Hire for curiosity over expertise**: curious people learn new skills; credentialed experts defend old ones. At scale, curiosity is more sustainable than any specific skill set.
 - **Celebrate learning from failure**: if failure gets punished, people stop taking risks. If failure gets analyzed and learned from publicly, it reinforces the scientific culture.

@@ -58,7 +58,7 @@ The lesson: **complementarity matters more than likability**. Most co-founding t
 
 ## My Take
 
-The "why incentive plans don't work" piece is the one that I've thought about most since reading it. In robotics research, we never use financial incentives to motivate grad students. The motivation is always intrinsic — curiosity, the problem, the desire to publish, the challenge of making the robot work. And the most productive people I've worked with are the ones most driven by those intrinsic factors.
+The "why incentive plans don't work" piece is the one that I've thought about most since reading it. The best people I've worked with in research environments — grad students, collaborators, advisors — are almost never motivated by financial incentives. The motivation is intrinsic: curiosity, the problem, the desire to publish, the challenge of making something work that's never worked before. Kohn's research just puts a name on what's already observable.
 
 The implication for startup team-building: if you're relying on a bonus structure to get people to care about the company's success, you've already failed. The people who will build a great company are the ones who'd work on the problem even if the compensation were slightly below market — because the problem, the team, and the mission are that compelling.
 

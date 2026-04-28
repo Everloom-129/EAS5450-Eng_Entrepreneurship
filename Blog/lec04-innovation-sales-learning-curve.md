@@ -2,7 +2,7 @@
 
 *February 2025*
 
-> Scaling sales before you understand your customer is like deploying a model trained on the wrong distribution. The numbers look fine until they don't.
+> Scaling sales before you understand your customer doesn't accelerate growth — it accelerates the wrong assumptions. You won't notice until the runway is gone.
 
 ## The Big Picture
 
@@ -48,8 +48,6 @@ Key insight: **Positioning = Differentiation × Segmentation**. You're not build
 
 ## My Take
 
-The Sales Learning Curve maps almost perfectly to how I think about research and deployment in robotics. In the lab, we don't deploy the full system on Day 1. We start with a toy environment, run experiments, understand failure modes, then scale. The "renaissance rep" equivalent in research is the PhD student who builds the first prototype and understands the failure modes deeply — before the undergrads run the full experiment.
+The Sales Learning Curve maps to a broader principle: you don't go big before you've validated the core hypothesis. In a startup, scaling too early kills the company. The instinct to hire and spend is understandable, but Leslie and Holloway are clear: the initiation phase is not about growth, it's about understanding. Learn first, scale second.
 
-The dangerous instinct — in both startups and research — is to go big before you've validated the core hypothesis. In a startup, this kills the company. In research, it burns the compute budget on an approach that doesn't work. Either way: learn first, scale second.
-
-The Clever case (from the YC video) is the clearest evidence: Tyler Bosmeny, the CEO, spent months doing sales himself before hiring anyone. That's not inefficiency — that's the fastest path to a repeatable sales model.
+The Clever case (from the YC video) is the clearest evidence: Tyler Bosmeny, the CEO, spent months doing sales himself before hiring anyone. That's not inefficiency — that's the fastest path to a repeatable sales model. His rule for early sales conversations: aim to spend 30% of the call talking and 70% listening. The goal is to understand the customer's problem better than they can articulate it themselves — and you can't do that if you're pitching.

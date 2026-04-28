@@ -26,7 +26,7 @@ The Palm Finance case runs in parallel: how a company with genuinely innovative 
 
 **Q: What is the practical difference between closed and open innovation?**
 
-In **closed innovation**, every step of the R&D pipeline stays internal: ideas come from internal scientists, they're developed internally, and they're commercialized through internal product lines. Waste is high — most ideas never become products — and external opportunities are ignored.
+In **closed innovation**, every step of the R&D pipeline stays internal: ideas come from internal scientists, they're developed internally, and they're commercialized through internal product lines. Waste is high (most ideas never become products) and external opportunities are ignored.
 
 In **open innovation**, ideas flow in both directions. External startups, universities, and competitors can be sources of innovation (in-sourcing). Internal technologies that don't fit the core roadmap can be spun out, licensed, or sold to others who can commercialize them better (out-sourcing). This maximizes the utilization of knowledge across an ecosystem, not just within a single firm.
 
@@ -55,4 +55,4 @@ For hardware startups especially: be honest about which parts of your stack are 
 
 The open innovation framework maps directly to how leading AI labs operate today. OpenAI publishes research, releases models via API, and partners with Microsoft — all open innovation strategies. Anthropic similarly engages with the broader safety research community. The companies that treat all AI research as proprietary and internal are, in Chesbrough's framing, playing the closed-innovation game in a world that has definitively moved on.
 
-For Palm: the tragedy is that the PalmPilot genuinely changed personal computing. The iPhone was a direct descendent. But Palm couldn't hold onto enough financial stability to execute the next generation. Technology leadership without financial architecture is eventually fragile. The lesson for hardware-focused robotics startups: solve the business model problem before the product problem becomes a distraction.
+For Palm: the tragedy is that the PalmPilot genuinely changed personal computing. The iPhone was a direct descendent. But Palm couldn't hold onto enough financial stability to execute the next generation. Technology leadership without financial architecture is eventually fragile. The lesson for any hardware startup: solve the business model problem before the product problem becomes a distraction.
