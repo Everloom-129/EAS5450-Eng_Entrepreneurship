@@ -33,7 +33,7 @@ export const TAG_COLORS: Record<string, { bg: string; text: string }> = {
 }
 
 // ── Cover art component ───────────────────────────────────────────────────────
-function CoverArt({ tag, num, size = 'card' }: { tag: string; num: string; size?: 'card' | 'hero' }) {
+function CoverArt({ tag, num, image, size = 'card' }: { tag: string; num: string; image?: string; size?: 'card' | 'hero' }) {
   const gradient = GRADIENTS[tag] ?? GRADIENTS.Innovation
   const colors = TAG_COLORS[tag] ?? TAG_COLORS.Innovation
   return (
@@ -41,6 +41,7 @@ function CoverArt({ tag, num, size = 'card' }: { tag: string; num: string; size?
       className={`cover cover-${size}`}
       style={{ background: gradient }}
     >
+      {image && <img src={image} alt="" className="cover-image" loading="lazy" decoding="async" />}
       <span
         className="cover-category"
         style={{ background: colors.bg, color: colors.text }}
@@ -57,7 +58,7 @@ function PostCard({ post }: { post: PostMeta }) {
   const navigate = useNavigate()
   return (
     <article className="card" onClick={() => navigate(`/post/${post.slug}`)}>
-      <CoverArt tag={post.tag} num={post.num} />
+      <CoverArt tag={post.tag} num={post.num} image={post.image} />
       <div className="card-body">
         <h2 className="card-title">{post.title}</h2>
         {post.excerpt && <p className="card-excerpt">{post.excerpt}</p>}

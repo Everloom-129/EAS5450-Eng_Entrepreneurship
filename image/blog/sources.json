@@ -1,0 +1,242 @@
+﻿[
+    {
+        "slug":  "lec00-introduction",
+        "file":  "image/blog/lec00-introduction.png",
+        "sourceTitle":  "Penn Engineering EAS 5450 course page",
+        "sourceUrl":  "https://eent.seas.upenn.edu/academics/eas-5450/",
+        "captureMode":  "screenshot",
+        "note":  "Official course page listing topics, readings, cases, and assignments."
+    },
+    {
+        "slug":  "lec01-dna-of-innovations",
+        "file":  "image/blog/lec01-dna-of-innovations.png",
+        "sourceTitle":  "Innovator\u0027s DNA research origins",
+        "sourceUrl":  "https://www.innovatorsdna.com/research-origins",
+        "captureMode":  "screenshot",
+        "note":  "Public Innovator\u0027s DNA page describing the five discovery skills."
+    },
+    {
+        "slug":  "lec02-winning-strategy",
+        "file":  "image/blog/lec02-winning-strategy.png",
+        "sourceTitle":  "Microsoft FrontPage press release",
+        "sourceUrl":  "https://news.microsoft.com/source/2001/01/23/microsoft-frontpage-surpasses-5-million-usersleading-web-development-tool-user-base-grows-more-than-40-percent-during-last-year/",
+        "captureMode":  "screenshot",
+        "note":  "Official Microsoft page referencing the Vermeer/FrontPage acquisition path."
+    },
+    {
+        "slug":  "lec03-palm-and-ip",
+        "file":  "image/blog/lec03-palm-and-ip.png",
+        "sourceTitle":  "Palm handwriting input patent",
+        "sourceUrl":  "https://patents.google.com/patent/US6295372B1/en",
+        "captureMode":  "screenshot",
+        "note":  "Google Patents page for Palm-related handwriting recognition IP."
+    },
+    {
+        "slug":  "lec04-innovation-sales-learning-curve",
+        "file":  "image/blog/lec04-innovation-sales-learning-curve.png",
+        "sourceTitle":  "Sequoia: The Sales Learning Curve",
+        "sourceUrl":  "https://sequoiacap.com/article/the-sales-learning-curve/",
+        "captureMode":  "screenshot",
+        "note":  "Public Sequoia article preserving Mark Leslie\u0027s sales learning curve framework."
+    },
+    {
+        "slug":  "lec05-innovation-cash-and-pilot",
+        "file":  "image/blog/lec05-innovation-cash-and-pilot.jpg",
+        "sourceTitle":  "PalmPilot Professional photo",
+        "sourceUrl":  "https://commons.wikimedia.org/wiki/Special:Redirect/file/PalmPilot_Professional.jpg",
+        "captureMode":  "image",
+        "note":  "Wikimedia Commons image of a 3Com PalmPilot Professional."
+    },
+    {
+        "slug":  "lec06-customer-discovery",
+        "file":  "image/blog/lec06-customer-discovery.png",
+        "sourceTitle":  "NSF I-Corps customer discovery",
+        "sourceUrl":  "https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps",
+        "captureMode":  "screenshot",
+        "note":  "Official NSF description of I-Corps customer discovery."
+    },
+    {
+        "slug":  "lec07-lean-startup-dropbox",
+        "file":  "image/blog/lec07-lean-startup-dropbox.jpg",
+        "sourceTitle":  "Lean startup learning cycle",
+        "sourceUrl":  "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lean-StartUp-Cycle-EN.jpg",
+        "captureMode":  "image",
+        "note":  "Wikimedia Commons diagram of the lean startup cycle."
+    },
+    {
+        "slug":  "lec08-market-strategy",
+        "file":  "image/blog/lec08-market-strategy.svg",
+        "sourceTitle":  "Marketing Mix 4P diagram",
+        "sourceUrl":  "https://commons.wikimedia.org/wiki/Special:Redirect/file/Marketing_Mix_4P.svg",
+        "captureMode":  "image",
+        "note":  "Wikimedia Commons Creative Commons diagram of the 4 Ps marketing mix."
+    },
+    {
+        "slug":  "lec09-finance-strategy-linkedin",
+        "file":  "image/blog/lec09-finance-strategy-linkedin.png",
+        "sourceTitle":  "LinkedIn S-1 registration statement",
+        "sourceUrl":  "https://www.sec.gov/Archives/edgar/data/1271024/000119312511016022/ds1.htm",
+        "captureMode":  "screenshot",
+        "note":  "SEC EDGAR filing for LinkedIn\u0027s IPO registration statement."
+    },
+    {
+        "slug":  "lec10-business-model-canvas-dell",
+        "file":  "image/blog/lec10-business-model-canvas-dell.png",
+        "sourceTitle":  "Strategyzer Business Model Canvas",
+        "sourceUrl":  "https://www.strategyzer.com/library/the-business-model-canvas",
+        "captureMode":  "screenshot",
+        "note":  "Official Strategyzer page for the Business Model Canvas template."
+    },
+    {
+        "slug":  "lec11-venture-finance-bootstrap",
+        "file":  "image/blog/lec11-venture-finance-bootstrap.png",
+        "sourceTitle":  "PitchBook-NVCA Venture Monitor",
+        "sourceUrl":  "https://nvca.org/pitchbook-nvca-venture-monitor/",
+        "captureMode":  "screenshot",
+        "note":  "NVCA report hub for U.S. venture capital market data."
+    },
+    {
+        "slug":  "lec12-convertible-notes-safes",
+        "file":  "image/blog/lec12-convertible-notes-safes.png",
+        "sourceTitle":  "Y Combinator SAFE financing documents",
+        "sourceUrl":  "https://www.ycombinator.com/documents",
+        "captureMode":  "screenshot",
+        "note":  "Official YC page for SAFE financing document downloads."
+    },
+    {
+        "slug":  "lec13-negotiate-vc-term-sheets",
+        "file":  "image/blog/lec13-negotiate-vc-term-sheets.png",
+        "sourceTitle":  "NVCA model legal documents",
+        "sourceUrl":  "https://nvca.org/model-legal-documents/",
+        "captureMode":  "screenshot",
+        "note":  "NVCA\u0027s public model financing document hub."
+    },
+    {
+        "slug":  "lec14-ipo-facebook",
+        "file":  "image/blog/lec14-ipo-facebook.png",
+        "sourceTitle":  "Facebook S-1 registration statement",
+        "sourceUrl":  "https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm",
+        "captureMode":  "screenshot",
+        "note":  "SEC EDGAR filing for Facebook\u0027s IPO registration statement."
+    },
+    {
+        "slug":  "lec15-open-innovation-palm-finance",
+        "file":  "image/blog/lec15-open-innovation-palm-finance.png",
+        "sourceTitle":  "NASA Open Innovation report",
+        "sourceUrl":  "https://www.nasa.gov/wp-content/uploads/2022/01/fy1920openinnovationreport-final.pdf",
+        "captureMode":  "pdf",
+        "note":  "Public NASA report on open innovation programs and challenge models."
+    },
+    {
+        "slug":  "lec16-guest-ross-mechanic-maybern",
+        "file":  "image/blog/lec16-guest-ross-mechanic-maybern.png",
+        "sourceTitle":  "Maybern about page",
+        "sourceUrl":  "https://www.maybern.com/about-us",
+        "captureMode":  "screenshot",
+        "note":  "Official Maybern page describing its fund accounting software approach."
+    },
+    {
+        "slug":  "lec17-disruptive-innovation-genapsys",
+        "file":  "image/blog/lec17-disruptive-innovation-genapsys.png",
+        "sourceTitle":  "NHGRI DNA sequencing cost data",
+        "sourceUrl":  "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data",
+        "captureMode":  "screenshot",
+        "note":  "National Human Genome Research Institute data page for sequencing cost curves."
+    },
+    {
+        "slug":  "lec18-guest-julia-omara-pickle",
+        "file":  "image/blog/lec18-guest-julia-omara-pickle.png",
+        "sourceTitle":  "Pickle about page",
+        "sourceUrl":  "https://www.shoponpickle.com/about",
+        "captureMode":  "screenshot",
+        "note":  "Official Pickle page showing the product, founders, and circular fashion model."
+    },
+    {
+        "slug":  "lec19-equity-splits-sweat-equity-nanogene",
+        "file":  "image/blog/lec19-equity-splits-sweat-equity-nanogene.png",
+        "sourceTitle":  "Carta Founder Ownership Report",
+        "sourceUrl":  "https://assets.ctfassets.net/y88td1zx1ufe/5zYTlz3gdNzuFU7fQS5gjh/fbe271b0fbb5947e0223757d73254bb5/Founder_Ownership_Report.pdf",
+        "captureMode":  "pdf",
+        "note":  "Carta data report on founder ownership and equity split patterns."
+    },
+    {
+        "slug":  "lec20-guest-tobias-dengel-willowtree",
+        "file":  "image/blog/lec20-guest-tobias-dengel-willowtree.png",
+        "sourceTitle":  "TELUS International completes WillowTree acquisition",
+        "sourceUrl":  "https://www.sec.gov/Archives/edgar/data/868675/000110465923001302/tm231725d1_ex99-1.htm",
+        "captureMode":  "screenshot",
+        "note":  "SEC filing exhibit containing TELUS International\u0027s WillowTree acquisition release."
+    },
+    {
+        "slug":  "lec21-fda-sirtris",
+        "file":  "image/blog/lec21-fda-sirtris.png",
+        "sourceTitle":  "FDA drug approval process infographic",
+        "sourceUrl":  "https://www.fda.gov/drugs/information-consumers-and-patients-drugs/fda-drug-approval-process-infographic-horizontal",
+        "captureMode":  "screenshot",
+        "note":  "Official FDA infographic page for the drug approval process."
+    },
+    {
+        "slug":  "lec22-guest-miranda-wang-novoloop",
+        "file":  "image/blog/lec22-guest-miranda-wang-novoloop.png",
+        "sourceTitle":  "Novoloop about page",
+        "sourceUrl":  "https://www.novoloop.com/about",
+        "captureMode":  "screenshot",
+        "note":  "Official Novoloop page explaining its plastic upcycling platform."
+    },
+    {
+        "slug":  "lec22b-special-panel-penn-eng-entrepreneurship",
+        "file":  "image/blog/lec22b-special-panel-penn-eng-entrepreneurship.png",
+        "sourceTitle":  "Penn Today: Generative AI and Entrepreneurship",
+        "sourceUrl":  "https://penntoday.upenn.edu/events/generative-ai-and-entrepreneurship",
+        "captureMode":  "screenshot",
+        "note":  "Penn Today event page for Penn Engineering Entrepreneurship\u0027s 25th anniversary programming."
+    },
+    {
+        "slug":  "lec23-level5-leadership-spoiled-mips",
+        "file":  "image/blog/lec23-level5-leadership-spoiled-mips.png",
+        "sourceTitle":  "Jim Collins Level 5 Leadership",
+        "sourceUrl":  "https://www.jimcollins.com/concepts/level-five-leadership.html",
+        "captureMode":  "screenshot",
+        "note":  "Official Jim Collins concept page for Level 5 Leadership."
+    },
+    {
+        "slug":  "lec24-hiring-incentives-sun",
+        "file":  "image/blog/lec24-hiring-incentives-sun.svg",
+        "sourceTitle":  "Sun Microsystems logo",
+        "sourceUrl":  "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sun-Logo.svg",
+        "captureMode":  "image",
+        "note":  "Wikimedia Commons public-domain text/logo file for Sun Microsystems."
+    },
+    {
+        "slug":  "lec25-leveraging-culture-scaling-n12",
+        "file":  "image/blog/lec25-leveraging-culture-scaling-n12.png",
+        "sourceTitle":  "N12 NanoStitch technical handout",
+        "sourceUrl":  "https://www.compositesworld.com/cdn/cms/FM2016-N12-NanoStitch.pdf",
+        "captureMode":  "pdf",
+        "note":  "Public technical PDF for N12 NanoStitch carbon nanotube composite material."
+    },
+    {
+        "slug":  "lec26-theranos",
+        "file":  "image/blog/lec26-theranos.png",
+        "sourceTitle":  "SEC press release charging Theranos and Elizabeth Holmes",
+        "sourceUrl":  "https://www.sec.gov/newsroom/press-releases/2018-41",
+        "captureMode":  "screenshot",
+        "note":  "SEC press release covering Theranos fraud allegations and enforcement action."
+    },
+    {
+        "slug":  "lec27-managers-leaders-schumpeter",
+        "file":  "image/blog/lec27-managers-leaders-schumpeter.png",
+        "sourceTitle":  "Joseph Schumpeter portrait",
+        "sourceUrl":  "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph_Schumpeter_1945_Bachrach_portrait.png",
+        "captureMode":  "image",
+        "note":  "Wikimedia Commons public-domain portrait of Joseph Schumpeter."
+    },
+    {
+        "slug":  "lec28a-personal-financial-foresight",
+        "file":  "image/blog/lec28a-personal-financial-foresight.png",
+        "sourceTitle":  "Federal Reserve Survey of Consumer Finances",
+        "sourceUrl":  "https://www.federalreserve.gov/econres/scfindex.htm",
+        "captureMode":  "screenshot",
+        "note":  "Federal Reserve page for the Survey of Consumer Finances and chartbook."
+    }
+]

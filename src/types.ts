@@ -8,4 +8,5 @@ export interface PostMeta {
   excerpt: string
   quote: string
   content: string
+  image?: string
 }

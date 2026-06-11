@@ -35,6 +35,13 @@ export default function Post() {
   const gradient = GRADIENTS[post.tag] ?? GRADIENTS.Innovation
   const tagColors = TAG_COLORS[post.tag] ?? TAG_COLORS.Innovation
   const content = prepareContent(post.content)
+  const heroStyle = post.image
+    ? {
+        backgroundImage: `linear-gradient(135deg, rgba(1, 31, 91, 0.98), rgba(1, 31, 91, 0.94) 48%, rgba(1, 31, 91, 0.88)), url(${post.image})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+      }
+    : { background: gradient }
 
   return (
     <div className="page-post">
@@ -54,7 +61,7 @@ export default function Post() {
       </nav>
 
       {/* ── Hero banner ── */}
-      <div className="post-hero" style={{ background: gradient }}>
+      <div className="post-hero" style={heroStyle}>
         <div className="hero-dots" />
         <div className="post-hero-inner">
           <span

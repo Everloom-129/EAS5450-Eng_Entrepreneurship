@@ -14,6 +14,19 @@ const rawModulesCN = import.meta.glob('../Blog_CN/lec*.md', {
   eager: true,
 }) as Record<string, string>
 
+const imageModules = import.meta.glob('../image/blog/*.{png,jpg,jpeg,webp,svg}', {
+  query: '?url',
+  import: 'default',
+  eager: true,
+}) as Record<string, string>
+
+const imageBySlug: Record<string, string> = Object.fromEntries(
+  Object.entries(imageModules).map(([path, url]) => [
+    path.split('/').pop()!.replace(/\.(png|jpe?g|webp|svg)$/i, ''),
+    url,
+  ])
+)
+
 // ── Tag mapping ───────────────────────────────────────────────────────────────
 const TAG_MAP: Record<string, string> = {
   lec00: 'Innovation', lec01: 'Innovation',
@@ -78,7 +91,18 @@ function parse(path: string, content: string): PostMeta {
   const prefix = slug.match(/^lec\d+[a-z]*/)?.[0] ?? ''
   const tag = TAG_MAP[prefix] ?? 'Innovation'
 
-  return { slug, num, title, date, tag, readingTime, excerpt, quote, content }
+  return {
+    slug,
+    num,
+    title,
+    date,
+    tag,
+    readingTime,
+    excerpt,
+    quote,
+    content,
+    image: imageBySlug[slug],
+  }
 }
 
 // ── Exported data ─────────────────────────────────────────────────────────────
