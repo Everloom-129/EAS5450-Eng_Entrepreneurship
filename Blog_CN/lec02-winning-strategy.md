@@ -22,6 +22,13 @@ Vermeer案例是最鲜活的实例。这家融资总额仅580万美元的小公�
 
 ---
 
+## 数据与引用
+
+- **Vermeer / FrontPage 的规模校验：** 微软曾披露 FrontPage 用户数超过 **500 万**，且上一年用户基数增长 **超过 40%**。这才是案例背后的采用曲线，而不只是一个漂亮的收购故事。 [Microsoft press release](https://news.microsoft.com/source/2001/01/23/microsoft-frontpage-surpasses-5-million-usersleading-web-development-tool-user-base-grows-more-than-40-percent-during-last-year/)
+- **战略解释：** 这节课和 Geoffrey Moore 的跨越鸿沟逻辑完全对齐：小公司不是一开始打全场，而是先定义一个窄 beachhead，把它吃透，再等巨头反应过来。 [Chasm Institute](https://www.chasminstitute.com/)
+
+---
+
 ## 问答
 
 **问："设备"与"完整产品"有何区别？为何这一区别至关重要？**

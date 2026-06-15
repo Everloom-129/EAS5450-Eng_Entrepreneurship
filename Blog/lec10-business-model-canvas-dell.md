@@ -22,6 +22,13 @@ The Dell case is the canonical example of a company that engineered not just a p
 
 ---
 
+## Statistics & Citations
+
+- **Dell growth anchor:** Dell's 1990s growth table shows revenue expanding from hundreds of millions to tens of billions, which is the financial shadow of the direct model and supply-chain machine. [Dell historical growth](https://en.wikipedia.org/wiki/Dell#History)
+- **Canvas source:** Strategyzer's Business Model Canvas remains the cleanest one-page map for connecting customer segments, channels, revenue streams, key activities, and cost structure. [Strategyzer Business Model Canvas](https://www.strategyzer.com/library/the-business-model-canvas)
+
+---
+
 ## Q&A
 
 **Q: What is the Business Model Canvas and why is it more useful than a traditional business plan?**

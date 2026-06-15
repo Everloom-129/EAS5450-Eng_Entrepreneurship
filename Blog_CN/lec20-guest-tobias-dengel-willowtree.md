@@ -22,6 +22,13 @@ Tobias还是《未来之声》的作者，这本书登上了《华尔街日报�
 
 ---
 
+## 数据与引用
+
+- **WillowTree 扩张到了战略收购级别：** TELUS International 提交给 SEC 的收购公告称，WillowTree 拥有 **1,000+ 名数字战略师、设计师、工程师和项目经理**，交付过 **700+ 个数字产品**，并在 2021 年产生约 **1.4 亿美元收入**。 [TELUS/WillowTree SEC exhibit](https://www.sec.gov/Archives/edgar/data/868675/000110465923001302/tm231725d1_ex99-1.htm)
+- **服务型公司的规模化靠信任，不只是靠人数：** 同一文件称 TELUS International 拥有 **70,000+ 团队成员**、**100 万+ 受训 AI 标注社区成员**，以及分布在 **30 个国家的 69 个交付中心和工作室**。这就是企业级交付能力变成收购逻辑时的样子。 [TELUS/WillowTree SEC exhibit](https://www.sec.gov/Archives/edgar/data/868675/000110465923001302/tm231725d1_ex99-1.htm)
+
+---
+
 ## 问答
 
 **问：WillowTree的哪些经验教训适用于2025年正在创业的技术创始人？**

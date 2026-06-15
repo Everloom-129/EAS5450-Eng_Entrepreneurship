@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **VC 市场现实校验：** PitchBook-NVCA Venture Monitor 是判断风险资本“宽松”还是“紧”的季度基准。其 2026 年 Q1 页面报告美国 VC deal value 为 **2672 亿美元**，但同时指出去掉最大的五笔交易后，deal value 会减少 **73.2%**。这很干净地说明：创业融资是 power-law finance。 [PitchBook-NVCA Venture Monitor](https://nvca.org/pitchbook-nvca-venture-monitor/)
+- **Bootstrapping 不是安慰奖：** SBA 把 **self-funding、investors、loans** 列为不同融资路径，并把 bootstrapping 定义为使用个人储蓄、亲友资金或退休资金等个人资源。这正对应本讲的控制权与风险权衡。 [SBA: Fund your business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business)
+
+---
+
 ## 问答
 
 **问：初创公司何时应该自力更生，何时应该融风险投资？**

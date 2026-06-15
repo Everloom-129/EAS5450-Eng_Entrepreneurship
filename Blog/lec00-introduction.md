@@ -24,6 +24,13 @@ Over 27+ lectures, we'll study real companies: HP, Palm, Vermeer, Dropbox, Linke
 
 ---
 
+## Statistics & Citations
+
+- **Startup survival baseline:** roughly half of new U.S. businesses from the 2019 cohort were still operating five years later, based on BLS-linked survival data. Entrepreneurship starts with harsh base rates, not vibes. [Axios summary of BLS data](https://www.axios.com/2025/11/04/new-business-survival-rates-map)
+- **Course context:** EAS 5450 is explicitly organized around readings, case studies, and assignments rather than pure lecture delivery, which matches the course's decision-under-uncertainty format. [Penn Engineering Entrepreneurship](https://eent.seas.upenn.edu/academics/eas-5450/)
+
+---
+
 ## Q&A
 
 **Q: What is "engineering entrepreneurship" and how is it different from just "entrepreneurship"?**

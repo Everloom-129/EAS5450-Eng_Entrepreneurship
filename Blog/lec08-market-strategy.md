@@ -22,6 +22,13 @@ The 5 C's framework (Customers, Company, Competition, Collaborators, Context) is
 
 ---
 
+## Statistics & Citations
+
+- **Market size context:** U.S. internet advertising revenue reached **$225 billion in 2023**, a reminder that pricing, channels, and positioning are now measurable systems, not only creative exercises. [IAB Internet Advertising Revenue Report](https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2023/)
+- **Framework citation:** the 4P model is still useful as a checklist because it forces founders to connect product, price, place, and promotion instead of treating marketing as "ads later." [Marketing Mix 4P diagram](https://commons.wikimedia.org/wiki/File:Marketing_Mix_4P.svg)
+
+---
+
 ## Q&A
 
 **Q: What are the 5 C's and why do they have to come before the 4 P's?**

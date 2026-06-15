@@ -22,6 +22,13 @@ Together, these readings challenge almost everything most engineers believe abou
 
 ---
 
+## Statistics & Citations
+
+- **Sun's ending was a strategic transaction, not a quiet fade-out:** Oracle announced it would acquire Sun for **$9.50 per share in cash**, valuing the transaction at about **$7.4B**, or **$5.6B net of Sun's cash and debt**. [Oracle Buys Sun](https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html)
+- **The deal thesis was integration:** Oracle estimated Sun would add **$1.5B+** to non-GAAP operating profit in the first year and **$2B+** in the second. That is the incentive-plan lesson in financial form: strategy, people, and operating model have to reinforce each other. [Oracle Buys Sun](https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html)
+
+---
+
 ## Q&A
 
 **Q: How do you actually implement "First Who" — what does good hiring look like in practice?**

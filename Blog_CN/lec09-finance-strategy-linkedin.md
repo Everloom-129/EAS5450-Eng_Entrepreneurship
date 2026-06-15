@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **LinkedIn S-1 锚点：** LinkedIn 的注册声明披露了 IPO 案例背后的财务和用户指标，包括收入增长与会员规模。 [LinkedIn S-1](https://www.sec.gov/Archives/edgar/data/1271024/000119312511016022/ds1.htm)
+- **读财务报表：** SEC 文件格式把这件事讲得很具体：资产负债表、利润表、现金流量表和风险因素，是同一家公司的互相关联视图，不是四张孤立的作业表。 [SEC EDGAR filing detail](https://www.sec.gov/Archives/edgar/data/1271024/000119312511016022/)
+
+---
+
 ## 问答
 
 **问：高级套餐还是用户联系费，哪个是正确的选择？为何如此？**

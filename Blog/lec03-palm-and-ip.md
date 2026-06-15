@@ -22,6 +22,13 @@ PalmPrint, Hawkins' handwriting recognition algorithm (which eventually became G
 
 ---
 
+## Statistics & Citations
+
+- **Palm IP anchor:** Palm's handwriting-input patent record shows filing and grant metadata for **US6295372B1**, a concrete example of software/interface IP becoming strategic currency. [Google Patents](https://patents.google.com/patent/US6295372B1/en)
+- **Patent clock:** U.S. utility patent term is generally measured from the filing date, commonly **20 years** subject to adjustments and maintenance rules. That clock matters when patents are used as financing and negotiation assets. [USPTO patent term calculator](https://www.uspto.gov/patents/laws/patent-term-calculator)
+
+---
+
 ## Q&A
 
 **Q: What are the real advantages of patenting a core algorithm?**

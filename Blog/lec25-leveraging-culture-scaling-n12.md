@@ -22,6 +22,13 @@ N12 Technologies is the case study: a nanocomposite materials startup that grew 
 
 ---
 
+## Statistics & Citations
+
+- **N12 was attacking a real composites bottleneck:** Public NanoStitch materials describe the technology as vertically aligned carbon-nanotube reinforcement designed to improve interlaminar performance in composite structures. The startup problem was not "make a cool material"; it was "prove a materials upgrade can survive aerospace-grade adoption friction." [N12 NanoStitch technical handout](https://www.compositesworld.com/cdn/cms/FM2016-N12-NanoStitch.pdf)
+- **The physics case has measurable stakes:** A public CNT-veil composites study reported **60% improvement in Mode-I fracture toughness** using thin, about **30 micron**, continuous carbon-nanotube veils. That gives a quantitative anchor for why interlaminar reinforcement matters, even before talking about culture or scaling. [CNT veil composite study](https://arxiv.org/abs/1905.09080)
+
+---
+
 ## Q&A
 
 **Q: What is "culture" in an organizational sense, and why is it so hard to maintain through scaling?**

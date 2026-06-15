@@ -22,6 +22,13 @@ The Facebook IPO of May 2012 is the best modern case study in how an IPO can go 
 
 ---
 
+## Statistics & Citations
+
+- **Facebook's IPO user scale was already planetary:** In its February 1, 2012 S-1, Facebook reported **845M monthly active users**, **483M daily active users**, and **425M mobile MAUs** as of December 2011. The market was not buying a website; it was buying a social operating system. [Facebook S-1](https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm)
+- **Revenue concentration was the risk signal:** The same S-1 shows **$3.154B of 2011 advertising revenue** and **$557M of payments/other fees**, meaning ads were about **85%** of total revenue. The mobile-ad gap mattered because almost the whole machine depended on one revenue engine. [Facebook S-1](https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm)
+
+---
+
 ## Q&A
 
 **Q: Why do companies go public, and what are the real costs?**

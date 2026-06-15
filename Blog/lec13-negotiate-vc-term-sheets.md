@@ -22,6 +22,13 @@ This lecture covers the anatomy of a VC term sheet — the key economic and cont
 
 ---
 
+## Statistics & Citations
+
+- **Term sheets are standardized for a reason:** NVCA maintains model venture financing documents so founders and investors are not inventing every legal interface from scratch. The model-doc ecosystem is the API layer for priced venture rounds. [NVCA Model Legal Documents](https://nvca.org/model-legal-documents/)
+- **Dilution becomes real fast:** Carta's 2025 founder ownership report, based on **45,000+ startups**, finds that after a priced seed round the median founding team owns **56.2%**; by Series A that falls to **36.1%**, and by Series B to **23%**. Every term sheet is a cap-table simulation in disguise. [Carta Founder Ownership Report](https://assets.ctfassets.net/y88td1zx1ufe/5zYTlz3gdNzuFU7fQS5gjh/fbe271b0fbb5947e0223757d73254bb5/Founder_Ownership_Report.pdf)
+
+---
+
 ## Q&A
 
 **Q: What are the most important terms to negotiate in a Series A term sheet?**

@@ -22,6 +22,13 @@ Sirtris Pharmaceuticals is the case study: a company founded on the science of s
 
 ---
 
+## Statistics & Citations
+
+- **Regulation is the product roadmap:** FDA's drug approval process frames the pathway as discovery/development, preclinical research, clinical research, FDA review, and post-market safety monitoring. A biotech startup is not just optimizing a molecule; it is optimizing evidence generation. [FDA Drug Approval Process](https://www.fda.gov/drugs/information-consumers-and-patients-drugs/fda-drug-approval-process-infographic-horizontal)
+- **Sirtris is a valuation-before-validation caution sign:** Industry coverage of the 2008 GSK-Sirtris transaction reported a purchase price of about **$720M**, while Sirtris's platform still faced the hard clinical-validation path described by FDA. [Fierce Biotech: GSK buys Sirtris](https://www.fiercebiotech.com/biotech/gsk-buys-sirtris-for-720m)
+
+---
+
 ## Q&A
 
 **Q: How does FDA regulation shape startup strategy in biotech and medtech?**

@@ -22,6 +22,13 @@ The framing matters: think of yourself as a startup. You have a balance sheet (a
 
 ---
 
+## Statistics & Citations
+
+- **Personal finance needs baseline data:** The Federal Reserve says the **2022 Survey of Consumer Finances** is the most recent SCF and describes it as a normally **triennial cross-sectional survey** of U.S. families covering balance sheets, pensions, income, and demographics. [Federal Reserve SCF](https://www.federalreserve.gov/econres/scfindex.htm)
+- **Net worth is a system variable:** The Fed's SCF chartbook provides median/mean holdings and percent-holding data across assets, debts, net worth, and income, with dollar estimates in **2022 dollars**. This is the household-finance equivalent of instrumenting a robot before tuning the controller. [SCF interactive chartbook](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/)
+
+---
+
 ## Q&A
 
 **Q: How should a young engineering professional think about their financial "balance sheet"?**

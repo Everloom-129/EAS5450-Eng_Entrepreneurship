@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **框架来源：** Mark Leslie 的销售学习曲线把初创公司的销售过程拆成先学习、再执行、最后规模化的阶段。所以在可重复性出现之前猛招销售，往往不是加速收入，而是在烧现金。 [Sequoia: The Sales Learning Curve](https://sequoiacap.com/article/the-sales-learning-curve/)
+- **运营含义：** 核心指标不是销售人数，而是客户获取、销售动作和单位经济模型是否已经足够可重复，值得放大。 [Stanford eCorner: Mark Leslie](https://ecorner.stanford.edu/contributor/mark-leslie/)
+
+---
+
 ## 问答
 
 **问：什么是销售学习曲线？它与制造学习曲线有何不同？**

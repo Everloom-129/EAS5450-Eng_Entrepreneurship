@@ -22,6 +22,13 @@ Dropbox是精益创业的经典故事。霍斯顿进入了一个竞争激烈的�
 
 ---
 
+## 数据与引用
+
+- **Dropbox 规模校验：** Dropbox 的 S-1 展示了一个从 MVP 验证起步的公司，最终如何变成公开市场 SaaS 企业；用户规模和付费转化成了关键运营指标。 [Dropbox S-1](https://www.sec.gov/Archives/edgar/data/1467623/000119312518055809/d451946ds1.htm)
+- **用户增长锚点：** 公开历史记录显示 Dropbox 在 **2009 年** 注册用户突破 **100 万**，到 **2016 年** 达到 **5 亿**，到 **2021 年** 达到 **7 亿**。早期 demo 不是公司本身，而是最便宜的需求测试。 [Dropbox user growth](https://en.wikipedia.org/wiki/Dropbox#User_growth)
+
+---
+
 ## 问答
 
 **问：创业者必须警惕的四种认知偏差是什么？Dropbox是如何应对每一种的？**

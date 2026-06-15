@@ -22,6 +22,13 @@ GenapSys是这个案例：一家基因组学初创公司，试图通过提供更
 
 ---
 
+## 数据与引用
+
+- **测序成本就是颠覆曲线：** NHGRI 跟踪每 Mb DNA 测序成本和每个人类基因组测序成本，并明确指出从 **2008 年 1 月** 开始，测序中心转向下一代平台后，成本下降速度突然超过摩尔定律。 [NHGRI DNA Sequencing Costs](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data)
+- **生物学也有工程常数：** NHGRI 的每基因组成本模型假设人类基因组为 **3,000 Mb**，并针对不同平台使用不同覆盖度，包括 Illumina / SOLiD 风格下一代测序的 **30x coverage**。商业模式其实踩在这些技术假设上。 [NHGRI DNA Sequencing Costs](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data)
+
+---
+
 ## 问答
 
 **问：颠覆性创新的核心机制是什么？它与"维持性创新"有何不同？**

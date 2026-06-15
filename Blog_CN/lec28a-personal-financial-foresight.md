@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **个人财务也需要基线数据：** Federal Reserve 说明 **2022 Survey of Consumer Finances** 是最新一期 SCF，并将其描述为通常每 **三年** 进行一次的美国住户横截面调查，覆盖资产负债表、养老金、收入和人口统计信息。 [Federal Reserve SCF](https://www.federalreserve.gov/econres/scfindex.htm)
+- **净资产是系统变量：** Fed 的 SCF chartbook 提供资产、债务、净资产和收入的中位数 / 平均数、持有比例等数据，金额以 **2022 年美元** 表示。这就像在调机器人控制器前先做 instrumentation。 [SCF interactive chartbook](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/)
+
+---
+
 ## 问答
 
 **问：年轻的工程师应该如何思考自己的财务"资产负债表"？**

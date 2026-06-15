@@ -22,6 +22,13 @@ This lecture covers the frameworks from Harvard's *Customer Discovery and Valida
 
 ---
 
+## Statistics & Citations
+
+- **I-Corps benchmark:** NSF I-Corps formalizes customer discovery as a national entrepreneurship-training method, making interviews and evidence gathering part of the engineering commercialization stack. [NSF I-Corps](https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps)
+- **Why it matters:** customer discovery is useful precisely because most early assumptions are unverified; the process turns market claims into testable hypotheses before major capital is committed. [NSF I-Corps Teams](https://new.nsf.gov/funding/initiatives/i-corps/teams)
+
+---
+
 ## Q&A
 
 **Q: What do you actually need to learn from a potential customer?**

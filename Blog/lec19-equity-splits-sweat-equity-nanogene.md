@@ -24,6 +24,13 @@ The NanoGene case brings this to life: a biotech startup navigating the exact di
 
 ---
 
+## Statistics & Citations
+
+- **Equal splits are rising, but not automatic:** Carta's founder ownership report says **45.9%** of two-founder teams incorporated in 2024 split equity equally, up from **31.5%** in 2015. The trend is more democratic, but still not universal. [Carta Founder Ownership Report](https://assets.ctfassets.net/y88td1zx1ufe/5zYTlz3gdNzuFU7fQS5gjh/fbe271b0fbb5947e0223757d73254bb5/Founder_Ownership_Report.pdf)
+- **Founder dilution is steep early:** Carta also finds median founding-team ownership drops from **56.2% after seed** to **36.1% at Series A** and **23% at Series B**. That is why the first equity split is not just "fairness"; it is the initial condition for every later financing round. [Carta Founder Ownership Report](https://assets.ctfassets.net/y88td1zx1ufe/5zYTlz3gdNzuFU7fQS5gjh/fbe271b0fbb5947e0223757d73254bb5/Founder_Ownership_Report.pdf)
+
+---
+
 ## Q&A
 
 **Q: How should co-founders actually think about dividing equity?**

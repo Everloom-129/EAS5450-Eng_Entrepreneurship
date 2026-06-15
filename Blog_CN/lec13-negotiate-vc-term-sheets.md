@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **条款清单标准化是有原因的：** NVCA 维护标准化的风险融资法律文件，让创始人和投资人不用每次都从零发明法律接口。这个 model-doc 生态就是 priced round 的 API 层。 [NVCA Model Legal Documents](https://nvca.org/model-legal-documents/)
+- **稀释很快会变成真实数字：** Carta 2025 年创始人股权报告基于 **45,000+ 家初创公司**，发现 priced seed 后创始团队持股中位数为 **56.2%**；到 Series A 下降到 **36.1%**，到 Series B 下降到 **23%**。每一份 term sheet 本质上都是一场 cap-table 仿真。 [Carta Founder Ownership Report](https://assets.ctfassets.net/y88td1zx1ufe/5zYTlz3gdNzuFU7fQS5gjh/fbe271b0fbb5947e0223757d73254bb5/Founder_Ownership_Report.pdf)
+
+---
+
 ## 问答
 
 **问：A轮条款清单中最重要的谈判条款是什么？**

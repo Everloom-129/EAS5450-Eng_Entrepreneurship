@@ -22,6 +22,13 @@ The Palm Finance case runs in parallel: how a company with genuinely innovative 
 
 ---
 
+## Statistics & Citations
+
+- **Open innovation scales the problem-solving surface area:** NASA's FY2019-FY2020 open innovation report says the agency had about **18,000 civil servants**, while open innovation expanded the community through challenges, prize competitions, hackathons, citizen science, and crowdsourcing. [NASA Open Innovation report](https://www.nasa.gov/wp-content/uploads/2022/01/fy1920openinnovationreport-final.pdf)
+- **The crowd is not a side channel:** NASA also states that **more than 80% of its funding** supports work solicited and awarded competitively, which makes external collaboration part of the operating model, not a PR layer. [NASA Open Innovation report](https://www.nasa.gov/wp-content/uploads/2022/01/fy1920openinnovationreport-final.pdf)
+
+---
+
 ## Q&A
 
 **Q: What is the practical difference between closed and open innovation?**

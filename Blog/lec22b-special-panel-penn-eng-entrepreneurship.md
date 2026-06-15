@@ -22,6 +22,13 @@ This wasn't a theory lecture. This was practitioners sharing what actually happe
 
 ---
 
+## Statistics & Citations
+
+- **This was a real Penn entrepreneurship event, not a generic AI panel:** Penn Today lists **Generative AI and Entrepreneurship** as a Penn event, grounding the lecture in the university's live entrepreneurship ecosystem rather than abstract trend-watching. [Penn Today event](https://penntoday.upenn.edu/events/generative-ai-and-entrepreneurship)
+- **AI venture funding is no longer niche:** Stanford's 2025 AI Index reports that U.S. private AI investment reached **$109.1B in 2024**, far above any other country. That is the financing backdrop behind every embodied-AI hardware conversation. [Stanford AI Index 2025](https://arxiv.org/abs/2504.07139)
+
+---
+
 ## Q&A
 
 **Q: For deep-tech hardware startups, how should founders think about early financing structure?**

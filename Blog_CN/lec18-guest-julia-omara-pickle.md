@@ -22,6 +22,13 @@ Pickle也是平台商业模式设计的大师课，这是最难构建的初创�
 
 ---
 
+## 数据与引用
+
+- **Pickle 的 marketplace 已经有实际密度：** Pickle 官网列出 **40 万+ 商品**、**4 万+ 衣橱**、**1 亿美元+ 零售价值被节省**，并覆盖全美。对 peer-to-peer fashion marketplace 来说，流动性本身就是产品。 [Pickle About](https://www.shoponpickle.com/about)
+- **浪费问题不是审美问题，而是吨位问题：** EPA 的纺织品数据报告显示，美国城市固体废弃物中 2018 年约产生 **1700 万吨纺织品**，其中约 **1130 万吨进入填埋场**。循环时尚本质上是对材料流问题的物流回应。 [EPA Textile Data](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data)
+
+---
+
 ## 问答
 
 **问：是什么驱使Julia从黑石转向时尚平台初创公司？**

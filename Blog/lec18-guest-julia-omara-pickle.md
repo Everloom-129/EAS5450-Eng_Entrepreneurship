@@ -22,6 +22,13 @@ Pickle is also a masterclass in marketplace business model design — the hardes
 
 ---
 
+## Statistics & Citations
+
+- **Pickle's marketplace has real density:** Pickle's own about page lists **400K+ products**, **40K+ closets**, **$100M+ retail value saved**, and nationwide availability. For a peer-to-peer fashion marketplace, liquidity is the product. [Pickle About](https://www.shoponpickle.com/about)
+- **The waste problem is not aesthetic; it is tonnage:** EPA's textile data reports that U.S. municipal solid waste included about **17 million tons of textiles generated in 2018**, with about **11.3 million tons landfilled**. Circular fashion is a logistics response to a materials-flow problem. [EPA Textile Data](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data)
+
+---
+
 ## Q&A
 
 **Q: What drove Julia from Blackstone to a fashion marketplace startup?**

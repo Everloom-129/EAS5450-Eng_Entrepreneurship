@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **研究基础：** 《创新者的 DNA》来自对创业者和高管的多年研究，并将创新行为拆成五种可训练的发现技能：联想、提问、观察、实验和社交。 [Innovator's DNA research origins](https://www.innovatorsdna.com/research-origins)
+- **管理学原始框架：** Dyer、Gregersen 和 Christensen 在 HBR 的文章把创新定义为可学习的行为模式，而不是某种神秘的创始人天赋。 [Harvard Business Review](https://hbr.org/2009/12/the-innovators-dna)
+
+---
+
 ## 问答
 
 **问：路易·阿加西斯与创业有何关系？**

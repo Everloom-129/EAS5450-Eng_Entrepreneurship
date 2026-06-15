@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **这是真实的宾大创业活动，不是泛泛的 AI 圆桌：** Penn Today 将 **Generative AI and Entrepreneurship** 列为宾大活动，这把本讲放回了学校真实的创业生态中，而不是抽象地追热点。 [Penn Today event](https://penntoday.upenn.edu/events/generative-ai-and-entrepreneurship)
+- **AI 风投已经不是小众赛道：** Stanford 2025 AI Index 报告称，2024 年美国私人 AI 投资达到 **1091 亿美元**，远高于其他国家。这就是每一次 embodied AI 硬件讨论背后的融资背景。 [Stanford AI Index 2025](https://arxiv.org/abs/2504.07139)
+
+---
+
 ## 问答
 
 **问：对于深度技术硬件初创公司，创始人应该如何思考早期融资结构？**

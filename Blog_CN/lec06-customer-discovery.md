@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **I-Corps 基准：** NSF I-Corps 把客户发现正式化为国家级创业训练方法，把访谈和证据收集纳入工程商业化流程。 [NSF I-Corps](https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps)
+- **为什么重要：** 客户发现有价值，正因为早期假设大多未经验证。这个过程是在大量资本投入之前，把市场判断改写成可测试假设。 [NSF I-Corps Teams](https://new.nsf.gov/funding/initiatives/i-corps/teams)
+
+---
+
 ## 问答
 
 **问：从潜在客户那里你究竟需要了解什么？**

@@ -22,6 +22,13 @@ Sirtris制药是这个案例：一家建立在关于sirtuins（去乙酰化酶�
 
 ---
 
+## 数据与引用
+
+- **监管就是产品路线图：** FDA 的药物审批流程把路径拆成发现 / 开发、临床前研究、临床研究、FDA 审查和上市后安全监测。生物技术创业公司优化的不只是分子，而是证据生成系统。 [FDA Drug Approval Process](https://www.fda.gov/drugs/information-consumers-and-patients-drugs/fda-drug-approval-process-infographic-horizontal)
+- **Sirtris 是“验证之前先估值”的警示牌：** 行业报道显示，2008 年 GSK 收购 Sirtris 的价格约为 **7.2 亿美元**；而 Sirtris 的平台仍然要面对 FDA 描述的艰难临床验证路径。 [Fierce Biotech: GSK buys Sirtris](https://www.fiercebiotech.com/biotech/gsk-buys-sirtris-for-720m)
+
+---
+
 ## 问答
 
 **问：FDA监管如何塑造生物技术和医疗技术初创公司的战略？**

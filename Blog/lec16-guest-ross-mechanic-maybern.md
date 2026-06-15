@@ -22,6 +22,13 @@ Fintech and alternative assets might seem niche, but the entrepreneurial pattern
 
 ---
 
+## Statistics & Citations
+
+- **Private-market operations are now software infrastructure:** Maybern describes itself as **"the operating system for modern fund finance"**, which is exactly the wedge: replace spreadsheet-heavy back-office workflows with structured, auditable systems. [Maybern About Us](https://www.maybern.com/about-us)
+- **The market is large enough for infrastructure bets:** BlackRock's Preqin deal was reported at **GBP 2.55B**, roughly **$3.2B**, showing that private-market data and operations tooling is now strategic infrastructure for asset managers. [MarketWatch: BlackRock to acquire Preqin](https://www.marketwatch.com/story/blackrock-to-acquire-data-provider-preqin-for-3-22-billion-98b05395)
+
+---
+
 ## Q&A
 
 **Q: What makes selling into financial services uniquely challenging for a startup?**

@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **市场规模语境：** 2023 年美国互联网广告收入达到 **2250 亿美元**。这提醒我：定价、渠道和定位已经是可测量系统，不只是创意练习。 [IAB Internet Advertising Revenue Report](https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2023/)
+- **框架引用：** 4P 模型仍然有用，因为它迫使创始人同时连接产品、价格、渠道和推广，而不是把 marketing 简化成“以后再投广告”。 [Marketing Mix 4P diagram](https://commons.wikimedia.org/wiki/File:Marketing_Mix_4P.svg)
+
+---
+
 ## 问答
 
 **问：5C是什么？为何必须在4P之前完成？**

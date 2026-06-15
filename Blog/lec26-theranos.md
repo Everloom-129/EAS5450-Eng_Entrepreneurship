@@ -22,6 +22,13 @@ This is the most important case study in the course, because it illustrates wher
 
 ---
 
+## Statistics & Citations
+
+- **The fraud scale was quantified by regulators:** The SEC charged Theranos, Elizabeth Holmes, and Sunny Balwani with raising **more than $700M** from investors through false or misleading claims about the company's technology, business, and financial performance. [SEC Theranos press release](https://www.sec.gov/newsroom/press-releases/2018-41)
+- **The operating claim collapsed under verification:** The SEC said Theranos claimed its analyzer could perform comprehensive blood tests from finger drops, but in reality could complete only a small number of tests while most patient testing used modified or standard commercial analyzers. That is the difference between demo theater and validated product architecture. [SEC Theranos press release](https://www.sec.gov/newsroom/press-releases/2018-41)
+
+---
+
 ## Q&A
 
 **Q: What made Theranos so hard to see through, even for sophisticated investors?**

@@ -22,6 +22,13 @@ By 2005, LinkedIn had built something genuinely valuable. Professionals were usi
 
 ---
 
+## Statistics & Citations
+
+- **LinkedIn S-1 anchor:** LinkedIn's registration statement reports the financial and user metrics behind the IPO case, including revenue growth and member scale. [LinkedIn S-1](https://www.sec.gov/Archives/edgar/data/1271024/000119312511016022/ds1.htm)
+- **Reading financial statements:** the SEC filing format makes the point concrete: balance sheet, income statement, cash flow statement, and risk factors are linked views of the same company, not separate homework tables. [SEC EDGAR filing detail](https://www.sec.gov/Archives/edgar/data/1271024/000119312511016022/)
+
+---
+
 ## Q&A
 
 **Q: Premium Bundle vs. User Contact Fees — which is the right call and why?**

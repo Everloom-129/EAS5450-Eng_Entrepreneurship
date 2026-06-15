@@ -22,6 +22,13 @@ GenapSys is the case study: a genomics startup that tried to disrupt the sequenc
 
 ---
 
+## Statistics & Citations
+
+- **Sequencing cost is the disruption curve:** NHGRI tracks DNA sequencing cost per megabase and per human genome, and explicitly notes a sudden outpacing of Moore's Law beginning in **January 2008** when sequencing centers moved to next-generation platforms. [NHGRI DNA Sequencing Costs](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data)
+- **Biology has engineering constants too:** NHGRI's cost-per-genome model assumes a **3,000 Mb human genome** and different coverage levels by platform, including **30x coverage** for Illumina/SOLiD-style next-generation sequencing. The business model rides on these technical assumptions. [NHGRI DNA Sequencing Costs](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data)
+
+---
+
 ## Q&A
 
 **Q: What is the core mechanism of disruptive innovation, and how is it different from "sustaining innovation"?**

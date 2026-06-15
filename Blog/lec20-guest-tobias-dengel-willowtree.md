@@ -22,6 +22,13 @@ Tobias is also the author of *The Sound of the Future* — a Wall Street Journal
 
 ---
 
+## Statistics & Citations
+
+- **WillowTree scaled into a strategic acquisition:** TELUS International's SEC-filed acquisition announcement says WillowTree had **1,000+ digital strategists, designers, engineers, and project managers**, had shipped **700+ digital products**, and produced about **$140M of 2021 revenue**. [TELUS/WillowTree SEC exhibit](https://www.sec.gov/Archives/edgar/data/868675/000110465923001302/tm231725d1_ex99-1.htm)
+- **Services scale through trust, not just headcount:** The same filing says TELUS International grew to **70,000+ team members**, a global AI community of **1M+ trained annotators**, and **69 delivery centers and studios in 30 countries**. That is what enterprise delivery capacity looks like when it becomes an acquisition thesis. [TELUS/WillowTree SEC exhibit](https://www.sec.gov/Archives/edgar/data/868675/000110465923001302/tm231725d1_ex99-1.htm)
+
+---
+
 ## Q&A
 
 **Q: What lessons from WillowTree apply to a technical founder building a company in 2025?**

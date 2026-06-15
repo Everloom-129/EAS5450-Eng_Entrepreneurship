@@ -22,6 +22,13 @@ Jeff Hawkins built the PalmPilot and sold nearly one million units in its first 
 
 ---
 
+## Statistics & Citations
+
+- **Palm launch velocity:** contemporary reporting described Palm/Palm III as having shipped **well over 1 million units in the first 18 months** of the business. That is what "focus beats budget" looked like in units, not slogans. [Wired](https://www.wired.com/1998/10/report-ms-bid-to-buy-palm-os/)
+- **Product constraints:** the PalmPilot line shipped with tiny memory footprints by modern standards, which made its narrow product definition a technical necessity, not only a design taste. [PalmPilot overview](https://en.wikipedia.org/wiki/PalmPilot)
+
+---
+
 ## Q&A
 
 **Q: Why did competitors with 10x the resources fail while Palm succeeded?**

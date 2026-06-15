@@ -22,6 +22,13 @@ Dropbox is the canonical lean startup story. Houston entered a crowded market â€
 
 ---
 
+## Statistics & Citations
+
+- **Dropbox scale check:** Dropbox's S-1 shows how an MVP-driven company eventually became a public-market SaaS business, with user scale and paid conversion becoming the key operating metrics. [Dropbox S-1](https://www.sec.gov/Archives/edgar/data/1467623/000119312518055809/d451946ds1.htm)
+- **User growth anchor:** public history records Dropbox passing **1 million registered users in 2009**, then **500 million in 2016** and **700 million in 2021**. The early demo was not the company; it was the cheapest possible test of demand. [Dropbox user growth](https://en.wikipedia.org/wiki/Dropbox#User_growth)
+
+---
+
 ## Q&A
 
 **Q: What are the four cognitive biases entrepreneurs must guard against, and how did Dropbox handle each?**

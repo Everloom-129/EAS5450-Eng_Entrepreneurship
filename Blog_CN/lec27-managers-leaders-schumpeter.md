@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **领导力问题会出现在劳动力数据里：** Gallup 报告称，2024 年美国员工敬业度为 **31%**，同时 **17%** 员工主动不敬业。如果管理是局部控制回路，敬业度就是其中一个传感器读数。 [Gallup employee engagement](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
+- **熊彼特提供创业视角：** Econlib 的熊彼特传记强调，他将资本主义看作由创新和创业式扰动驱动的过程。所以“领导者 vs. 管理者”重要，是因为领导者要决定什么应该被创造性破坏。 [Econlib: Joseph Schumpeter](https://www.econlib.org/library/Enc/bios/Schumpeter.html)
+
+---
+
 ## 问答
 
 **问：扎勒兹尼克对管理者与领导者的核心区分是什么？**

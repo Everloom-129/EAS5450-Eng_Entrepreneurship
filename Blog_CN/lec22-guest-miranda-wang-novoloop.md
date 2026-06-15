@@ -22,6 +22,13 @@ Miranda Wang是Novoloop（前身为Biocellection）的联合创始人兼CEO，No
 
 ---
 
+## 数据与引用
+
+- **塑料市场是系统问题：** OECD 报告称，全球塑料生产和使用在 2020 年达到 **4.35 亿吨**，高于 2000 年的 **2.34 亿吨**。如果没有额外行动，到 2040 年生产、使用和废弃量预计将比 2020 年上升 **70%**。 [OECD Plastics](https://www.oecd.org/en/topics/plastics.html)
+- **碳排放也进入单位经济模型：** OECD 估计塑料生命周期在 2020 年排放 **18 亿吨 CO2e**，在现行政策下到 2040 年可能达到每年 **28 亿吨 CO2e**。Novoloop 的再生材料 thesis 就嵌在这套碳与材料核算系统里。 [OECD Plastics](https://www.oecd.org/en/topics/plastics.html)
+
+---
+
 ## 问答
 
 **问：Novoloop如何定位自己，是材料公司、回收公司还是技术公司？**

@@ -22,6 +22,13 @@ Harvard's *Bootstrap Finance* makes the case that many companies — particularl
 
 ---
 
+## Statistics & Citations
+
+- **VC market reality check:** The PitchBook-NVCA Venture Monitor is the quarterly benchmark I would use before claiming that venture money is "available" or "tight." Its Q1 2026 page reports **$267.2B in U.S. VC deal value**, but also says removing the five largest deals cuts deal value by **73.2%** - a clean reminder that startup finance is power-law finance. [PitchBook-NVCA Venture Monitor](https://nvca.org/pitchbook-nvca-venture-monitor/)
+- **Bootstrapping is an official funding path, not a consolation prize:** The SBA lists **self-funding, investors, and loans** as distinct funding options, and defines bootstrapping as using personal resources such as savings, family/friends capital, or retirement funds. That maps exactly onto the control-vs-risk tradeoff in this lecture. [SBA: Fund your business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business)
+
+---
+
 ## Q&A
 
 **Q: When should a startup bootstrap vs. raise venture capital?**

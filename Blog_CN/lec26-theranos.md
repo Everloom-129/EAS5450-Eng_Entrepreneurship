@@ -22,6 +22,13 @@ Theranos由伊丽莎白·霍姆斯于2003年创立，她从斯坦福大学退学
 
 ---
 
+## 数据与引用
+
+- **欺诈规模由监管机构量化：** SEC 指控 Theranos、Elizabeth Holmes 和 Sunny Balwani 通过关于技术、业务和财务表现的虚假或误导性声明，从投资者处募集 **超过 7 亿美元**。 [SEC Theranos press release](https://www.sec.gov/newsroom/press-releases/2018-41)
+- **运营声明在验证面前坍塌：** SEC 表示 Theranos 声称其分析仪可以用指尖血完成全面血液检测，但实际上只能完成少量测试，大多数患者检测使用的是改造过或标准的商业分析仪。这就是 demo theater 和经过验证的产品架构之间的差别。 [SEC Theranos press release](https://www.sec.gov/newsroom/press-releases/2018-41)
+
+---
+
 ## 问答
 
 **问：是什么让Theranos如此难以看穿，即便对于老练的投资者也是如此？**

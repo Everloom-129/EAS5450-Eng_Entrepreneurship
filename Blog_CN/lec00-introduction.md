@@ -24,6 +24,13 @@ EAS5450工程创业学建立在一个简单的前提之上：**技术专长是�
 
 ---
 
+## 数据与引用
+
+- **创业存活率基线：** 根据与 BLS 数据相关的统计，2019 年那一批美国新企业大约只有一半在五年后仍在运营。创业不是先靠情绪燃烧，而是先面对残酷的 base rate。 [Axios 对 BLS 数据的总结](https://www.axios.com/2025/11/04/new-business-survival-rates-map)
+- **课程语境：** EAS 5450 明确围绕阅读、案例和作业组织，而不是单纯听课式输入。这和课程训练的核心一致：在不确定性下做判断。 [Penn Engineering Entrepreneurship](https://eent.seas.upenn.edu/academics/eas-5450/)
+
+---
+
 ## 问答
 
 **问：什么是"工程创业"，它与普通"创业"有何不同？**

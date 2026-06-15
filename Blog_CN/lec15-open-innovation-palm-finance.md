@@ -22,6 +22,13 @@ Palm融资案例与之并行：一家拥有真正创新技术（PalmPilot）的�
 
 ---
 
+## 数据与引用
+
+- **开放式创新扩大了解题面积：** NASA FY2019-FY2020 开放式创新报告提到 NASA 约有 **18,000 名公务员**，而开放式创新通过挑战赛、奖金竞赛、黑客松、公民科学和众包，把问题求解社区扩展到机构边界之外。 [NASA Open Innovation report](https://www.nasa.gov/wp-content/uploads/2022/01/fy1920openinnovationreport-final.pdf)
+- **外部社区不是旁路：** NASA 同时指出，其 **80% 以上资金** 支持通过竞争性征集和授予完成的工作。这说明外部协作不是 PR 层，而是 operating model 的一部分。 [NASA Open Innovation report](https://www.nasa.gov/wp-content/uploads/2022/01/fy1920openinnovationreport-final.pdf)
+
+---
+
 ## 问答
 
 **问：封闭式创新与开放式创新在实践中有何不同？**

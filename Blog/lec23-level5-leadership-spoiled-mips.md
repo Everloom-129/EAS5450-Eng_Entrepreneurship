@@ -22,6 +22,13 @@ Jim Collins' *Level 5 Leadership* challenges the celebrity CEO narrative. *The S
 
 ---
 
+## Statistics & Citations
+
+- **Level 5 leadership is an operating concept:** Jim Collins defines Level 5 leadership as the combination of personal humility and professional will. I read that as a control-system design principle: low ego noise, high execution gain. [Jim Collins: Level 5 Leadership](https://www.jimcollins.com/concepts/level-five-leadership.html)
+- **Management quality shows up in engagement data:** Gallup reported U.S. employee engagement fell to **31% in 2024**, a 10-year low, with **17% actively disengaged**. Culture is measurable enough that leaders cannot hide behind vibes. [Gallup employee engagement](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
+
+---
+
 ## Q&A
 
 **Q: What distinguishes a Level 5 Leader from a "charismatic visionary" — and why does it matter for startups?**

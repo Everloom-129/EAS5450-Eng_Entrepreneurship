@@ -22,6 +22,13 @@ The reason: a new product isn't fully defined yet. Your customer's use case, obj
 
 ---
 
+## Statistics & Citations
+
+- **Framework source:** Mark Leslie's sales learning curve separates startup sales into learning stages before full-scale execution, which is why hiring ahead of repeatability can burn cash instead of accelerating revenue. [Sequoia: The Sales Learning Curve](https://sequoiacap.com/article/the-sales-learning-curve/)
+- **Operational takeaway:** the core metric is not headcount; it is whether customer acquisition, sales motion, and unit economics have become repeatable enough to scale. [Stanford eCorner: Mark Leslie](https://ecorner.stanford.edu/contributor/mark-leslie/)
+
+---
+
 ## Q&A
 
 **Q: What is the Sales Learning Curve, and how is it different from the Manufacturing Learning Curve?**

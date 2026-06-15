@@ -22,6 +22,13 @@ The synthesis: there are fundamentally two orientations to organizational life. 
 
 ---
 
+## Statistics & Citations
+
+- **The leadership problem is visible in labor data:** Gallup reported U.S. employee engagement at **31% in 2024**, with **17% actively disengaged**. If management is the local control loop, engagement is one of the sensor readings. [Gallup employee engagement](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
+- **Schumpeter gives the entrepreneurship lens:** Econlib's Schumpeter biography centers his idea of capitalism as a process driven by innovation and entrepreneurial disruption. That is why "leader vs. manager" matters: leaders decide what should be creatively destroyed. [Econlib: Joseph Schumpeter](https://www.econlib.org/library/Enc/bios/Schumpeter.html)
+
+---
+
 ## Q&A
 
 **Q: What is Zaleznik's core distinction between managers and leaders?**

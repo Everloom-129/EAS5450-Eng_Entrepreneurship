@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **Dell 增长锚点：** Dell 1990 年代的增长表显示收入从数亿美元扩张到数百亿美元；这是 direct model 和供应链机器留下的财务影子。 [Dell historical growth](https://en.wikipedia.org/wiki/Dell#History)
+- **画布来源：** Strategyzer 的商业模式画布仍然是最清晰的一页纸地图，用来连接客户细分、渠道、收入流、关键活动和成本结构。 [Strategyzer Business Model Canvas](https://www.strategyzer.com/library/the-business-model-canvas)
+
+---
+
 ## 问答
 
 **问：商业模式画布是什么？为何它比传统商业计划更有用？**

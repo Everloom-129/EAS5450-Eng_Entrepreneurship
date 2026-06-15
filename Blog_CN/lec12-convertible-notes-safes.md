@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **SAFE 的起点：** Y Combinator 说明它在 **2013 年底** 引入 SAFE，作为早期融资的简化工具；随后在 **2018 年** 发布 post-money SAFE，让出售的所有权比例更容易计算。 [YC Safe Financing Documents](https://www.ycombinator.com/documents)
+- **文件设计很重要：** YC 目前提供 **三种美国 post-money SAFE 版本**：有估值上限 / 无折扣、有折扣 / 无估值上限，以及无上限 MFN。法律文件在这里就像电路拓扑：电流开始流之前，结构已经决定很多东西。 [YC Safe Financing Documents](https://www.ycombinator.com/documents)
+
+---
+
 ## 问答
 
 **问：可转换票据与SAFE的核心区别是什么？**

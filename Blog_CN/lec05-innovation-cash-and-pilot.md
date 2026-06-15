@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **Palm 的发布速度：** 当时的报道提到 Palm / Palm III 在业务启动的前 **18 个月** 出货量已经 **远超 100 万台**。所谓“专注胜过预算”，最后要落到 unit 上，而不是口号上。 [Wired](https://www.wired.com/1998/10/report-ms-bid-to-buy-palm-os/)
+- **产品约束：** PalmPilot 系列以今天看极小的内存配置出货，所以它的窄产品定义不只是审美选择，也是技术约束下的必然。 [PalmPilot overview](https://en.wikipedia.org/wiki/PalmPilot)
+
+---
+
 ## 问答
 
 **问：为何拥有十倍资源的竞争对手失败了，而Palm却成功了？**

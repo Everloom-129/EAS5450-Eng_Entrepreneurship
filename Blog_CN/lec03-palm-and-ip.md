@@ -22,6 +22,13 @@ PalmPrint是霍金斯的手写识别算法（后来演变为Graffiti），是一
 
 ---
 
+## 数据与引用
+
+- **Palm 的 IP 锚点：** Palm 手写输入相关专利 **US6295372B1** 的记录展示了申请和授权信息，是软件 / 交互界面 IP 变成战略货币的具体例子。 [Google Patents](https://patents.google.com/patent/US6295372B1/en)
+- **专利时钟：** 美国 utility patent 的期限通常从申请日起计算，一般是 **20 年**，并受调整和维持规则影响。把专利用作融资和谈判资产时，这个倒计时非常关键。 [USPTO patent term calculator](https://www.uspto.gov/patents/laws/patent-term-calculator)
+
+---
+
 ## 问答
 
 **问：为核心算法申请专利的真正优势是什么？**

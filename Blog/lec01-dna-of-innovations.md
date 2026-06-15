@@ -22,6 +22,13 @@ This first lecture sets the foundation for the entire course: why observing care
 
 ---
 
+## Statistics & Citations
+
+- **Research base:** the Innovator's DNA work is built from multi-year research into entrepreneurs and executives, then organized into five discovery skills: associating, questioning, observing, experimenting, and networking. [Innovator's DNA research origins](https://www.innovatorsdna.com/research-origins)
+- **Original management framing:** Dyer, Gregersen, and Christensen's HBR article frames innovation as a learnable behavioral pattern, not a mystical founder trait. [Harvard Business Review](https://hbr.org/2009/12/the-innovators-dna)
+
+---
+
 ## Q&A
 
 **Q: What does Louis Agassiz have to do with entrepreneurship?**

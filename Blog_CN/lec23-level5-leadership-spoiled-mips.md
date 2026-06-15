@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **第五级领导力是运营概念：** Jim Collins 将第五级领导力定义为个人谦逊与专业意志的结合。我把它看成控制系统设计原则：低 ego noise，高 execution gain。 [Jim Collins: Level 5 Leadership](https://www.jimcollins.com/concepts/level-five-leadership.html)
+- **管理质量会反映在敬业度数据里：** Gallup 报告称，2024 年美国员工敬业度降至 **31%**，为 10 年低点，同时 **17%** 员工处于主动不敬业状态。文化已经足够可测，领导者不能躲在“感觉还行”后面。 [Gallup employee engagement](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
+
+---
+
 ## 问答
 
 **问：第五级领导者与"充满个人魅力的愿景家"有何区别？为何这对初创公司重要？**

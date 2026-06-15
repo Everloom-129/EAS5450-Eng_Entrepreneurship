@@ -22,6 +22,13 @@ The Vermeer case is the perfect live-fire example. A tiny startup with barely $5
 
 ---
 
+## Statistics & Citations
+
+- **Vermeer/FrontPage scale check:** Microsoft reported that FrontPage surpassed **5 million users** and that its user base grew **more than 40%** during the prior year. That is the adoption curve behind the case, not just a neat acquisition story. [Microsoft press release](https://news.microsoft.com/source/2001/01/23/microsoft-frontpage-surpasses-5-million-usersleading-web-development-tool-user-base-grows-more-than-40-percent-during-last-year/)
+- **Strategic interpretation:** the lesson maps cleanly to Geoffrey Moore's crossing-the-chasm logic: small companies win when they define a narrow beachhead and dominate it before the incumbent wakes up. [Chasm Institute](https://www.chasminstitute.com/)
+
+---
+
 ## Q&A
 
 **Q: What's the difference between a "device" and a "complete product," and why does it matter?**

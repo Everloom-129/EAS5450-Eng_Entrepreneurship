@@ -22,6 +22,13 @@ Ross Mechanic是Maybern的联合创始人兼CEO，Maybern是一个为另类资�
 
 ---
 
+## 数据与引用
+
+- **私募市场运营正在变成软件基础设施：** Maybern 把自己描述为 **"the operating system for modern fund finance"**。这正是它的切入口：用结构化、可审计的系统替代 spreadsheet-heavy 的后台流程。 [Maybern About Us](https://www.maybern.com/about-us)
+- **这个市场大到足以支撑基础设施型赌注：** BlackRock 收购 Preqin 的交易被报道为 **25.5 亿英镑**，约 **32 亿美元**。这说明私募市场数据和运营工具已经成为资产管理公司的战略基础设施。 [MarketWatch: BlackRock to acquire Preqin](https://www.marketwatch.com/story/blackrock-to-acquire-data-provider-preqin-for-3-22-billion-98b05395)
+
+---
+
 ## 问答
 
 **问：向金融服务行业销售对于初创公司来说有何独特挑战？**

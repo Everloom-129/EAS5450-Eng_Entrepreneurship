@@ -22,6 +22,13 @@ N12技术是这个案例：一家纳米复合材料初创公司，经历多个�
 
 ---
 
+## 数据与引用
+
+- **N12 攻击的是复合材料里的真实瓶颈：** 公开的 NanoStitch 材料将该技术描述为垂直排列碳纳米管增强，用于提升复合结构的层间性能。创业问题不是“做一种很酷的材料”，而是“证明材料升级能穿过航空航天级 adoption friction”。 [N12 NanoStitch technical handout](https://www.compositesworld.com/cdn/cms/FM2016-N12-NanoStitch.pdf)
+- **物理 case 有可测量的 stakes：** 一项公开 CNT-veil 复合材料研究报告称，使用约 **30 微米** 的连续碳纳米管 veil，可使 Mode-I fracture toughness 提升 **60%**。这给了层间增强为什么重要一个量化锚点，甚至还没谈文化和规模化。 [CNT veil composite study](https://arxiv.org/abs/1905.09080)
+
+---
+
 ## 问答
 
 **问：在组织意义上，"文化"是什么？为何在扩张过程中如此难以维护？**

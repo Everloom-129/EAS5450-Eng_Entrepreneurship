@@ -22,6 +22,13 @@ The company's core technology, **Lifecycling™**, is a process for breaking dow
 
 ---
 
+## Statistics & Citations
+
+- **The plastics market is a systems problem:** OECD reports that global plastics production and use reached **435 million tonnes in 2020**, up from **234 million tonnes in 2000**. Without additional action, production, use, and waste are projected to rise **70% by 2040** versus 2020. [OECD Plastics](https://www.oecd.org/en/topics/plastics.html)
+- **Climate links are part of the unit economics:** OECD estimates the plastics lifecycle emitted **1.8 GtCO2e** in 2020 and could reach **2.8 GtCO2e annually by 2040** under current policies. Novoloop's recycled-materials thesis sits inside this carbon/materials accounting system. [OECD Plastics](https://www.oecd.org/en/topics/plastics.html)
+
+---
+
 ## Q&A
 
 **Q: How does Novoloop position itself — as a materials company, a recycling company, or a technology company?**

@@ -22,6 +22,13 @@
 
 ---
 
+## 数据与引用
+
+- **Sun 的结局是战略交易，不是安静退场：** Oracle 宣布以每股 **9.50 美元现金** 收购 Sun，交易估值约 **74 亿美元**，扣除 Sun 的现金和债务后约 **56 亿美元**。 [Oracle Buys Sun](https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html)
+- **交易 thesis 是整合：** Oracle 估计 Sun 将在第一年为 non-GAAP operating profit 增加 **15 亿美元以上**，第二年增加 **20 亿美元以上**。这就是激励计划课程的财务版本：战略、人和运营模型必须互相增强。 [Oracle Buys Sun](https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html)
+
+---
+
 ## 问答
 
 **问：如何实际落实"先人后事"？好的招聘在实践中是什么样的？**

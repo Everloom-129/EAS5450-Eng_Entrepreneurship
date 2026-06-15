@@ -24,6 +24,13 @@ NanoGene案例将这一切具象化：一家生物技术初创公司，正在应
 
 ---
 
+## 数据与引用
+
+- **平均分股权在上升，但不是默认真理：** Carta 创始人股权报告显示，2024 年成立的双创始人团队中，**45.9%** 选择平均分配股权，高于 2015 年的 **31.5%**。趋势更民主，但远远不是自动答案。 [Carta Founder Ownership Report](https://assets.ctfassets.net/y88td1zx1ufe/5zYTlz3gdNzuFU7fQS5gjh/fbe271b0fbb5947e0223757d73254bb5/Founder_Ownership_Report.pdf)
+- **创始人早期稀释非常陡：** Carta 还发现，创始团队持股中位数从 seed 后的 **56.2%** 下降到 Series A 的 **36.1%**，再到 Series B 的 **23%**。所以第一次股权分配不只是“公平问题”，而是后续每一轮融资的初始条件。 [Carta Founder Ownership Report](https://assets.ctfassets.net/y88td1zx1ufe/5zYTlz3gdNzuFU7fQS5gjh/fbe271b0fbb5947e0223757d73254bb5/Founder_Ownership_Report.pdf)
+
+---
+
 ## 问答
 
 **问：联合创始人实际上应该如何思考股权分配？**

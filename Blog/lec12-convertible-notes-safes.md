@@ -22,6 +22,13 @@ This is one of the most practically important lectures of the semester. If you'r
 
 ---
 
+## Statistics & Citations
+
+- **SAFE origin point:** Y Combinator says it introduced the **SAFE in late 2013** as a simple instrument for early-stage fundraising, then released the **post-money SAFE in 2018** to make ownership sold easier to calculate. [YC Safe Financing Documents](https://www.ycombinator.com/documents)
+- **Document design matters:** YC currently provides **three U.S. post-money SAFE versions**: valuation cap/no discount, discount/no valuation cap, and uncapped MFN. That is the legal equivalent of choosing a circuit topology before the current starts flowing. [YC Safe Financing Documents](https://www.ycombinator.com/documents)
+
+---
+
 ## Q&A
 
 **Q: What's the core difference between a convertible note and a SAFE?**
