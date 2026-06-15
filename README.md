@@ -11,7 +11,7 @@ Please check [here](https://everloom-129.github.io/EAS5450-Eng_Entrepreneurship/
 
 ## Copyright & License
 
-© 2025 Tony (Jie) Wang. All rights reserved for original content.
+© 2025 Jie Wang. All rights reserved for original content.
 
 Original writing in this repository — lecture notes, blog posts, and essays — is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).

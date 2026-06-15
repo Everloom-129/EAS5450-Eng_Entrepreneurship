@@ -195,7 +195,7 @@ export default function Home() {
         </p>
 
         <div className="disclaimer">
-          <strong>© 2025 Tony (Jie) Wang.</strong> Original writing (lecture notes, blog posts, essays) is licensed under{' '}
+          <strong>© 2025 Jie Wang.</strong> Original writing (lecture notes, blog posts, essays) is licensed under{' '}
           <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>.
           Free to share and adapt for non-commercial, educational purposes with attribution.
           <br /><br />
